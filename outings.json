@@ -1,0 +1,84 @@
+[
+    {
+        "title": "Lämmerenhütte",
+        "type": "skitour",
+        "date": "2020-02-15",
+        "tracks": [
+            "data/2020-02-15_Lämmerenhütte.gpx"
+        ],
+        "photoUrl": "https://stefalie.smugmug.com/2020/2020-02-16-Wildstrubel",
+        "stravaUrl": "https://www.strava.com/activities/3106461613"
+    },
+    {
+        "title": "Wildstrubel",
+        "type": "skitour",
+        "date": "2020-02-16",
+        "tracks": [
+            "data/2020-02-16_Wildstrubel.gpx"
+        ],
+        "photoUrl": "https://stefalie.smugmug.com/2020/2020-02-16-Wildstrubel",
+        "stravaUrl": "https://www.strava.com/activities/3106461659"
+    },
+    {
+        "title": "Mutthornhütte",
+        "type": "hochtour",
+        "date": "2020-07-27",
+        "tracks": [
+            "data/2020-07-27_Mutthornhütte.gpx"
+        ],
+        "photoUrl": "https://stefalie.smugmug.com/2020/2020-07-28-Mutthornhütte",
+        "stravaUrl": "https://www.strava.com/activities/3828378558"
+    },
+    {
+        "title": "Wätterhore",
+        "type": "hochtour",
+        "date": "2020-07-28",
+        "tracks": [
+            "data/2020-07-28_Wätterhore.gpx"
+        ],
+        "photoUrl": "https://stefalie.smugmug.com/2020/2020-07-28-Mutthornhütte",
+        "stravaUrl": "https://www.strava.com/activities/3828379046"
+    },
+    {
+        "title": "Federispitz",
+        "type": "hike",
+        "date": "2020-11-17",
+        "tracks": [
+            "data/2020-11-17_Federispitz.gpx"
+        ],
+        "photoUrl": "https://stefalie.smugmug.com/2020/2020-11-17-Federispitz",
+        "stravaUrl": "https://www.strava.com/activities/4351741626"
+    },
+    {
+        "title": "Muttenstock",
+        "type": "climb",
+        "date": "2020-11-11",
+        "points": [
+            {
+                "lat": 46.84999,
+                "long": 9.04579
+            }
+        ],
+        "photoUrl": "https://stefalie.smugmug.com/asdf",
+        "stravaUrl": "https://www.strava.com",
+        "note": "hello world"
+    },
+    {
+        "title": "Muttenstock",
+        "type": "climb",
+        "date": "2020-11-11",
+        "points": [
+            {
+                "lat": 46.83551,
+                "long": 9.01546
+            },
+            {
+                "lat": 46.85044,
+                "long": 9.01546
+            }
+        ],
+        "photoUrl": "https://stefalie.smugmug.com/asdf",
+        "stravaUrl": "https://www.strava.com",
+        "note": "hello world"
+    }
+]
