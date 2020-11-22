@@ -67,7 +67,7 @@ template_style = '''
 # to hide it. Instead we put the name/title into the description.
 template_placemark = '''
 <Placemark>
-	<styleUrl>#{activity_type}</styleUrl>
+	<styleUrl>#{style_name}</styleUrl>
 	<description><![CDATA[{description}]]></description>
 {geometry}
 </Placemark>
@@ -208,7 +208,7 @@ def generate_placemark(outing):
         geom = template_multigeometry.format(geometries=geom)
     geom = indent(geom, 1)
 
-    return template_placemark.format(activity_type=activity_type, description=desc, geometry=geom)
+    return template_placemark.format(style_name=activity_type, description=desc, geometry=geom)
 kml_placemarks = "\n".join(map(generate_placemark, outings))
 
 kml_styles = indent(kml_styles, 2)

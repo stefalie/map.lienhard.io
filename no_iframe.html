@@ -19,7 +19,7 @@ body {
 		<script src="//code.jquery.com/jquery-3.5.1.min.js"></script>
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
 		<div id="map"></div>
-		<script>
+		<script id="rendered-js">
 let map = new ga.Map({
 	target: 'map',
 	view: new ol.View({
@@ -29,13 +29,13 @@ let map = new ga.Map({
 });
 
 // Create a background/map layer.
-let layer_bg = ga.layer.create('ch.swisstopo.pixelkarte-farbe');
+let layer_bg = ga.layer.create("ch.swisstopo.pixelkarte-farbe");
 map.addLayer(layer_bg);
 
 // Add KML layer.
 let layer_outings = new ol.layer.Vector({
 	source: new ol.source.Vector({
-		url: 'map.lienhard.io.kml',
+		url: "/map.lienhard.io.kml",
 		format: new ol.format.KML({
 			projection: 'EPSG:21781'
 		})

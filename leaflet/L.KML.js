@@ -268,6 +268,10 @@ L.Util.extend(L.KML, {
       }
     }
 
+    // HACK: Since geo admin doesn't let us hide the <name>s of icons, we didn't
+    // set any in the .kml file.
+    name = "Outing Information";
+
     if (name) {
       layer.bindPopup('<h2>' + name + '</h2>' + descr, { className: 'kml-popup'});
     }
