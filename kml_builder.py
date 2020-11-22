@@ -1,9 +1,14 @@
 from datetime import date
 import base64
 import gpxpy
+import numpy as np
 import json
+import rdp
 import re
-import shutil
+
+# Required Python packages:
+# - gpxpy
+# - rdp
 
 # TODO: Create s separate kml file for every year (or have a separate .json per year).
 # TODO: Validate URLs to photos and tracks.
@@ -16,6 +21,8 @@ ouptut_kml_file = "map.lienhard.io.kml"
 gpx_data_dir = "data/"
 photo_base_url = "https://stefalie.smugmug.com/"
 strava_base_url = "https://www.strava.com/activities/"
+
+rdp_epsilon = 0.0003
 
 line_width = 8
 marker_icon_size = 48
@@ -119,6 +126,17 @@ title_fmt = "(\S+?)"  # Anything but whitespace
 multi_track_fmt = "(?:__(\d))?"
 track_file_format = f"^{date_fmt}__{type_fmt}__{title_fmt}{multi_track_fmt}.gpx$"
 
+# Taking from https://github.com/Andrii-D/optimize-gpx/blob/master/optimize-gpx.py
+# but without splitting segments and without elevation correction (shouldn't be
+# necessary for the data from Garmin/Strava).
+def optimize_segment_rdp(seg):
+    result = gpxpy.gpx.GPXTrackSegment()
+    arr = np.array(list(map(lambda p: [p.latitude, p.longitude], seg.points)))
+    mask = rdp.rdp(arr, algo="iter", return_mask=True, epsilon=rdp_epsilon)
+    parr = np.array(seg.points)
+    result.points = list(parr[mask])
+    return result
+
 def generate_placemark(outing):
     num_points = len(outing["points"]) if ("points" in outing) else 0
     num_tracks = len(outing["tracks"]) if ("tracks" in outing) else 0
@@ -197,7 +215,9 @@ def generate_placemark(outing):
                    (len(gpx.routes) == 0)), f"We expect exactly 1 track per gpx file: {gpx_file_name}"
 
             # Concat all points in all segments
-            all_points = [p for s in gpx.tracks[0].segments for p in s.points]
+            assert(len(gpx.tracks[0].segments) == 1)
+            #all_points = [p for s in gpx.tracks[0].segments for p in s.points]
+            all_points = optimize_segment_rdp(gpx.tracks[0].segments[0]).points
             coords = " ".join(map(lambda p : template_coordinate.format(long=p.longitude, lat=p.latitude), all_points))
             return template_linestring.format(coordinates=coords)
         geom += "\n".join(map(generate_linestring, outing["tracks"]))
