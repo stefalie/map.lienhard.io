@@ -22,7 +22,7 @@ gpx_data_dir = "data/"
 photo_base_url = "https://stefalie.smugmug.com/"
 strava_base_url = "https://www.strava.com/activities/"
 
-rdp_epsilon = 0.0003
+rdp_epsilon = 0.0002
 
 line_width = 8
 marker_icon_size = 48
@@ -65,6 +65,7 @@ template_style = '''
 		<Icon>
 			<href>{icon_url}</href>
 		</Icon>
+		<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 	</IconStyle>
 </Style>
 '''.strip()
@@ -137,6 +138,11 @@ def optimize_segment_rdp(seg):
     result.points = list(parr[mask])
     return result
 
+# Put elements that we visited already into sets to check that we don't have duplicates.
+encountered_titles = set()
+encountered_dates = set()
+encountered_strava_urls = set()
+
 def generate_placemark(outing):
     num_points = len(outing["points"]) if ("points" in outing) else 0
     num_tracks = len(outing["tracks"]) if ("tracks" in outing) else 0
@@ -168,6 +174,11 @@ def generate_placemark(outing):
     if "title" in outing:
         title = outing["title"]
 
+    assert(title not in encountered_titles), f"Already encountered title: {title}"
+    assert(date_str not in encountered_dates), f"Already encountered date: {date_str}"
+    encountered_titles.add(title)
+    encountered_dates.add(date_str)
+
     assert((len(title) > 0) and (activity_type in styles) and re.search(f"^{date_fmt}$", date_str)), f"Every outing needs a valid title, type, and date: {outing}"
     assert (num_points + num_tracks) > 0, f"An outing needs at least one track or point: {outing}"
 
@@ -180,16 +191,23 @@ def generate_placemark(outing):
 
     # Photo links
     if ("photoUrl" in outing):
-        desc += f'<p>See <a href="{photo_base_url}{outing["photoUrl"]}">photos</a>.</p>'
+        photo_url = outing["photoUrl"]
+        desc += f'<p>See <a href="{photo_base_url}{photo_url}">photos</a>.</p>'
 
     # Strava links
     if ("stravaUrl" in outing):
-        assert(len(outing["stravaUrl"]) > 0), f"A 'stravaUrl' entry cannot be empty: {outing}"
-        if (len(outing["stravaUrl"]) > 1):
-            strava_urls = ", ".join(map(lambda i_url : f'<a href="{strava_base_url}{i_url[1]}">tracks {i_url[0] + 1}</a>', enumerate(outing["stravaUrl"])))
+        strava_urls = outing["stravaUrl"]
+        num_urls = len(strava_urls)
+        assert(num_urls > 0), f"A 'stravaUrl' entry cannot be empty: {outing}"
+        for url in strava_urls:
+            assert(url not in encountered_strava_urls), f"Already encountered Strava URL: {url}"
+            encountered_strava_urls.add(url)
+
+        if num_urls > 1:
+            strava_links = ", ".join(map(lambda i_url : f'<a href="{strava_base_url}{i_url[1]}">tracks {i_url[0] + 1}</a>', enumerate(strava_urls)))
         else:
-            strava_urls = f'<a href="{strava_base_url}{outing["stravaUrl"][0]}">tracks</a>'
-        desc += f"<p>See tracks on Strava: {strava_urls}.</p>"
+            strava_links = f'<a href="{strava_base_url}{strava_urls[0]}">tracks</a>'
+        desc += f"<p>See tracks on Strava: {strava_links}.</p>"
 
     # Notes
     if ("note" in outing):

@@ -1,5 +1,25 @@
 [
     {
+        "title": "Bollenwees und Fähnligipfel",
+        "type": "Climb",
+        "date": "2017-06-19",
+        "points": [
+            {
+                "lat": 47.25304,
+                "long": 9.42455
+            },
+            {
+                "lat": 47.25530,
+                "long": 9.41295
+            },
+            {
+                "lat": 47.25511,
+                "long": 9.41427
+            }
+        ],
+        "photoUrl": "2017/2017-06-19-Bollenwees"
+    },
+    {
         "title": "Salbit with Dan",
         "type": "Climb",
         "date": "2017-07-17",
@@ -56,6 +76,60 @@
         "photoUrl": "2020/2020-02-16-Wildstrubel",
         "stravaUrl": [
             "3106461659"
+        ]
+    },
+    {
+        "tracks": [
+            "2020-03-07__Skitour__Albert-Heim-Hütte_via_Schafberg.gpx"
+        ],
+        "photoUrl": "2020/2020-03-07-Oberi-Bieleluecke",
+        "stravaUrl": [
+            "3166783948"
+        ]
+    },
+    {
+        "tracks": [
+            "2020-03-08__Skitour__Oberi_Bielelücke.gpx"
+        ],
+        "photoUrl": "2020/2020-03-08-Oberi-Bieleluecke",
+        "stravaUrl": [
+            "3166784181"
+        ]
+    },
+    {
+        "tracks": [
+            "2020-05-31__Hike__Dents_de_Brenleire_et_Savigny.gpx"
+        ],
+        "photoUrl": "2020/2020-05-31-Dents-de-Brenleire-et-Savigny",
+        "stravaUrl": [
+            "3543507012"
+        ]
+    },
+    {
+        "tracks": [
+            "2020-07-05__Hike__Leukerbad-to-Adelboden-via-Rote-Totz.gpx"
+        ],
+        "photoUrl": "2020/2020-07-05-Leukerbad-to-Adelboden-via-Rote-Totz",
+        "stravaUrl": [
+            "3719469829"
+        ]
+    },
+    {
+        "tracks": [
+            "2020-07-12__Hike__Hinterrugg_und_Chäserugg.gpx"
+        ],
+        "photoUrl": "2020/2020-07-12-Hinterrugg-und-Chaeserugg",
+        "stravaUrl": [
+            "3752030527"
+        ]
+    },
+    {
+        "tracks": [
+            "2020-07-25__Hochtour__Lagginhorn_Attempt.gpx"
+        ],
+        "photoUrl": "2020/2020-07-25-Lagginhorn-Attempt",
+        "stravaUrl": [
+            "3812218088"
         ]
     },
     {
