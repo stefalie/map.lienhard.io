@@ -1,84 +1,88 @@
 [
     {
-        "title": "Lämmerenhütte",
-        "type": "skitour",
-        "date": "2020-02-15",
-        "tracks": [
-            "data/2020-02-15_Lämmerenhütte.gpx"
-        ],
-        "photoUrl": "https://stefalie.smugmug.com/2020/2020-02-16-Wildstrubel",
-        "stravaUrl": "https://www.strava.com/activities/3106461613"
-    },
-    {
-        "title": "Wildstrubel",
-        "type": "skitour",
-        "date": "2020-02-16",
-        "tracks": [
-            "data/2020-02-16_Wildstrubel.gpx"
-        ],
-        "photoUrl": "https://stefalie.smugmug.com/2020/2020-02-16-Wildstrubel",
-        "stravaUrl": "https://www.strava.com/activities/3106461659"
-    },
-    {
-        "title": "Mutthornhütte",
-        "type": "hochtour",
-        "date": "2020-07-27",
-        "tracks": [
-            "data/2020-07-27_Mutthornhütte.gpx"
-        ],
-        "photoUrl": "https://stefalie.smugmug.com/2020/2020-07-28-Mutthornhütte",
-        "stravaUrl": "https://www.strava.com/activities/3828378558"
-    },
-    {
-        "title": "Wätterhore",
-        "type": "hochtour",
-        "date": "2020-07-28",
-        "tracks": [
-            "data/2020-07-28_Wätterhore.gpx"
-        ],
-        "photoUrl": "https://stefalie.smugmug.com/2020/2020-07-28-Mutthornhütte",
-        "stravaUrl": "https://www.strava.com/activities/3828379046"
-    },
-    {
-        "title": "Federispitz",
-        "type": "hike",
-        "date": "2020-11-17",
-        "tracks": [
-            "data/2020-11-17_Federispitz.gpx"
-        ],
-        "photoUrl": "https://stefalie.smugmug.com/2020/2020-11-17-Federispitz",
-        "stravaUrl": "https://www.strava.com/activities/4351741626"
-    },
-    {
-        "title": "Muttenstock",
-        "type": "climb",
-        "date": "2020-11-11",
+        "title": "Salbit with Dan",
+        "type": "Climb",
+        "date": "2017-07-17",
         "points": [
             {
-                "lat": 46.84999,
-                "long": 9.04579
+                "lat": 46.68048,
+                "long": 8.52907
             }
         ],
-        "photoUrl": "https://stefalie.smugmug.com/asdf",
-        "stravaUrl": "https://www.strava.com",
-        "note": "hello world"
+        "photoUrl": "2017/2017-07-17-Salbit-with-Dan-Co"
     },
     {
-        "title": "Muttenstock",
-        "type": "climb",
-        "date": "2020-11-11",
-        "points": [
-            {
-                "lat": 46.83551,
-                "long": 9.01546
-            },
-            {
-                "lat": 46.85044,
-                "long": 9.01546
-            }
+        "tracks": [
+            "2019-08-24__Hike__Damma_Hike_1.gpx"
         ],
-        "photoUrl": "https://stefalie.smugmug.com/asdf",
-        "stravaUrl": "https://www.strava.com",
-        "note": "hello world"
+        "photoUrl": "2019/2019-08-26-Damma-Hike",
+        "stravaUrl": [
+            "2654195010"
+        ]
+    },
+    {
+        "tracks": [
+            "2019-08-25__Hike__Damma_Hike_2.gpx"
+        ],
+        "photoUrl": "2019/2019-08-26-Damma-Hike",
+        "stravaUrl": [
+            "2654195046"
+        ]
+    },
+    {
+        "tracks": [
+            "2019-08-26__Hike__Damma_Hike_3__1.gpx",
+            "2019-08-26__Hike__Damma_Hike_3__2.gpx"
+        ],
+        "photoUrl": "2019/2019-08-26-Damma-Hike",
+        "stravaUrl": [
+            "2654195102",
+            "2654195089"
+        ]
+    },
+    {
+        "tracks": [
+            "2020-02-15__Skitour__Lämmerenhütte.gpx"
+        ],
+        "photoUrl": "2020/2020-02-16-Wildstrubel",
+        "stravaUrl": [
+            "3106461613"
+        ]
+    },
+    {
+        "tracks": [
+            "2020-02-16__Skitour__Wildstrubel.gpx"
+        ],
+        "photoUrl": "2020/2020-02-16-Wildstrubel",
+        "stravaUrl": [
+            "3106461659"
+        ]
+    },
+    {
+        "tracks": [
+            "2020-07-27__Hochtour__Mutthornhütte.gpx"
+        ],
+        "photoUrl": "2020/2020-07-28-Mutthornhütte",
+        "stravaUrl": [
+            "3828378558"
+        ]
+    },
+    {
+        "tracks": [
+            "2020-07-28__Hochtour__Wätterhore.gpx"
+        ],
+        "photoUrl": "2020/2020-07-28-Mutthornhütte",
+        "stravaUrl": [
+            "3828379046"
+        ]
+    },
+    {
+        "tracks": [
+            "2020-11-17__Hike__Federispitz.gpx"
+        ],
+        "photoUrl": "2020/2020-11-17-Federispitz",
+        "stravaUrl": [
+            "4351741626"
+        ]
     }
 ]

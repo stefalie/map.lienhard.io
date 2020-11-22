@@ -6,25 +6,29 @@ import re
 import shutil
 
 # TODO: Create s separate kml file for every year.
-# TODO: gpx optimize
+# TODO: Validate URLs to photos and tracks.
+# TODO: Gpx optimize, check https://github.com/Andrii-D/optimize-gpx, or https://github.com/Alezy80/gpx_reduce
+# TODO: Do a leaflet version.
 
+kml_title = "Cheryl &amp; Stefan's Outings"
 input_json_file = "outings.json"
 ouptut_kml_file = "map.lienhard.io.kml"
-kml_title = "Cheryl &amp; Stefan's Outings"
+
+gpx_data_dir = "data/"
+photo_base_url = "https://stefalie.smugmug.com/"
+strava_base_url = "https://www.strava.com/activities/"
 
 line_width = 8
 marker_icon_size = 40
 
-# "Borrow" the colors (except alpha) from the SAC Tourenportal.
+# Tricky to find colors that stand out against the map background at all zoom
+# levels.
 alpha = 0.8
 styles = {
-        #"hut"         : (227,   6,  19, alpha),
-        "hike"        : ( 35, 113,   0, alpha),
-        "hochtour"    : (102,  45, 145, alpha),
-        "climb"       : (255,  61,  18, alpha),
-        "viaferrata"  : (255, 136,   0, alpha),
-        "skitour"     : (  0,  51, 255, alpha),
-        #"snowshoetour": (  0, 138, 121, alpha)
+        "Hike"    : (255,   0,   0, alpha),  # Red
+        "Hochtour": (139,   0, 139, alpha),  # DarkMagenta 
+        "Climb"   : (139,   0, 139, alpha),  # DarkMagenta  (same as Houchtour)
+        "Skitour" : (  0,   0, 255, alpha),  # Blue
 }
 
 with open(input_json_file, "r", encoding="utf8") as in_file:
@@ -64,10 +68,12 @@ template_style = '''
 template_placemark = '''
 <Placemark>
 	<styleUrl>#{activity_type}</styleUrl>
-	<description><![CDATA[<h4>{title}</h4><p><time datetime="{date}">{date_formatted}</time></p>{description}]]></description>
+	<description><![CDATA[{description}]]></description>
 {geometry}
 </Placemark>
 '''.strip()
+# NOTE: <MultiGeometry> is suboptimal for geo admin for <LineString>s as it
+# disables the display for the elevation profile.
 template_multigeometry = '''
 <MultiGeometry>
 {geometries}
@@ -108,15 +114,69 @@ def generate_style(style):
     return template_style.format(name=style[0], color=kml_hex_color(style[1]), width=line_width, icon_url=svg_base64_data_url(style[1]))
 kml_styles = "\n".join(map(generate_style, styles.items()))
 
+date_fmt = "([0-9]{4}-[0-9]{2}-[0-9]{2})"  # TODO: Could be more restrictive.
+type_fmt = "(" + "|".join(styles) + ")"
+title_fmt = "(\S+?)"  # Anything but whitespace
+multi_track_fmt = "(?:__(\d))?"
+track_file_format = f"^{date_fmt}__{type_fmt}__{title_fmt}{multi_track_fmt}.gpx$"
+
 def generate_placemark(outing):
     num_points = len(outing["points"]) if ("points" in outing) else 0
     num_tracks = len(outing["tracks"]) if ("tracks" in outing) else 0
 
-    date_fmt = "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"  # TODO: Could be more restrictive.
-    assert((("title" in outing) and (len(outing["title"]) > 0)) and
-           (("type" in outing) and (outing["type"] in styles)) and
-           (("date" in outing) and re.search(date_fmt, outing["date"]))), f"Every outing needs a valid title, type, and date: {outing}"
+    # Extract date, type, and title from the first available track.
+    if num_tracks > 0:
+        matches = re.search(track_file_format, outing["tracks"][0])
+        assert(len(matches.groups()) == 4 or len(matches.groups()) == 5), f'Gpx file format incorrect: {outing["tracks"][0]}'
+        date_str = matches.group(1)
+        activity_type = matches.group(2)
+        title = matches.group(3)
+
+        # Make sure multi tracks are named the same way.
+        if num_tracks > 1:
+            assert matches.group(4), f'Wrong multi track format: {outing["tracks"][0]}'
+        if matches.group(4):
+            assert(matches.group(4) == "1"), f'The first multi track files must have a "__1" suffix: {outing["tracks"]}'
+            for i, out in enumerate(outing["tracks"]):
+                assert(out == f"{date_str}__{activity_type}__{title}__{i + 1}.gpx"), f"Wrong multi track format: {out}"
+
+        title = title.replace("_", " ")
+
+
+    # Overwrite date, type, or title if explicitly specified
+    if "date" in outing:
+        date_str = outing["date"]
+    if "type" in outing:
+        activity_type = outing["type"]
+    if "title" in outing:
+        title = outing["title"]
+
+    assert((len(title) > 0) and (activity_type in styles) and re.search(f"^{date_fmt}$", date_str)), f"Every outing needs a valid title, type, and date: {outing}"
     assert (num_points + num_tracks) > 0, f"An outing needs at least one track or point: {outing}"
+
+    # Title, type, and date
+    # NOTE: A <time> tag unfortunately gets not shown in the popover in the
+    # non-<iframe> version.
+    date_formatted = date(int(date_str[:4]), int(date_str[5:7]), int(date_str[8:10]))
+    date_formatted = date_formatted.strftime("%B %d, %Y").replace(" 0", " ")
+    desc = f'<h4>{title}</h4><p>{activity_type} on {date_formatted}.</p>'
+
+    # Photo links
+    if ("photoUrl" in outing):
+        desc += f'<p>See <a href="{photo_base_url}{outing["photoUrl"]}">photos</a>.</p>'
+
+    # Strava links
+    if ("stravaUrl" in outing):
+        assert(len(outing["stravaUrl"]) > 0), f"A 'stravaUrl' entry cannot be empty: {outing}"
+        if (len(outing["stravaUrl"]) > 1):
+            strava_urls = ", ".join(map(lambda i_url : f'<a href="{strava_base_url}{i_url[1]}">tracks {i_url[0] + 1}</a>', enumerate(outing["stravaUrl"])))
+        else:
+            strava_urls = f'<a href="{strava_base_url}{outing["stravaUrl"][0]}">tracks</a>'
+        desc += f"<p>See tracks on Strava: {strava_urls}.</p>"
+
+    # Notes
+    if ("note" in outing):
+        desc += f"<p>{outing['note']}</p>"
 
     geom = ""
     if num_points > 0:
@@ -130,11 +190,12 @@ def generate_placemark(outing):
 
     if num_tracks > 0:
         def generate_linestring(track):
-            with open(track, "r", encoding="utf8") as gpx_file:
+            gpx_file_name = gpx_data_dir + track
+            with open(gpx_file_name, "r", encoding="utf8") as gpx_file:
                 gpx = gpxpy.parse(gpx_file)
             assert((len(gpx.tracks) == 1) and
                    (len(gpx.waypoints) == 0) and
-                   (len(gpx.routes) == 0)), "We expect exactly 1 track per gpx file."
+                   (len(gpx.routes) == 0)), f"We expect exactly 1 track per gpx file: {gpx_file_name}"
 
             # Concat all points in all segments
             all_points = [p for s in gpx.tracks[0].segments for p in s.points]
@@ -147,17 +208,7 @@ def generate_placemark(outing):
         geom = template_multigeometry.format(geometries=geom)
     geom = indent(geom, 1)
 
-    desc = ""
-    # TODO: Validate URLs.
-    if ("stravaUrl" in outing):
-        desc += f'<p><a href="{outing["stravaUrl"]}">See tracks on Strava outing</a></p>'
-    if ("photoUrl" in outing):
-        desc += f'<p><a href="{outing["photoUrl"]}">See photos</a></p>'
-    if ("note" in outing):
-        desc += f"<p>{outing['note']}</p>"
-    d = date(int(outing["date"][:4]), int(outing["date"][5:7]), int(outing["date"][8:10]))
-    d = d.strftime("%B %d, %Y").replace(" 0", " ")
-    return template_placemark.format(activity_type=outing["type"], title=outing["title"], date=outing["date"], date_formatted=d, description=desc, geometry=geom)
+    return template_placemark.format(activity_type=activity_type, description=desc, geometry=geom)
 kml_placemarks = "\n".join(map(generate_placemark, outings))
 
 kml_styles = indent(kml_styles, 2)
