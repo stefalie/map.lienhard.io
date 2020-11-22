@@ -4,45 +4,45 @@
 		<name>Cheryl &amp; Stefan's Outings</name>
 		<Style id="Hike">
 			<LineStyle>
-				<color>CC0000FF</color>
+				<color>E50000FF</color>
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
 				<Icon>
-					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwIiB3aWR0aD0iNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMjU1LDAsMCwwLjgpIiBkPSJNNTAgMTRhMjQgMjQgMCAwMC0yNCAyNGMwIDEzLjMgMjQgNDggMjQgNDhzMjQtMzQuOCAyNC00OGEyNCAyNCAwIDAwLTI0LTI0em0wIDM2LjVhMTIgMTIgMCAxMTAtMjQgMTIgMTIgMCAwMTAgMjR6Ii8+PC9zdmc+</href>
+					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMjU1LDAsMCwwLjkpIiBkPSJNNTAgMTRhMjQgMjQgMCAwMC0yNCAyNGMwIDEzLjMgMjQgNDggMjQgNDhzMjQtMzQuOCAyNC00OGEyNCAyNCAwIDAwLTI0LTI0em0wIDM2LjVhMTIgMTIgMCAxMTAtMjQgMTIgMTIgMCAwMTAgMjR6Ii8+PC9zdmc+</href>
 				</Icon>
 			</IconStyle>
 		</Style>
 		<Style id="Hochtour">
 			<LineStyle>
-				<color>CC8B008B</color>
+				<color>E58B008B</color>
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
 				<Icon>
-					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwIiB3aWR0aD0iNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMTM5LDAsMTM5LDAuOCkiIGQ9Ik01MCAxNGEyNCAyNCAwIDAwLTI0IDI0YzAgMTMuMyAyNCA0OCAyNCA0OHMyNC0zNC44IDI0LTQ4YTI0IDI0IDAgMDAtMjQtMjR6bTAgMzYuNWExMiAxMiAwIDExMC0yNCAxMiAxMiAwIDAxMCAyNHoiLz48L3N2Zz4=</href>
+					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMTM5LDAsMTM5LDAuOSkiIGQ9Ik01MCAxNGEyNCAyNCAwIDAwLTI0IDI0YzAgMTMuMyAyNCA0OCAyNCA0OHMyNC0zNC44IDI0LTQ4YTI0IDI0IDAgMDAtMjQtMjR6bTAgMzYuNWExMiAxMiAwIDExMC0yNCAxMiAxMiAwIDAxMCAyNHoiLz48L3N2Zz4=</href>
 				</Icon>
 			</IconStyle>
 		</Style>
 		<Style id="Climb">
 			<LineStyle>
-				<color>CC8B008B</color>
+				<color>E58B008B</color>
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
 				<Icon>
-					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwIiB3aWR0aD0iNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMTM5LDAsMTM5LDAuOCkiIGQ9Ik01MCAxNGEyNCAyNCAwIDAwLTI0IDI0YzAgMTMuMyAyNCA0OCAyNCA0OHMyNC0zNC44IDI0LTQ4YTI0IDI0IDAgMDAtMjQtMjR6bTAgMzYuNWExMiAxMiAwIDExMC0yNCAxMiAxMiAwIDAxMCAyNHoiLz48L3N2Zz4=</href>
+					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMTM5LDAsMTM5LDAuOSkiIGQ9Ik01MCAxNGEyNCAyNCAwIDAwLTI0IDI0YzAgMTMuMyAyNCA0OCAyNCA0OHMyNC0zNC44IDI0LTQ4YTI0IDI0IDAgMDAtMjQtMjR6bTAgMzYuNWExMiAxMiAwIDExMC0yNCAxMiAxMiAwIDAxMCAyNHoiLz48L3N2Zz4=</href>
 				</Icon>
 			</IconStyle>
 		</Style>
 		<Style id="Skitour">
 			<LineStyle>
-				<color>CCFF0000</color>
+				<color>E5FF0000</color>
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
 				<Icon>
-					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQwIiB3aWR0aD0iNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMCwwLDI1NSwwLjgpIiBkPSJNNTAgMTRhMjQgMjQgMCAwMC0yNCAyNGMwIDEzLjMgMjQgNDggMjQgNDhzMjQtMzQuOCAyNC00OGEyNCAyNCAwIDAwLTI0LTI0em0wIDM2LjVhMTIgMTIgMCAxMTAtMjQgMTIgMTIgMCAwMTAgMjR6Ii8+PC9zdmc+</href>
+					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMCwwLDI1NSwwLjkpIiBkPSJNNTAgMTRhMjQgMjQgMCAwMC0yNCAyNGMwIDEzLjMgMjQgNDggMjQgNDhzMjQtMzQuOCAyNC00OGEyNCAyNCAwIDAwLTI0LTI0em0wIDM2LjVhMTIgMTIgMCAxMTAtMjQgMTIgMTIgMCAwMTAgMjR6Ii8+PC9zdmc+</href>
 				</Icon>
 			</IconStyle>
 		</Style>

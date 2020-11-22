@@ -5,10 +5,9 @@ import json
 import re
 import shutil
 
-# TODO: Create s separate kml file for every year.
+# TODO: Create s separate kml file for every year (or have a separate .json per year).
 # TODO: Validate URLs to photos and tracks.
 # TODO: Gpx optimize, check https://github.com/Andrii-D/optimize-gpx, or https://github.com/Alezy80/gpx_reduce
-# TODO: Do a leaflet version.
 
 kml_title = "Cheryl &amp; Stefan's Outings"
 input_json_file = "outings.json"
@@ -19,11 +18,11 @@ photo_base_url = "https://stefalie.smugmug.com/"
 strava_base_url = "https://www.strava.com/activities/"
 
 line_width = 8
-marker_icon_size = 40
+marker_icon_size = 48
 
 # Tricky to find colors that stand out against the map background at all zoom
 # levels.
-alpha = 0.8
+alpha = 0.9
 styles = {
         "Hike"    : (255,   0,   0, alpha),  # Red
         "Hochtour": (139,   0, 139, alpha),  # DarkMagenta 
@@ -43,14 +42,14 @@ template_body = '''
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 	<Document>
-		<name>{title}</name>
+		<name>{kml_title}</name>
 {styles}
 {placemarks}
 	</Document>
 </kml>
 '''.strip()
 template_style = '''
-<Style id="{name}">
+<Style id="{style_name}">
 	<LineStyle>
 		<color>{color}</color>
 		<width>{width}</width>
@@ -111,7 +110,7 @@ def kml_hex_color(c):
     return f"{int(c[3]*255):0{2}X}{c[2]:0{2}X}{c[1]:0{2}X}{c[0]:0{2}X}"
 
 def generate_style(style):
-    return template_style.format(name=style[0], color=kml_hex_color(style[1]), width=line_width, icon_url=svg_base64_data_url(style[1]))
+    return template_style.format(style_name=style[0], color=kml_hex_color(style[1]), width=line_width, icon_url=svg_base64_data_url(style[1]))
 kml_styles = "\n".join(map(generate_style, styles.items()))
 
 date_fmt = "([0-9]{4}-[0-9]{2}-[0-9]{2})"  # TODO: Could be more restrictive.
@@ -213,7 +212,7 @@ kml_placemarks = "\n".join(map(generate_placemark, outings))
 
 kml_styles = indent(kml_styles, 2)
 kml_placemarks = indent(kml_placemarks, 2)
-kml_all = template_body.format(title=kml_title, styles=kml_styles, placemarks=kml_placemarks)
+kml_all = template_body.format(kml_title=kml_title, styles=kml_styles, placemarks=kml_placemarks)
 
 with open(ouptut_kml_file, "w", encoding="utf8") as out_file:
     out_file.write(kml_all)
