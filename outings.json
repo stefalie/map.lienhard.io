@@ -32,12 +32,57 @@
         "photoUrl": "2017/2017-07-17-Salbit-with-Dan-Co"
     },
     {
+        "title": "Tour de Turghiu/Cappo Rosso",
+        "type": "Hike",
+        "date": "2017-09-06",
+        "points": [
+            {
+                "lat": 42.23656,
+                "long": 8.55212
+            }
+        ],
+        "photoUrl": "2017/2017-09-15-Corsica"
+    },
+    {
+        "title": "Punta Spenicazzia",
+        "type": "Climb",
+        "date": "2017-09-13",
+        "points": [
+            {
+                "lat": 42.25265,
+                "long": 9.09106
+            }
+        ],
+        "photoUrl": "2017/2017-09-15-Corsica"
+    },
+    {
+        "title": "Lac de Capitellu",
+        "type": "Hike",
+        "date": "2017-09-14",
+        "points": [
+            {
+                "lat": 42.21215,
+                "long": 9.01180
+            }
+        ],
+        "photoUrl": "2017/2017-09-15-Corsica"
+    },
+    {
+        "tracks": [
+            "2019-07-21__Hike__Fiery_Furnace.gpx"
+        ],
+        "photoUrl": "2019/2019-07-22-Arches",
+        "stravaUrl": [
+            2551853979
+        ]
+    },
+    {
         "tracks": [
             "2019-08-24__Hike__Damma_Hike_1.gpx"
         ],
         "photoUrl": "2019/2019-08-26-Damma-Hike",
         "stravaUrl": [
-            "2654195010"
+            2654195010
         ]
     },
     {
@@ -46,7 +91,7 @@
         ],
         "photoUrl": "2019/2019-08-26-Damma-Hike",
         "stravaUrl": [
-            "2654195046"
+            2654195046
         ]
     },
     {
@@ -56,8 +101,26 @@
         ],
         "photoUrl": "2019/2019-08-26-Damma-Hike",
         "stravaUrl": [
-            "2654195102",
-            "2654195089"
+            2654195102,
+            2654195089
+        ]
+    },
+    {
+        "tracks": [
+            "2020-01-19__Skitour__Fanenstock.gpx"
+        ],
+        "stravaUrl": [
+            3026197426
+        ],
+        "photoUrl": "2020/2020-01-19-Fanenstock"
+    },
+    {
+        "tracks": [
+            "2020-01-26__Skitour__Bürglen.gpx"
+        ],
+        "photoUrl": "2020/2020-01-26-Buergle",
+        "stravaUrl": [
+            3045391137
         ]
     },
     {
@@ -66,7 +129,7 @@
         ],
         "photoUrl": "2020/2020-02-16-Wildstrubel",
         "stravaUrl": [
-            "3106461613"
+            3106461613
         ]
     },
     {
@@ -75,7 +138,16 @@
         ],
         "photoUrl": "2020/2020-02-16-Wildstrubel",
         "stravaUrl": [
-            "3106461659"
+            3106461659
+        ]
+    },
+    {
+        "tracks": [
+            "2020-03-01__Skitour__Chörbschhorn.gpx"
+        ],
+        "photoUrl": "2020/2020-03-01-Chörbschhorn",
+        "stravaUrl": [
+            3146130479
         ]
     },
     {
@@ -84,7 +156,7 @@
         ],
         "photoUrl": "2020/2020-03-07-Oberi-Bieleluecke",
         "stravaUrl": [
-            "3166783948"
+            3166783948
         ]
     },
     {
@@ -93,7 +165,46 @@
         ],
         "photoUrl": "2020/2020-03-08-Oberi-Bieleluecke",
         "stravaUrl": [
-            "3166784181"
+            3166784181
+        ]
+    },
+    {
+        "tracks": [
+            "2020-05-09__Hike__Felsenegg_and_back.gpx"
+        ],
+        "stravaUrl": [
+            3426041328
+        ]
+    },
+    {
+        "tracks": [
+            "2020-05-21__Hike__Bürgle_mit_Sherpa__1.gpx",
+            "2020-05-21__Hike__Bürgle_mit_Sherpa__2.gpx"
+        ],
+        "photoUrl": "2020/2020-05-21-Bürgle-mit-Sherpa",
+        "stravaUrl": [
+            3493852927,
+            3493853096
+        ],
+        "note": "Fasch niemer ufem Niese wenn's Bähnli nid fahrt."
+    },
+    {
+        "tracks": [
+            "2020-05-22__Hike__Niesen.gpx"
+        ],
+        "photoUrl": "2020/2020-05-22-Niesen",
+        "stravaUrl": [
+            3493853799
+        ],
+        "note": "Fasch niemer ufem Niese wenn's Bähnli nid fahrt."
+    },
+    {
+        "tracks": [
+            "2020-05-24__Hike__Moléson.gpx"
+        ],
+        "photoUrl": "2020/2020-05-24-Moléson",
+        "stravaUrl": [
+            3504267201
         ]
     },
     {
@@ -102,17 +213,93 @@
         ],
         "photoUrl": "2020/2020-05-31-Dents-de-Brenleire-et-Savigny",
         "stravaUrl": [
-            "3543507012"
+            3543507012
         ]
     },
     {
         "tracks": [
-            "2020-07-05__Hike__Leukerbad-to-Adelboden-via-Rote-Totz.gpx"
+            "2020-06-01__Hike__Seebergsee.gpx"
+        ],
+        "photoUrl": "2020/2020-06-01-Seebergsee",
+        "stravaUrl": [
+            3547416117
+        ],
+        "note": "Dog + snow field = panic"
+    },
+    {
+        "tracks": [
+            "2020-06-13__Hike__Falknis.gpx"
+        ],
+        "photoUrl": "2020/2020-06-13-Falknis",
+        "stravaUrl": [
+            3609561093
+        ]
+    },
+    {
+        "tracks": [
+            "2020-06-20__Hike__Stöckalp_to_Jochpass.gpx"
+        ],
+        "photoUrl": "2020/2020-06-20-Stöckalp-to-Jochpass",
+        "stravaUrl": [
+            3644865993
+        ]
+    },
+    {
+        "tracks": [
+            "2020-06-21__Hike__Gonzen.gpx"
+        ],
+        "photoUrl": "2020/2020-06-21-Gonzen",
+        "stravaUrl": [
+            3650184083
+        ]
+    },
+    {
+        "tracks": [
+            "2020-06-27__Hike__Gnipen.gpx"
+        ],
+        "photoUrl": "2020/2020-06-27-Gnipen",
+        "stravaUrl": [
+            3678469873
+        ]
+    },
+    {
+        "tracks": [
+            "2020-06-28__Hike__Gross_Aubrig.gpx"
+        ],
+        "photoUrl": "2020/2020-06-28-Gross-Aubrig",
+        "stravaUrl": [
+            3683415777
+        ]
+    },
+    {
+        "tracks": [
+            "2020-07-04__Hike__Torrenthorn.gpx"
+        ],
+        "photoUrl": "2020/2020-07-04-Torrenthorn-Schafberg",
+        "stravaUrl": [
+            3714209244
+        ]
+    },
+    {
+        "tracks": [
+            "2020-07-05__Hike__Leukerbad_to_Adelboden_via_Rote-Totz.gpx"
         ],
         "photoUrl": "2020/2020-07-05-Leukerbad-to-Adelboden-via-Rote-Totz",
         "stravaUrl": [
-            "3719469829"
+            3719469829
         ]
+    },
+    {
+        "title": "Risetenpass",
+        "type": "Hike",
+        "date": "2020-07-10",
+        "points": [
+            {
+                "lat": 46.97816,
+                "long": 9.24649
+            }
+        ],
+        "photoUrl": "2020/2020-07-10-Risetenpass"
     },
     {
         "tracks": [
@@ -120,7 +307,25 @@
         ],
         "photoUrl": "2020/2020-07-12-Hinterrugg-und-Chaeserugg",
         "stravaUrl": [
-            "3752030527"
+            3752030527
+        ]
+    },
+    {
+        "tracks": [
+            "2020-07-18__Hike__Pizol.gpx"
+        ],
+        "photoUrl": "2020/2020-07-18-Pizol",
+        "stravaUrl": [
+            3781504255
+        ]
+    },
+    {
+        "tracks": [
+            "2020-07-19__Hike__Bergün-Sertig.gpx"
+        ],
+        "photoUrl": "2020/2020-07-19-Bergün-Sertig",
+        "stravaUrl": [
+            3787650533
         ]
     },
     {
@@ -129,7 +334,7 @@
         ],
         "photoUrl": "2020/2020-07-25-Lagginhorn-Attempt",
         "stravaUrl": [
-            "3812218088"
+            3812218088
         ]
     },
     {
@@ -138,7 +343,7 @@
         ],
         "photoUrl": "2020/2020-07-28-Mutthornhütte",
         "stravaUrl": [
-            "3828378558"
+            3828378558
         ]
     },
     {
@@ -147,7 +352,89 @@
         ],
         "photoUrl": "2020/2020-07-28-Mutthornhütte",
         "stravaUrl": [
-            "3828379046"
+            3828379046
+        ]
+    },
+    {
+        "title": "Oberblegisee",
+        "type": "Hike",
+        "date": "2020-07-31",
+        "points": [
+            {
+                "lat": 46.98040,
+                "long": 9.01314
+            }
+        ],
+        "photoUrl": "2020/2020-07-31-Oberblegisee"
+    },
+    {
+        "tracks": [
+            "2020-08-09__Hike__Majinghorn.gpx"
+        ],
+        "photoUrl": "2020/2020-08-09-Majinghorn",
+        "stravaUrl": [
+            3889657074
+        ]
+    },
+    {
+        "tracks": [
+            "2020-08-10__Hike__Gemmi_Running.gpx"
+        ],
+        "stravaUrl": [
+            3892984364
+        ]
+    },
+    {
+        "tracks": [
+            "2020-08-11__Hike__Majingalp.gpx"
+        ],
+        "stravaUrl": [
+            3899294427
+        ]
+    },
+    {
+        "tracks": [
+            "2020-08-13__Hike__Flüealp.gpx"
+        ],
+        "photoUrl": "2020/2020-08-13-Flüealp",
+        "stravaUrl": [
+            3907698649
+        ]
+    },
+    {
+        "tracks": [
+            "2020-08-14__Hike__Larschi.gpx"
+        ],
+        "photoUrl": "2020/2020-08-14-Leukerbad",
+        "stravaUrl": [
+            3912691384
+        ]
+    },
+    {
+        "tracks": [
+            "2020-08-15__Hike__Daubenhorn.gpx"
+        ],
+        "photoUrl": "2020/2020-08-15-Daubenhorn",
+        "stravaUrl": [
+            3918185172
+        ]
+    },
+    {
+        "tracks": [
+            "2020-08-24__Hike__Cabane_dex_Dix_1.gpx"
+        ],
+        "photoUrl": "2020/2020-08-25-Cabane-des-Dix",
+        "stravaUrl": [
+            3965342504
+        ]
+    },
+    {
+        "tracks": [
+            "2020-08-25__Hike__Cabane_dex_Dix_2.gpx"
+        ],
+        "photoUrl": "2020/2020-08-25-Cabane-des-Dix",
+        "stravaUrl": [
+            3965342594
         ]
     },
     {
@@ -156,7 +443,7 @@
         ],
         "photoUrl": "2020/2020-11-17-Federispitz",
         "stravaUrl": [
-            "4351741626"
+            4351741626
         ]
     }
 ]
