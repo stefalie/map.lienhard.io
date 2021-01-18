@@ -147,6 +147,139 @@
         ]
     },
     {
+        "tracks": [
+            "2017-01-29__Skitour__Alpiglenmäre__1.gpx",
+            "2017-01-29__Skitour__Alpiglenmäre__2.gpx"
+        ],
+        "photoUrl": "2017/2017-01-29-Alpiglemaeren",
+        "stravaUrl": [
+            848506971,
+            848506998
+        ]
+    },
+    {
+        "tracks": [
+            "2017-01-31__Skitour__Col_des_Ecandies_Attempt.gpx"
+        ],
+        "stravaUrl": [
+            851760180
+        ]
+    },
+    {
+        "tracks": [
+            "2017-02-01__Skitour__Pointe_Ronde.gpx"
+        ],
+        "stravaUrl": [
+            851761020
+        ]
+    },
+    {
+        "tracks": [
+            "2017-02-02__Skitour__Dent_de_Morcles.gpx"
+        ],
+        "stravaUrl": [
+            852763906
+        ]
+    },
+    {
+        "tracks": [
+            "2017-02-04__Skitour__Braunwald.gpx"
+        ],
+        "stravaUrl": [
+            855202011
+        ]
+    },
+    {
+        "tracks": [
+            "2017-02-11__Skitour__Monts_Chevreuils.gpx"
+        ],
+        "photoUrl": "2017-02-11-Monts-Chevreuils",
+        "stravaUrl": [
+            867621810
+        ]
+    },
+    {
+        "tracks": [
+            "2017-02-14__Skitour__Tête_Noire.gpx"
+        ],
+        "photoUrl": "2017/2017-02-14-Tête-Noir",
+        "stravaUrl": [
+            867622760
+        ]
+    },
+    {
+        "tracks": [
+            "2017-03-17__Run__Uttigen-Home.gpx"
+        ],
+        "stravaUrl": [
+            903813692
+        ]
+    },
+    {
+        "tracks": [
+            "2017-04-27__Run__Lyon.gpx"
+        ],
+        "stravaUrl": [
+            972849589
+        ]
+    },
+    {
+        "tracks": [
+            "2017-05-06__Run__Sola.gpx"
+        ],
+        "photoUrl": "2017/2017-05-07-Sola",
+        "stravaUrl": [
+            972850007
+        ]
+    },
+    {
+        "tracks": [
+            "2017-05-13__Hike__Capanna_Albagno__1.gpx",
+            "2017-05-13__Hike__Capanna_Albagno__2.gpx"
+        ],
+        "photoUrl": "2017-05-13-Capanna-Albagno",
+        "stravaUrl": [
+            984618858,
+            984620438
+        ]
+    },
+    {
+        "tracks": [
+            "2017-05-26__Run__Grosser_Mythen__1.gpx",
+            "2017-05-26__Run__Grosser_Mythen__2.gpx"
+        ],
+        "photoUrl": "2017/2017-05-26-Grosser-Mythen",
+        "stravaUrl": [
+            1006840027,
+            1006840967
+        ]
+    },
+    {
+        "tracks": [
+            "2017-05-30__Run__Grosser_und_Kleiner_Mythen.gpx"
+        ],
+        "stravaUrl": [
+            1012819157
+        ]
+    },
+    {
+        "tracks": [
+            "2017-06-07__Run__Forchlauf.gpx"
+        ],
+        "stravaUrl": [
+            1025518586
+        ]
+    },
+    {
+        "tracks": [
+            "2017-06-08__Run__Mythen_Kalberstöckli_und_Schafweg.gpx"
+        ],
+        "photoUrl": "2017/2017-06-08-Mythen-Kalberstöckli-und-Schafweg",
+        "stravaUrl": [
+            1026614076
+        ]
+    },
+    {
         "title": "Bollenwees und Fähnligipfel",
         "type": "Climb",
         "date": "2017-06-19",
@@ -163,6 +296,25 @@
         "photoUrl": "2017/2017-06-19-Bollenwees"
     },
     {
+        "tracks": [
+            "2017-07-06__Run__Grosser_Mythen__1.gpx",
+            "2017-07-06__Run__Grosser_Mythen__2.gpx"
+        ],
+        "stravaUrl": [
+            1071119809,
+            1071119824
+        ]
+    },
+    {
+        "tracks": [
+            "2017-07-08__Hike__Ortstock.gpx"
+        ],
+        "photoUrl": "2017/2017-07-08-Ortstock",
+        "stravaUrl": [
+            1073759074
+        ]
+    },
+    {
         "title": "Salbit with Dan",
         "type": "Climb",
         "date": "2017-07-17",
@@ -173,6 +325,15 @@
             }
         ],
         "photoUrl": "2017/2017-07-17-Salbit-with-Dan-Co"
+    },
+    {
+        "tracks": [
+            "2017-08-19__Run__Mountain_Man_Leg_3.gpx"
+        ],
+        "photoUrl": "2017-08-19-Mountain-Man-Hochstollen",
+        "stravaUrl": [
+            1141721094
+        ]
     },
     {
         "title": "Tour de Turghiu/Cappo Rosso",
@@ -212,11 +373,576 @@
     },
     {
         "tracks": [
+            "2017-10-15__Hike__Brienzergrat__1.gpx",
+            "2017-10-15__Hike__Brienzergrat__2.gpx"
+        ],
+        "photoUrl": "2017-10-15-Brienzergrat",
+        "stravaUrl": [
+            1234055406,
+            1234055423
+        ]
+    },
+    {
+        "tracks": [
+            "2017-11-04__Hike__Mattstock.gpx"
+        ],
+        "stravaUrl": [
+            1261006940
+        ]
+    },
+    {
+        "tracks": [
+            "2018-04-01__Run__Reichenbachwald.gpx"
+        ],
+        "stravaUrl": [
+            1484007803
+        ]
+    },
+    {
+        "tracks": [
+            "2018-04-08__Hike__Kronberg__1.gpx",
+            "2018-04-08__Hike__Kronberg__2.gpx"
+        ],
+        "photoUrl": "2018/2018-04-08-Kronberg",
+        "stravaUrl": [
+            1497552736,
+            1497552752
+        ]
+    },
+    {
+        "tracks": [
+            "2018-04-29__Run__Aarelauf.gpx"
+        ],
+        "stravaUrl": [
+            1539332682
+        ]
+    },
+    {
+        "tracks": [
+            "2018-05-05__Run__Sola.gpx"
+        ],
+        "photoUrl": "2018/2018-05-05-Sola",
+        "stravaUrl": [
+            1550276700
+        ]
+    },
+    {
+        "tracks": [
+            "2018-05-06__Hike__Kleiner_Mythen.gpx"
+        ],
+        "photoUrl": "2018/2018-05-06-Kleiner-Mythen",
+        "stravaUrl": [
+            1553117334
+        ]
+    },
+    {
+        "tracks": [
+            "2018-05-11__Skitour__Chandolin_Schwarzhorn__1.gpx",
+            "2018-05-11__Skitour__Chandolin_Schwarzhorn__2.gpx"
+        ],
+        "photoUrl": "2018/2018-05-12-A-la-recherche-de-la-neige",
+        "stravaUrl": [
+            1583834089,
+            1583834147
+        ]
+    },
+    {
+        "tracks": [
+            "2018-05-12__Skitour__Arolla_Plan_Bertol.gpx"
+        ],
+        "photoUrl": "2018/2018-05-12-A-la-recherche-de-la-neige",
+        "stravaUrl": [
+            1583834182
+        ]
+    },
+    {
+        "tracks": [
+            "2018-05-19__Hike__Hoher_Kasten_Attempt.gpx"
+        ],
+        "photoUrl": "2018/2018-05-19-Brülisau",
+        "stravaUrl": [
+            1583808601
+        ]
+    },
+    {
+        "tracks": [
+            "2018-06-17__Run__Stieregrat_Fail.gpx"
+        ],
+        "photoUrl": "2018/2018-06-17-Stierengrat-Fail",
+        "stravaUrl": [
+            1644287662
+        ]
+    },
+    {
+        "tracks": [
+            "2018-06-24__Hike__Pilatus__1.gpx",
+            "2018-06-24__Hike__Pilatus__2.gpx"
+        ],
+        "photoUrl": "2018/2018-06-24-Pilatus",
+        "stravaUrl": [
+            1661529480,
+            1661529591
+        ]
+    },
+    {
+        "tracks": [
+            "2018-06-30__Hike__Almagellerhütte__1.gpx",
+            "2018-06-30__Hike__Almagellerhütte__2.gpx"
+        ],
+        "photoUrl": "2018/2018-07-01-Weissmies",
+        "stravaUrl": [
+            1674655482,
+            1674655465
+        ]
+    },
+    {
+        "tracks": [
+            "2018-07-01__Hochtour__Weissmies__1.gpx",
+            "2018-07-01__Hochtour__Weissmies__2.gpx"
+        ],
+        "photoUrl": "2018/2018-07-01-Weissmies",
+        "stravaUrl": [
+            1674655566,
+            1674655567
+        ]
+    },
+    {
+        "tracks": [
+            "2018-08-18__Hike__Mythen_Schafweg__1.gpx",
+            "2018-08-18__Hike__Mythen_Schafweg__2.gpx"
+        ],
+        "photoUrl": "2018/2018-08-18-Mythen-Schafweg",
+        "stravaUrl": [
+            1780803148,
+            1780803139
+        ]
+    },
+    {
+        "tracks": [
+            "2018-08-26__Hike__Lais_da_Macun.gpx"
+        ],
+        "photoUrl": "2018/2018-08-26-Lais-da-Macun",
+        "stravaUrl": [
+            1799171276
+        ]
+    },
+    {
+        "tracks": [
+            "2018-09-02__Hike__Vanil_Noir.gpx"
+        ],
+        "photoUrl": "2018/2018-09-02-Vanil-Noir",
+        "stravaUrl": [
+            1825709796
+        ]
+    },
+    {
+        "tracks": [
+            "2018-09-08__Hike__Capanna_Campo_Tencia.gpx"
+        ],
+        "photoUrl": "2018/2018-09-09-Campo-Tencia",
+        "stravaUrl": [
+            1831004926
+        ]
+    },
+    {
+        "tracks": [
+            "2018-09-09__Hike__Pizzo_Campo_Tencia__1.gpx",
+            "2018-09-09__Hike__Pizzo_Campo_Tencia__2.gpx"
+        ],
+        "photoUrl": "2018/2018-09-09-Campo-Tencia",
+        "stravaUrl": [
+            1831004989,
+            1831004984
+        ]
+    },
+    {
+        "tracks": [
+            "2018-09-15__Hike__Piz_Mezdi_Pontresina.gpx"
+        ],
+        "photoUrl": "2018/2018-09-16-Pontresina",
+        "stravaUrl": [
+            1846643154
+        ]
+    },
+    {
+        "tracks": [
+            "2018-09-16__Hike__Piz_Languard_Fuorcla_Muragl.gpx"
+        ],
+        "photoUrl": "2018/2018-09-16-Pontresina",
+        "stravaUrl": [
+            1846643179
+        ]
+    },
+    {
+        "tracks": [
+            "2018-09-22__Hike__Pizzo_Cristallina__1.gpx",
+            "2018-09-22__Hike__Pizzo_Cristallina__2.gpx",
+            "2018-09-22__Hike__Pizzo_Cristallina__3.gpx"
+        ],
+        "photoUrl": "2018/2018-09-23-Cristallina",
+        "stravaUrl": [
+            1867479481,
+            1867479505,
+            1867479545
+        ]
+    },
+    {
+        "tracks": [
+            "2018-09-23__Hike__Lago_Nero_and_Val_del_Coro.gpx"
+        ],
+        "photoUrl": "2018/2018-09-23-Cristallina",
+        "stravaUrl": [
+            1867479623
+        ]
+    },
+    {
+        "tracks": [
+            "2018-10-06__Hike__Le_Luisin.gpx"
+        ],
+        "photoUrl": "2018/2018-10-06-Le-Luisin",
+        "stravaUrl": [
+            1889812419
+        ]
+    },
+    {
+        "tracks": [
+            "2018-10-22__Hike__Brienzergrat_Variation.gpx"
+        ],
+        "photoUrl": "2018/2018-10-22-Brienzergrat",
+        "stravaUrl": [
+            1923441507
+        ]
+    },
+    {
+        "tracks": [
+            "2018-11-04__Hike__Speer.gpx"
+        ],
+        "stravaUrl": [
+            1946038122
+        ]
+    },
+    {
+        "tracks": [
+            "2018-11-18__Hike__Palis_Nideri_Zuestoll.gpx"
+        ],
+        "photoUrl": "2018/2018-11-18-Zuestoll",
+        "stravaUrl": [
+            1972853564
+        ]
+    },
+    {
+        "tracks": [
+            "2018-12-09__Hike__Monte_Boglia.gpx"
+        ],
+        "photoUrl": "2018/2018-12-09-Gandria-Monte-Boglia",
+        "stravaUrl": [
+            2017228079
+        ]
+    },
+    {
+        "tracks": [
+            "2019-01-12__Skitour__Monts_Chevreuils.gpx"
+        ],
+        "photoUrl": "2019/2019-01-12-Monts-Chevreuils",
+        "stravaUrl": [
+            2073401693
+        ]
+    },
+    {
+        "tracks": [
+            "2019-01-20__Skitour__Fil_da_Rueun.gpx"
+        ],
+        "photoUrl": "2019/2019-01-20-Fil-da-Rueun",
+        "stravaUrl": [
+            2094823108
+        ]
+    },
+    {
+        "tracks": [
+            "2019-01-27__Skitour__Chrüz_Sankt_Antönien.gpx"
+        ],
+        "photoUrl": "2019/2019-01-27-Chrüz-St-Antönien",
+        "stravaUrl": [
+            2107441780
+        ]
+    },
+    {
+        "tracks": [
+            "2019-02-02__Skitour__Stockberg.gpx"
+        ],
+        "photoUrl": "2019/2019-02-02-Stockberg",
+        "stravaUrl": [
+            2119647198
+        ]
+    },
+    {
+        "tracks": [
+            "2019-02-09__Skitour__Um_Su_Lumbrein.gpx"
+        ],
+        "photoUrl": "2019/2019-02-09-Um-Su-Lumbrein",
+        "stravaUrl": [
+            2135095562
+        ]
+    },
+    {
+        "tracks": [
+            "2019-02-16__Skitour__Erdisgulmen__1.gpx",
+            "2019-02-16__Skitour__Erdisgulmen__2.gpx"
+        ],
+        "photoUrl": "2019/2019-02-16-Erdisgulmen",
+        "stravaUrl": [
+            2156389361,
+            2156389359
+        ]
+    },
+    {
+        "tracks": [
+            "2019-02-17__Skitour__Mittaghorn.gpx"
+        ],
+        "photoUrl": "2019/2019-02-17-Splügen-Mittaghorn",
+        "stravaUrl": [
+            2156389412
+        ]
+    },
+    {
+        "tracks": [
+            "2019-03-16__Skitour__Parpeinahorn.gpx"
+        ],
+        "photoUrl": "2019/2019-03-16-Parpeinahorn",
+        "stravaUrl": [
+            2220921438
+        ]
+    },
+    {
+        "tracks": [
+            "2019-04-06__Skitour__Munt_Griatschouls.gpx"
+        ],
+        "photoUrl": "2019/2019-04-06-S-Chanf",
+        "stravaUrl": [
+            2270801561
+        ]
+    },
+    {
+        "tracks": [
+            "2019-04-07__Hike__Felsenegg.gpx"
+        ],
+        "stravaUrl": [
+            2272091306
+        ]
+    },
+    {
+        "tracks": [
+            "2019-04-13__Hike__Walensee.gpx"
+        ],
+        "stravaUrl": [
+            2290492074
+        ]
+    },
+    {
+        "tracks": [
+            "2019-04-20__Skitour__Simplon_Breithorn.gpx"
+        ],
+        "photoUrl": "2019/2019-04-20-Simplon-Breithorn",
+        "stravaUrl": [
+            2308196830
+        ]
+    },
+    {
+        "tracks": [
+            "2019-04-21__Skitour__Mase.gpx"
+        ],
+        "photoUrl": "2019/2019-04-21-Mase",
+        "stravaUrl": [
+            2308196873
+        ]
+    },
+    {
+        "tracks": [
+            "2019-04-22__Hike__Reichebachwald.gpx"
+        ],
+        "photoUrl": "2019/2019-04-22-Zendermaetteli-Dinner",
+        "stravaUrl": [
+            2310296038
+        ]
+    },
+    {
+        "tracks": [
+            "2019-05-30__Hike__Grosser_und_Kleiner_Mythen.gpx"
+        ],
+        "stravaUrl": [
+            2460668508
+        ]
+    },
+    {
+        "tracks": [
+            "2019-06-08__Hike__Capanna_Adula.gpx"
+        ],
+        "photoUrl": "2019/2019-06-09-Adula",
+        "stravaUrl": [
+            2460668668
+        ]
+    },
+    {
+        "tracks": [
+            "2019-06-09__Hike__Val_Carassin.gpx"
+        ],
+        "photoUrl": "2019/2019-06-09-Adula",
+        "stravaUrl": [
+            2460668725
+        ]
+    },
+    {
+        "tracks": [
+            "2019-06-15__Hike__Stockhorn_M1a_Reunion.gpx"
+        ],
+        "photoUrl": "2019/2019-06-15-M1a-Reunion",
+        "stravaUrl": [
+            2460668765
+        ]
+    },
+    {
+        "tracks": [
+            "2019-06-23__Hike__Scenic_Trail.gpx"
+        ],
+        "photoUrl": "2019/2019-06-23-Scenic-Trail",
+        "stravaUrl": [
+            2475365375
+        ]
+    },
+    {
+        "tracks": [
+            "2019-06-30__Hike__Ferdenrothorn.gpx"
+        ],
+        "photoUrl": "2019/2019-06-30-Ferdenrothorn",
+        "stravaUrl": [
+            2493050069
+        ]
+    },
+    {
+        "tracks": [
+            "2019-07-02__Hike__Torrenthorn.gpx"
+        ],
+        "photoUrl": "2019/2019-07-02-Torrenthorn",
+        "stravaUrl": [
+            2498041441
+        ]
+    },
+    {
+        "tracks": [
+            "2019-07-03__Run__Gemmi_Running.gpx"
+        ],
+        "photoUrl": "2019/2019-07-03-Gemmi-Running-und-Plattenhörner",
+        "stravaUrl": [
+            2500740536
+        ]
+    },
+    {
+        "tracks": [
+            "2019-07-03__Hike__Plattenhörner.gpx"
+        ],
+        "photoUrl": "2019/2019-07-03-Gemmi-Running-und-Plattenhörner",
+        "stravaUrl": [
+            2500740540
+        ]
+    },
+    {
+        "tracks": [
+            "2019-07-04__Hike__Alte_Gemmi.gpx"
+        ],
+        "photoUrl": "2019/2019-07-04-Alte-Gemmi",
+        "stravaUrl": [
+            2503828637
+        ]
+    },
+    {
+        "tracks": [
+            "2019-07-05__Hike__Wysse_See__1.gpx",
+            "2019-07-05__Hike__Wysse_See__2.gpx"
+        ],
+        "photoUrl": "2019/2019-07-05-Wysse-See",
+        "stravaUrl": [
+            2506518114,
+            2506518184
+        ]
+    },
+    {
+        "tracks": [
+            "2019-07-06__Hike__Leukerbad-Sunnbühl.gpx"
+        ],
+        "photoUrl": "2019/2019-07-06-Leukerbad-Sunnbüel",
+        "stravaUrl": [
+            2509306285 
+        ]
+    },
+    {
+        "tracks": [
+            "2019-07-18__Hike__Grand_Teton_Cascade_Canyon.gpx"
+        ],
+        "photoUrl": "2019/2019-07-19-Grand-Teton",
+        "stravaUrl": [
+            2544326100
+        ]
+    },
+    {
+        "tracks": [
+            "2019-07-19__Hike__Grand_Teton_Taggart_and_Bradley_Lakes.gpx"
+        ],
+        "photoUrl": "2019/2019-07-19-Grand-Teton",
+        "stravaUrl": [
+            2546706830
+        ]
+    },
+    {
+        "tracks": [
             "2019-07-21__Hike__Fiery_Furnace.gpx"
         ],
         "photoUrl": "2019/2019-07-22-Arches",
         "stravaUrl": [
             2551853979
+        ]
+    },
+    {
+        "tracks": [
+            "2019-08-01__Hike__Vorder_Glärnisch.gpx"
+        ],
+        "photoUrl": "2019/2019-08-01-Vorder-Glärnisch",
+        "stravaUrl": [
+            2582283606
+        ]
+    },
+    {
+        "tracks": [
+            "2019-08-03__Run__Niesengrat_Light.gpx"
+        ],
+        "photoUrl": "2019/2019-08-03-Niesengrat-Light",
+        "stravaUrl": [
+            2587292629
+        ]
+    },
+    {
+        "tracks": [
+            "2019-08-04__Run__Tiefenau-Bern.gpx"
+        ],
+        "stravaUrl": [
+            2590486558
+        ]
+    },
+    {
+        "tracks": [
+            "2019-08-17__Hike__Cadlimo_1.gpx"
+        ],
+        "photoUrl": "2019/2019-08-18-Cadlimo",
+        "stravaUrl": [
+            2630973677
+        ]
+    },
+    {
+        "tracks": [
+            "2019-08-18__Hike__Cadlimo_2_Piz_Borel.gpx"
+        ],
+        "photoUrl": "2019/2019-08-18-Cadlimo",
+        "stravaUrl": [
+            2630973692
         ]
     },
     {
@@ -246,6 +972,73 @@
         "stravaUrl": [
             2654195102,
             2654195089
+        ]
+    },
+    {
+        "tracks": [
+            "2019-09-08__Hike__Bifertenhütte_1.gpx"
+        ],
+        "photoUrl": "2019/2019-09-09-Bifertenhütte",
+        "stravaUrl": [
+            2693881383
+        ]
+    },
+    {
+        "tracks": [
+            "2019-09-09__Hike__Bifertenhütte_2.gpx"
+        ],
+        "photoUrl": "2019/2019-09-09-Bifertenhütte",
+        "stravaUrl": [
+            2693881392
+        ]
+    },
+    {
+        "tracks": [
+            "2019-09-14__Hike__Barrhörner_1.gpx"
+        ],
+        "photoUrl": "2019/2019-09-15-Barrhorn",
+        "stravaUrl": [
+            2712334347
+        ]
+    },
+    {
+        "tracks": [
+            "2019-09-15__Hike__Barrhörner_2__1.gpx",
+            "2019-09-15__Hike__Barrhörner_2__2.gpx"
+        ],
+        "photoUrl": "2019/2019-09-15-Barrhorn",
+        "stravaUrl": [
+            2712334447,
+            2712334372
+        ]
+    },
+    {
+        "tracks": [
+            "2019-10-13__Hike__Brienzergrat.gpx"
+        ],
+        "photoUrl": "2019/2019-10-13-Brienzergrat",
+        "stravaUrl": [
+            2786640538
+        ]
+    },
+    {
+        "tracks": [
+            "2019-10-26__Hike__Hoher_Kasten_und_Saxer_First.gpx"
+        ],
+        "photoUrl": "2019/2019-10-26-Hoher-Kasten",
+        "stravaUrl": [
+            2819068305
+        ]
+    },
+    {
+        "tracks": [
+            "2019-11-30__Hike__Monte_Boglia__1.gpx",
+            "2019-11-30__Hike__Monte_Boglia__2.gpx"
+        ],
+        "photoUrl": "2019/2019-11-30-Monte-Boglia",
+        "stravaUrl": [
+            2902601669,
+            2902601703
         ]
     },
     {
@@ -521,7 +1314,7 @@
     },
     {
         "tracks": [
-            "2020-08-10__Hike__Gemmi_Running.gpx"
+            "2020-08-10__Run__Gemmi_Running.gpx"
         ],
         "stravaUrl": [
             3892984364

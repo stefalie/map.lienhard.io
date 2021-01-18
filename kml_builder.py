@@ -181,9 +181,9 @@ def generate_placemark(outing):
         title = outing["title"]
 
     if title in encountered_titles:
-        print(f"Already encountered title: {title}")
+        print(f"NOTE: Already encountered title: {title}")
     if date_str in encountered_dates:
-        print(f"Already encountered date: {date_str}")
+        print(f"NOTE: Already encountered date: {date_str}")
     encountered_titles.add(title)
     encountered_dates.add(date_str)
 
@@ -265,5 +265,6 @@ try:
     with open(ouptut_kml_file, "w", encoding="utf8") as out_file:
         out_file.write(kml_all)
 except AssertionError as error_msg:
-    print(error_msg)
+    print("ERROR: " + error_msg)
+    print("Aborting ...")
 
