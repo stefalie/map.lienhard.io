@@ -1,13 +1,156 @@
 [
     {
+        "tracks": [
+            "2013-10-24__Run__Lac_de_Joux__1.gpx",
+            "2013-10-24__Run__Lac_de_Joux__2.gpx"
+        ],
+        "photoUrl": "",
+        "stravaUrl": [
+            91040192,
+            91045954
+        ]
+    },
+    {
+        "tracks": [
+            "2013-10-25__Run__Lac_de_Joux.gpx"
+        ],
+        "stravaUrl": [
+            91221854
+        ]
+    },
+    {
+        "tracks": [
+            "2014-07-05__Run__Uttigen-Neufeld__1.gpx",
+            "2014-07-05__Run__Uttigen-Neufeld__2.gpx",
+            "2014-07-05__Run__Uttigen-Neufeld__3.gpx"
+        ],
+        "stravaUrl": [
+            161951787,
+            161961649,
+            161994869
+        ]
+    },
+    {
+        "tracks": [
+            "2014-07-16__Run__Punta_di_Valdeserta.gpx"
+        ],
+        "photoUrl": "2014/2014-07-16-Schinhorn",
+        "stravaUrl": [
+            166648413
+        ]
+    },
+    {
+        "tracks": [
+            "2016-04-10__Hike__Lavaux.gpx"
+        ],
+        "photoUrl": "2016/2016-04-10-Lavaux",
+        "stravaUrl": [
+            541336013
+        ]
+    },
+    {
+        "tracks": [
+            "2016-06-12__Hike__Ochsen.gpx"
+        ],
+        "photoUrl": "2016/2016-06-12-Ochsen",
+        "stravaUrl": [
+            607356182
+        ]
+    },
+    {
+        "tracks": [
+            "2016-06-26__Run__Ochse_u_Gaentu.gpx"
+        ],
+        "photoUrl": "2016/2016-06-26-Ochse-u-Gäntu",
+        "stravaUrl": [
+            621749606
+        ]
+    },
+    {
+        "tracks": [
+            "2016-07-10__Hike__Stockhorn.gpx"
+        ],
+        "photoUrl": "2016/2016-07-10-Stockhorn",
+        "stravaUrl": [
+            636561356
+        ]
+    },
+    {
+        "tracks": [
+            "2016-07-17__Hike__Niesen.gpx"
+        ],
+        "photoUrl": "2016/2016-07-17-Niesen",
+        "stravaUrl": [
+            643799650
+        ]
+    },
+    {
+        "tracks": [
+            "2016-07-19__Bike__Novena-Gottardo-Furka.gpx"
+        ],
+        "photoUrl": "2016/2016-07-19-Novena-Gottardo-Furka",
+        "stravaUrl": [
+            646404879
+        ]
+    },
+    {
+        "tracks": [
+            "2016-07-24__Hike__Albristhore.gpx"
+        ],
+        "photoUrl": "2016/2016-07-24-Albristhore",
+        "stravaUrl": [
+            651956173
+        ]
+    },
+    {
+        "tracks": [
+            "2016-08-01__Hike__Rigi_via_Füdlibagge.gpx"
+        ],
+        "photoUrl": "2016-08-01-Rigi-via-Füdlibagge",
+        "stravaUrl": [
+            661139410
+        ]
+    },
+    {
+        "tracks": [
+            "2016-08-03__Run__Brienzergrat_mit_Bensch.gpx"
+        ],
+        "photoUrl": "2016/2016-08-03-Hardergrat-2",
+        "stravaUrl": [
+            663456771
+        ]
+    },
+    {
+        "tracks": [
+            "2016-08-08__Hike__Unteres_Schinhorn.gpx"
+        ],
+        "photoUrl": "2016/2016-08-11-Binn",
+        "stravaUrl": [
+            669006444
+        ]
+    },
+    {
+        "tracks": [
+            "2016-08-10__Hike__Schweifegrat.gpx"
+        ],
+        "photoUrl": "2016/2016-08-11-Binn",
+        "stravaUrl": [
+            671289741
+        ]
+    },
+    {
+        "tracks": [
+            "2016-08-14__Run__Home-Bern.gpx"
+        ],
+        "stravaUrl": [
+            676007064
+        ]
+    },
+    {
         "title": "Bollenwees und Fähnligipfel",
         "type": "Climb",
         "date": "2017-06-19",
         "points": [
-            {
-                "lat": 47.25304,
-                "long": 9.42455
-            },
             {
                 "lat": 47.25530,
                 "long": 9.41295
@@ -444,6 +587,107 @@
         "photoUrl": "2020/2020-11-17-Federispitz",
         "stravaUrl": [
             4351741626
+        ]
+    },
+    {
+        "tracks": [
+            "2020-11-28__Hike__Alp_Tschingla.gpx"
+        ],
+        "photoUrl": "2020/2020-11-28-Alp-Tschingla",
+        "stravaUrl": [
+            4403866759
+        ]
+    },
+    {
+        "tracks": [
+            "2020-11-29__Hike__Mythen_Nebelmeer.gpx"
+        ],
+        "photoUrl": "2020/2020-11-29-Myhen-Nebelmeer",
+        "stravaUrl": [
+            4408975525
+        ]
+    },
+    {
+        "tracks": [
+            "2020-12-12__Skitour__Piz_Feil.gpx"
+        ],
+        "photoUrl": "2020/2020-11-29-Myhen-Nebelmeer",
+        "stravaUrl": [
+            4463765412
+        ]
+    },
+    {
+        "tracks": [
+            "2020-12-13__Skitour__Furggelenstock.gpx"
+        ],
+        "photoUrl": "2020/2020-12-13-Furggelenstock",
+        "stravaUrl": [
+            4470516518
+        ]
+    },
+    {
+        "tracks": [
+            "2020-12-17__Skitour__Fil_da_Rubi.gpx"
+        ],
+        "photoUrl": "2020/2020-12-17-Fil-da-Rubi",
+        "stravaUrl": [
+            4491618494
+        ]
+    },
+    {
+        "tracks": [
+            "2020-12-18__Skitour__Piz_Dado.gpx"
+        ],
+        "photoUrl": "2020/2020-12-18-Piz-Dado",
+        "stravaUrl": [
+            4491618499
+        ]
+    },
+    {
+        "tracks": [
+            "2020-12-19__XC-Ski__Brigels.gpx"
+        ],
+        "stravaUrl": [
+            4491618517
+        ]
+    },
+    {
+        "title": "Mittagspitz",
+        "type": "Skitour",
+        "date": "2021-01-09",
+        "points": [
+            {
+                "lat": 46.86908,
+                "long": 9.68502
+            }
+        ],
+        "photoUrl": "2021/2021-01-09-Mittagspitz"
+    },
+    {
+        "tracks": [
+            "2021-01-10__Skitour__Roggenstock.gpx"
+        ],
+        "photoUrl": "2021/2021-01-10-Roggenstock",
+        "stravaUrl": [
+            4600572341
+        ]
+    },
+    {
+        "tracks": [
+            "2021-01-14__Skitour__Skitour_Uetliberg.gpx"
+        ],
+        "photoUrl": "2021/2021-01-14-Uetliberg-Skitour",
+        "stravaUrl": [
+            4620279397
+        ]
+    },
+    {
+        "tracks": [
+            "2021-01-16__Skitour__Wildspitz.gpx"
+        ],
+        "photoUrl": "2021/2021-01-16-Wildspitz",
+        "stravaUrl": [
+            4630798980
         ]
     }
 ]

@@ -12,7 +12,9 @@ import re
 
 # TODO: Create s separate kml file for every year (or have a separate .json per year).
 # TODO: Validate URLs to photos and tracks.
-# TODO: Gpx optimize, check https://github.com/Andrii-D/optimize-gpx, or https://github.com/Alezy80/gpx_reduce
+# TODO: Gpx optimization alternative: https://github.com/Alezy80/gpx_reduce
+# TODO: Potentially extra Strava activity numbers from file names (maybe not for
+# now, the gpx files could also come from elsewhere than Strava).
 
 kml_title = "Cheryl &amp; Stefan's Outings"
 input_json_file = "outings.json"
@@ -35,6 +37,9 @@ styles = {
         "Hochtour": (139,   0, 139, alpha),  # DarkMagenta 
         "Climb"   : (139,   0, 139, alpha),  # DarkMagenta  (same as Houchtour)
         "Skitour" : (  0,   0, 255, alpha),  # Blue
+        "Run"     : ( 55, 180,   0, alpha),  # Green
+        "Bike"    : (255, 136,   0, alpha),  # Orange
+        "XC-Ski"  : (  0, 227, 216, alpha),  # Turqoise
 }
 
 with open(input_json_file, "r", encoding="utf8") as in_file:
@@ -150,6 +155,7 @@ def generate_placemark(outing):
     # Extract date, type, and title from the first available track.
     if num_tracks > 0:
         matches = re.search(track_file_format, outing["tracks"][0])
+        assert(matches), f'Gpx file name cannot be regex matched: {outing["tracks"][0]}'
         assert(len(matches.groups()) == 4 or len(matches.groups()) == 5), f'Gpx file format incorrect: {outing["tracks"][0]}'
         date_str = matches.group(1)
         activity_type = matches.group(2)
@@ -174,8 +180,10 @@ def generate_placemark(outing):
     if "title" in outing:
         title = outing["title"]
 
-    assert(title not in encountered_titles), f"Already encountered title: {title}"
-    assert(date_str not in encountered_dates), f"Already encountered date: {date_str}"
+    if title in encountered_titles:
+        print(f"Already encountered title: {title}")
+    if date_str in encountered_dates:
+        print(f"Already encountered date: {date_str}")
     encountered_titles.add(title)
     encountered_dates.add(date_str)
 
@@ -246,11 +254,16 @@ def generate_placemark(outing):
     geom = indent(geom, 1)
 
     return template_placemark.format(style_name=activity_type, description=desc, geometry=geom)
-kml_placemarks = "\n".join(map(generate_placemark, outings))
 
-kml_styles = indent(kml_styles, 2)
-kml_placemarks = indent(kml_placemarks, 2)
-kml_all = template_body.format(kml_title=kml_title, styles=kml_styles, placemarks=kml_placemarks)
+try:
+    kml_placemarks = "\n".join(map(generate_placemark, outings))
 
-with open(ouptut_kml_file, "w", encoding="utf8") as out_file:
-    out_file.write(kml_all)
+    kml_styles = indent(kml_styles, 2)
+    kml_placemarks = indent(kml_placemarks, 2)
+    kml_all = template_body.format(kml_title=kml_title, styles=kml_styles, placemarks=kml_placemarks)
+
+    with open(ouptut_kml_file, "w", encoding="utf8") as out_file:
+        out_file.write(kml_all)
+except AssertionError as error_msg:
+    print(error_msg)
+
