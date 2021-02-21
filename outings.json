@@ -1509,5 +1509,22 @@
         "stravaUrl": [
             4751237046
         ]
+    },
+    {
+        "tracks": [
+            "2021-02-20__Skitour__Roggenstock.gpx"
+        ],
+        "stravaUrl": [
+            4818351987
+        ]
+    },
+    {
+        "tracks": [
+            "2021-02-21__Skitour__Silberen.gpx"
+        ],
+        "photoUrl": "2021/2021-02-21-Silberen",
+        "stravaUrl": [
+            4826149054
+        ]
     }
 ]
