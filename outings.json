@@ -106,7 +106,7 @@
         "tracks": [
             "2016-08-01__Hike__Rigi_via_Füdlibagge.gpx"
         ],
-        "photoUrl": "2016-08-01-Rigi-via-Füdlibagge",
+        "photoUrl": "2016/2016-08-01-Rigi-via-Füdlibagge",
         "stravaUrl": [
             661139410
         ]
@@ -1535,6 +1535,27 @@
         "photoUrl": "2021/2021-02-26-Selun",
         "stravaUrl": [
             4853718370
+        ]
+    },
+    {
+        "title": "Pic de Grandval",
+        "type": "Climb",
+        "date": "2021-02-28",
+        "points": [
+            {
+                "lat": 47.29378,
+                "long": 7.42532
+            }
+        ],
+        "photoUrl": "2021/2021-02-28-Pic-de-Grandval"
+    },
+    {
+        "tracks": [
+            "2021-03-07__Hike__Klein_Mythen_Vorgipfel.gpx"
+        ],
+        "photoUrl": "2021/2021-03-07-Klein-Mythen-Vorgipfel",
+        "stravaUrl": [
+            4908475439
         ]
     }
 ]

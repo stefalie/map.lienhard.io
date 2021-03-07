@@ -206,7 +206,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Rigi via Füdlibagge</h4><p>Hike on August 1, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016-08-01-Rigi-via-Füdlibagge">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/661139410">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Rigi via Füdlibagge</h4><p>Hike on August 1, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-08-01-Rigi-via-Füdlibagge">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/661139410">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1701,7 +1701,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Roggenstock</h4><p>Skitour on February 20, 2021.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4818351987">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Roggenstock</h4><p>Skitour on February 20, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-20-Roggenstock">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4818351987">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1724,6 +1724,23 @@
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
 				<coordinates>9.25653,47.18387 9.25595,47.18247 9.25613,47.18193 9.25548,47.18088 9.25344,47.17969 9.25130,47.17939 9.24925,47.17848 9.24870,47.17780 9.24910,47.17688 9.24841,47.17566 9.24983,47.17589 9.25001,47.17616 9.25351,47.17611 9.25520,47.17549 9.25240,47.17493 9.24971,47.17340 9.25081,47.17373 9.25129,47.17356 9.25041,47.17305 9.25208,47.17309 9.25140,47.17219 9.25028,47.17188 9.25025,47.17166 9.25119,47.17164 9.24978,47.17085 9.25034,47.16964 9.25163,47.16943 9.25252,47.16847 9.25285,47.16728 9.25254,47.16601 9.25295,47.16575 9.25275,47.16484 9.25445,47.16366 9.25438,47.16255 9.25472,47.16247 9.25456,47.16211 9.25497,47.16090 9.25455,47.16009 9.25542,47.15967 9.25459,47.15816 9.25497,47.15470 9.25436,47.15393 9.25522,47.15379 9.25439,47.15247 9.25550,47.15257 9.25483,47.15243</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Pic de Grandval</h4><p>Climb on February 28, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-28-Pic-de-Grandval">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.42532,47.29378</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Klein Mythen Vorgipfel</h4><p>Hike on March 7, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-03-07-Klein-Mythen-Vorgipfel">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4908475439">tracks</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>8.65390,47.02117 8.65397,47.02195 8.65627,47.02339 8.65714,47.02381 8.65921,47.02352 8.65901,47.02393 8.65929,47.02403 8.65992,47.02398 8.66086,47.02311 8.66487,47.02202 8.66517,47.02133 8.66604,47.02133 8.66581,47.02161 8.66638,47.02178 8.67123,47.02133 8.67303,47.02170 8.67415,47.02230 8.67575,47.02193 8.67606,47.02237 8.67564,47.02323 8.67614,47.02349 8.67550,47.02557 8.67583,47.02717 8.67544,47.02807 8.67568,47.02885 8.67525,47.02992 8.67541,47.03034 8.67493,47.03112 8.67700,47.03068 8.67840,47.03000 8.67836,47.03035 8.67919,47.03052 8.67889,47.03073 8.67951,47.03086 8.67936,47.03107 8.68001,47.03072 8.68062,47.03081 8.68091,47.02989 8.68153,47.03002 8.68115,47.02993 8.68181,47.02937 8.68175,47.03074 8.68210,47.03115 8.68165,47.03219 8.68199,47.03278 8.68165,47.03301 8.68285,47.03321 8.68306,47.03352 8.68258,47.03441 8.68276,47.03501 8.68183,47.03566 8.68182,47.03612 8.68231,47.03685 8.68282,47.03682 8.68354,47.03731 8.68392,47.03924 8.68359,47.03725 8.68176,47.03605 8.68175,47.03573 8.68308,47.03478 8.68262,47.03447 8.68282,47.03455 8.68297,47.03395 8.68449,47.03442 8.68612,47.03366 8.68840,47.03345 8.68956,47.03300 8.69002,47.03353 8.69061,47.03339 8.69036,47.03369 8.69131,47.03349 8.69276,47.03399 8.69361,47.03392 8.69732,47.03556 8.69793,47.03628 8.69764,47.03685 8.69848,47.03740 8.69842,47.03771 8.69939,47.03854 8.70237,47.03998 8.70310,47.04125</coordinates>
 			</LineString>
 		</Placemark>
 	</Document>
