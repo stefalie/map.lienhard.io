@@ -14,6 +14,18 @@
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
 		</Style>
+		<Style id="ViaFerrata">
+			<LineStyle>
+				<color>E50000FF</color>
+				<width>8</width>
+			</LineStyle>
+			<IconStyle>
+				<Icon>
+					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMjU1LDAsMCwwLjkpIiBkPSJNNTAgMTRhMjQgMjQgMCAwMC0yNCAyNGMwIDEzLjMgMjQgNDggMjQgNDhzMjQtMzQuOCAyNC00OGEyNCAyNCAwIDAwLTI0LTI0em0wIDM2LjVhMTIgMTIgMCAxMTAtMjQgMTIgMTIgMCAwMTAgMjR6Ii8+PC9zdmc+</href>
+				</Icon>
+				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
+			</IconStyle>
+		</Style>
 		<Style id="Hochtour">
 			<LineStyle>
 				<color>E58B008B</color>
@@ -87,11 +99,125 @@
 			</IconStyle>
 		</Style>
 		<Placemark>
+			<styleUrl>#Skitour</styleUrl>
+			<description><![CDATA[<h4>Maturareise Andermatt</h4><p>Skitour on March 29, 2004.</p><p>See <a href="https://stefalie.smugmug.com/2004/2004-03-29-Maturareise-Andermatt-by-Schmidi" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.59332,46.63533</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Run</styleUrl>
+			<description><![CDATA[<h4>Jungfrau Marathon</h4><p>Run on September 11, 2004.</p><p>See <a href="https://stefalie.smugmug.com/2004/2004-09-11-Jungfrau-Marathon" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.97001,46.57339</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Run</styleUrl>
+			<description><![CDATA[<h4>Lausanne Semi Marathon</h4><p>Run on October 4, 2004.</p><p>See <a href="https://stefalie.smugmug.com/2004/2004-10-04-Lausanne-Semi-Marathon" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>6.85933,46.45388</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Run</styleUrl>
+			<description><![CDATA[<h4>Aletsch Halbmarathon</h4><p>Run on June 26, 2005.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.07614,46.41071</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Run</styleUrl>
+			<description><![CDATA[<h4>Swiss Alpine Marathon</h4><p>Run on July 30, 2005.</p><p>See <a href="https://stefalie.smugmug.com/2005/2005-07-30-Swiss-Alpine-Marathon" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>9.92026,46.69274</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Run</styleUrl>
+			<description><![CDATA[<h4>Inferno Halbmarathon</h4><p>Run on August 19, 2005.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.83523,46.55733</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Run</styleUrl>
+			<description><![CDATA[<h4>Jungfrau Marathon</h4><p>Run on September 10, 2005.</p><p>See <a href="https://stefalie.smugmug.com/2005/2005-09-10-Jungfrau-Marathon" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.97001,46.57339</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Run</styleUrl>
+			<description><![CDATA[<h4>Swiss Alpine Marathon</h4><p>Run on July 29, 2006.</p><p>See <a href="https://stefalie.smugmug.com/2006/2006-07-29-Swiss-Alpine-Marathon" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>9.92026,46.69274</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Run</styleUrl>
+			<description><![CDATA[<h4>Jungfrau Marathon</h4><p>Run on September 9, 2006.</p><p>See <a href="https://stefalie.smugmug.com/2006/2006-09-09-Jungfrau-Marathon" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.97001,46.57339</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Algonquin Park</h4><p>Hike on October 2, 2007.</p><p>See <a href="https://stefalie.smugmug.com/2007-10-02-Algonquin-Park" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>-78.65541,45.46318</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Skitour</styleUrl>
+			<description><![CDATA[<h4>Piz Sarsura & Sarsuret</h4><p>Skitour on March 29, 2010.</p><p>See <a href="https://stefalie.smugmug.com/2010/2010-03-29-Grialetsch" target="_blank">photos</a>.</p>]]></description>
+			<MultiGeometry>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>9.96060,46.71031</coordinates>
+				</Point>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>9.99444,46.69120</coordinates>
+				</Point>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>10.00756,46.69007</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Mittagflue</h4><p>Climb on May 6, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-05-06-Simmental-Mittagflue" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.36723,46.63592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Hochtour</styleUrl>
 			<description><![CDATA[<h4>Weisshorn</h4><p>Hochtour on August 9, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-08-09-Weisshorn" target="_blank">photos</a>.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>7.71608,46.10128</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Run</styleUrl>
+			<description><![CDATA[<h4>Lausanne Semi Marathon</h4><p>Run on October 30, 2011.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>6.85933,46.45388</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -103,11 +229,27 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Moléson Via Ferrata</h4><p>Hike on July 4, 2012.</p><p>See <a href="https://stefalie.smugmug.com/2012/2012-07-26-Moléson-Another-Lightning-Rod" target="_blank">photos</a>.</p>]]></description>
+			<styleUrl>#ViaFerrata</styleUrl>
+			<description><![CDATA[<h4>Moléson Via Ferrata</h4><p>ViaFerrata on July 4, 2012.</p><p>See <a href="https://stefalie.smugmug.com/2012/2012-07-26-Moléson-Another-Lightning-Rod" target="_blank">photos</a>.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>7.01803,46.54649</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Run</styleUrl>
+			<description><![CDATA[<h4>20km de Lausanne</h4><p>Run on April 28, 2012.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>6.63525,46.52257</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#ViaFerrata</styleUrl>
+			<description><![CDATA[<h4>La Tour d'Aï</h4><p>ViaFerrata on June 28, 2012.</p><p>See <a href="https://stefalie.smugmug.com/2012/2012-06-28-La-Tour-dAi-My-First-Lightning-Rod" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.00195,46.37216</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -175,7 +317,31 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Gemmi Bike & Run</h4><p>Run on July 18, 2012.</p><p>See <a href="https://stefalie.smugmug.com/2015/2015-07-18-Gemmi" target="_blank">photos</a>.</p>]]></description>
+			<description><![CDATA[<h4>Swiss Alpine Marathon</h4><p>Run on July 26, 2014.</p><p>See <a href="https://stefalie.smugmug.com/2014/2014-07-26-Swiss-Alpine-Marathon-2014" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>9.88438,46.68086</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Run</styleUrl>
+			<description><![CDATA[<h4>Inferno Halbmarathon</h4><p>Run on August 21, 2014.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.83523,46.55733</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Run</styleUrl>
+			<description><![CDATA[<h4>20km de Lausanne</h4><p>Run on April 25, 2015.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>6.63525,46.52257</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Bike</styleUrl>
+			<description><![CDATA[<h4>Gemmi Bike & Run</h4><p>Bike on July 18, 2015.</p><p>See <a href="https://stefalie.smugmug.com/2015/2015-07-18-Gemmi" target="_blank">photos</a>.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>7.62377,46.38376</coordinates>
@@ -183,7 +349,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Gemmi Bike & Run</h4><p>Run on July 18, 2012.</p><p>See <a href="https://stefalie.smugmug.com/2015/2015-07-18-Gemmi" target="_blank">photos</a>.</p>]]></description>
+			<description><![CDATA[<h4>Gemmi Bike & Run</h4><p>Run on July 18, 2015.</p><p>See <a href="https://stefalie.smugmug.com/2015/2015-07-18-Gemmi" target="_blank">photos</a>.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>7.61285,46.39695</coordinates>
@@ -224,6 +390,20 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Skitour</styleUrl>
+			<description><![CDATA[<h4>Patrouille des Glaciers</h4><p>Skitour on April 20, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-04-20-Patrouille-des-Glaciers" target="_blank">photos</a>.</p>]]></description>
+			<MultiGeometry>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>7.57516,45.98925</coordinates>
+				</Point>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>7.35811,46.06373</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Hike</styleUrl>
 			<description><![CDATA[<h4>Ochsen</h4><p>Hike on June 12, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-06-12-Ochsen" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/607356182" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
@@ -240,6 +420,14 @@
 				<tessellate>1</tessellate>
 				<coordinates>7.41651,46.71553 7.41582,46.71511 7.41618,46.71423 7.41585,46.71375 7.41598,46.71275 7.41483,46.71286 7.41523,46.71251 7.41455,46.71230 7.41388,46.71256 7.41281,46.71217 7.41263,46.71182 7.41169,46.71178 7.41063,46.71125 7.41165,46.71005 7.41073,46.70894 7.40981,46.70705 7.40969,46.70508 7.40817,46.70331 7.40846,46.70228 7.40809,46.70213 7.40903,46.70040 7.40977,46.69999 7.41063,46.69879 7.41467,46.69819 7.41453,46.69841 7.41764,46.69829 7.41882,46.69793 7.41814,46.69865 7.41879,46.69896 7.41817,46.69865 7.41882,46.69797 7.41822,46.69811 7.41878,46.69756 7.41838,46.69757 7.41876,46.69697 7.41876,46.69621 7.42003,46.69467 7.42134,46.69506 7.42369,46.69398 7.42497,46.69462 7.42589,46.69425 7.43031,46.69425 7.43381,46.69378 7.43528,46.69414 7.43589,46.69391 7.43735,46.69413 7.43800,46.69456 7.43895,46.69447 7.44008,46.69517 7.44251,46.69535 7.44255,46.69566 7.44289,46.69549 7.44293,46.69584 7.44351,46.69560 7.44388,46.69595 7.44385,46.69646 7.44179,46.69686 7.44135,46.69761 7.44175,46.69763 7.44166,46.69788 7.44100,46.69815 7.44110,46.69844 7.44035,46.69943 7.44386,46.69872 7.44664,46.69899 7.44716,46.70063 7.44837,46.70178 7.44837,46.70235 7.45103,46.70432 7.45120,46.70480 7.45045,46.70491 7.45080,46.70474 7.45075,46.70439 7.45120,46.70457 7.45069,46.70394 7.44860,46.70270 7.44839,46.70166 7.44608,46.70203 7.44527,46.70261 7.44471,46.70372 7.44425,46.70371 7.44484,46.70588 7.44536,46.70617 7.44541,46.70676 7.44501,46.70743 7.44518,46.70779 7.44474,46.70818 7.44461,46.70886 7.44320,46.70943 7.44348,46.71090 7.44279,46.71093 7.44071,46.71240 7.43982,46.71258 7.44002,46.71310 7.43970,46.71440 7.44028,46.71541 7.43952,46.71560 7.43928,46.71466 7.43816,46.71550 7.43773,46.71543 7.43813,46.71559 7.43852,46.71627 7.43832,46.71639 7.43894,46.71664 7.43846,46.71710 7.43860,46.71731 7.43702,46.71754 7.43571,46.71709 7.43419,46.71710 7.42909,46.71807 7.42629,46.71749 7.42550,46.71680 7.42496,46.71681 7.42340,46.71518 7.42098,46.71594 7.41723,46.71549 7.41660,46.71556 7.41659,46.71583</coordinates>
 			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>La Tour d'Aï</h4><p>Hike on July 1, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-07-01-Tour-dAi" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.00195,46.37216</coordinates>
+			</Point>
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
@@ -701,6 +889,14 @@
 				<tessellate>1</tessellate>
 				<coordinates>9.45886,47.29798 9.46059,47.29882 9.46308,47.29827 9.46547,47.29855 9.46766,47.29776 9.46772,47.29707 9.47225,47.29595 9.47571,47.29347 9.47222,47.29598 9.46767,47.29706 9.46759,47.29781 9.46539,47.29848 9.46311,47.29822 9.46197,47.29853</coordinates>
 			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Mittagflue</h4><p>Hike on June 3, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-06-03-Mittagflue" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.36723,46.63592</coordinates>
+			</Point>
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
@@ -1703,8 +1899,8 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Daubenhorn</h4><p>Hike on August 15, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-08-15-Daubenhorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3918185172" target="_blank">tracks</a>.</p>]]></description>
+			<styleUrl>#ViaFerrata</styleUrl>
+			<description><![CDATA[<h4>Daubenhorn</h4><p>ViaFerrata on August 15, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-08-15-Daubenhorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3918185172" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>

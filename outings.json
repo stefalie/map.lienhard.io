@@ -1,5 +1,155 @@
 [
     {
+        "title": "Maturareise Andermatt",
+        "type": "Skitour",
+        "date": "2004-03-29",
+        "points": [
+            {
+                "lat": 46.63533,
+                "long": 8.59332
+            }
+        ],
+        "photoUrl": "2004/2004-03-29-Maturareise-Andermatt-by-Schmidi"
+    },
+    {
+        "title": "Jungfrau Marathon",
+        "type": "Run",
+        "date": "2004-09-11",
+        "points": [
+            {
+                "lat": 46.57339,
+                "long": 7.97001
+            }
+        ],
+        "photoUrl": "2004/2004-09-11-Jungfrau-Marathon"
+    },
+    {
+        "title": "Lausanne Semi Marathon",
+        "type": "Run",
+        "date": "2004-10-04",
+        "points": [
+            {
+                "lat": 46.45388,
+                "long": 6.85933
+            }
+        ],
+        "photoUrl": "2004/2004-10-04-Lausanne-Semi-Marathon"
+    },
+    {
+        "title": "Aletsch Halbmarathon",
+        "type": "Run",
+        "date": "2005-06-26",
+        "points": [
+            {
+                "lat": 46.41071,
+                "long": 8.07614
+            }
+        ]
+    },
+    {
+        "title": "Swiss Alpine Marathon",
+        "type": "Run",
+        "date": "2005-07-30",
+        "points": [
+            {
+                "lat": 46.69274,
+                "long": 9.92026
+            }
+        ],
+        "photoUrl": "2005/2005-07-30-Swiss-Alpine-Marathon"
+    },
+    {
+        "title": "Inferno Halbmarathon",
+        "type": "Run",
+        "date": "2005-08-19",
+        "points": [
+            {
+                "lat": 46.55733,
+                "long": 7.83523
+            }
+        ]
+    },
+    {
+        "title": "Jungfrau Marathon",
+        "type": "Run",
+        "date": "2005-09-10",
+        "points": [
+            {
+                "lat": 46.57339,
+                "long": 7.97001
+            }
+        ],
+        "photoUrl": "2005/2005-09-10-Jungfrau-Marathon"
+    },
+    {
+        "title": "Swiss Alpine Marathon",
+        "type": "Run",
+        "date": "2006-07-29",
+        "points": [
+            {
+                "lat": 46.69274,
+                "long": 9.92026
+            }
+        ],
+        "photoUrl": "2006/2006-07-29-Swiss-Alpine-Marathon"
+    },
+    {
+        "title": "Jungfrau Marathon",
+        "type": "Run",
+        "date": "2006-09-09",
+        "points": [
+            {
+                "lat": 46.57339,
+                "long": 7.97001
+            }
+        ],
+        "photoUrl": "2006/2006-09-09-Jungfrau-Marathon"
+    },
+    {
+        "title": "Algonquin Park",
+        "type": "Hike",
+        "date": "2007-10-02",
+        "points": [
+            {
+                "lat": 45.46318393235673,
+                "long": -78.65541024433671
+            }
+        ],
+        "photoUrl": "2007-10-02-Algonquin-Park"
+    },
+    {
+        "title": "Piz Sarsura & Sarsuret",
+        "type": "Skitour",
+        "date": "2010-03-29",
+        "points": [
+            {
+                "lat": 46.71031,
+                "long": 9.96060
+            },
+            {
+                "lat": 46.69120,
+                "long": 9.99444
+            },
+            {
+                "lat": 46.69007,
+                "long": 10.00756
+            }
+        ],
+        "photoUrl": "2010/2010-03-29-Grialetsch"
+    },
+    {
+        "title": "Mittagflue",
+        "type": "Climb",
+        "date": "2011-05-06",
+        "points": [
+            {
+                "lat": 46.63592,
+                "long": 7.36723
+            }
+        ],
+        "photoUrl": "2011/2011-05-06-Simmental-Mittagflue"
+    },
+    {
         "title": "Weisshorn",
         "type": "Hochtour",
         "date": "2011-08-09",
@@ -10,6 +160,17 @@
             }
         ],
         "photoUrl": "2011/2011-08-09-Weisshorn"
+    },
+    {
+        "title": "Lausanne Semi Marathon",
+        "type": "Run",
+        "date": "2011-10-30",
+        "points": [
+            {
+                "lat": 46.45388,
+                "long": 6.85933
+            }
+        ]
     },
     {
         "title": "Meniggrat",
@@ -25,7 +186,7 @@
     },
     {
         "title": "Moléson Via Ferrata",
-        "type": "Hike",
+        "type": "ViaFerrata",
         "date": "2012-07-04",
         "points": [
             {
@@ -34,6 +195,29 @@
             }
         ],
         "photoUrl": "2012/2012-07-26-Moléson-Another-Lightning-Rod"
+    },
+    {
+        "title": "20km de Lausanne",
+        "type": "Run",
+        "date": "2012-04-28",
+        "points": [
+            {
+                "lat": 46.52257,
+                "long": 6.63525
+            }
+        ]
+    },
+    {
+        "title": "La Tour d'Aï",
+        "type": "ViaFerrata",
+        "date": "2012-06-28",
+        "points": [
+            {
+                "lat": 46.37216,
+                "long": 7.00195
+            }
+        ],
+        "photoUrl": "2012/2012-06-28-La-Tour-dAi-My-First-Lightning-Rod"
     },
     {
         "tracks": [
@@ -87,9 +271,43 @@
         "photoUrl": "2014/2014-07-19-Lagginhorn"
     },
     {
-        "title": "Gemmi Bike & Run",
+        "title": "Swiss Alpine Marathon",
         "type": "Run",
-        "date": "2012-07-18",
+        "date": "2014-07-26",
+        "points": [
+            {
+                "lat": 46.68086,
+                "long": 9.88438
+            }
+        ],
+        "photoUrl": "2014/2014-07-26-Swiss-Alpine-Marathon-2014"
+    },
+    {
+        "title": "Inferno Halbmarathon",
+        "type": "Run",
+        "date": "2014-08-21",
+        "points": [
+            {
+                "lat": 46.55733,
+                "long": 7.83523
+            }
+        ]
+    },
+    {
+        "title": "20km de Lausanne",
+        "type": "Run",
+        "date": "2015-04-25",
+        "points": [
+            {
+                "lat": 46.52257,
+                "long": 6.63525
+            }
+        ]
+    },
+    {
+        "title": "Gemmi Bike & Run",
+        "type": "Bike",
+        "date": "2015-07-18",
         "points": [
             {
                 "lat": 46.38376,
@@ -101,7 +319,7 @@
     {
         "title": "Gemmi Bike & Run",
         "type": "Run",
-        "date": "2012-07-18",
+        "date": "2015-07-18",
         "points": [
             {
                 "lat": 46.39695,
@@ -149,6 +367,22 @@
         ]
     },
     {
+        "title": "Patrouille des Glaciers",
+        "type": "Skitour",
+        "date": "2016-04-20",
+        "points": [
+            {
+                "lat": 45.98925,
+                "long": 7.57516
+            },
+            {
+                "lat":46.06373,
+                "long": 7.35811
+            }
+        ],
+        "photoUrl": "2016/2016-04-20-Patrouille-des-Glaciers"
+    },
+    {
         "tracks": [
             "2016-06-12__Hike__Ochsen.gpx"
         ],
@@ -165,6 +399,18 @@
         "stravaUrl": [
             621749606
         ]
+    },
+    {
+        "title": "La Tour d'Aï",
+        "type": "Hike",
+        "date": "2016-07-01",
+        "points": [
+            {
+                "lat": 46.37216,
+                "long": 7.00195
+            }
+        ],
+        "photoUrl": "2016/2016-07-01-Tour-dAi"
     },
     {
         "tracks": [
@@ -587,6 +833,18 @@
         "stravaUrl": [
             1583808601
         ]
+    },
+    {
+        "title": "Mittagflue",
+        "type": "Hike",
+        "date": "2018-06-03",
+        "points": [
+            {
+                "lat": 46.63592,
+                "long": 7.36723
+            }
+        ],
+        "photoUrl": "2018/2018-06-03-Mittagflue"
     },
     {
         "tracks": [
@@ -1525,7 +1783,7 @@
     },
     {
         "tracks": [
-            "2020-08-15__Hike__Daubenhorn.gpx"
+            "2020-08-15__ViaFerrata__Daubenhorn.gpx"
         ],
         "photoUrl": "2020/2020-08-15-Daubenhorn",
         "stravaUrl": [

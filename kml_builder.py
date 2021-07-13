@@ -15,6 +15,9 @@ import re
 # TODO: Gpx optimization alternative: https://github.com/Alezy80/gpx_reduce
 # TODO: Potentially extra Strava activity numbers from file names (maybe not for
 # now, the gpx files could also come from elsewhere than Strava).
+# TODO: Make sure that activity dates match their photo gallery dates (as in they cannot
+# be too far apart, an exact match is not always possible as galleries sometimes cover
+# longer outings).
 
 kml_title = "Cheryl &amp; Stefan's Outings"
 input_json_file = "outings.json"
@@ -33,13 +36,14 @@ marker_icon_size = 48
 # levels.
 alpha = 0.9
 styles = {
-        "Hike"    : (255,   0,   0, alpha),  # Red
-        "Hochtour": (139,   0, 139, alpha),  # DarkMagenta 
-        "Climb"   : (139,   0, 139, alpha),  # DarkMagenta  (same as Houchtour)
-        "Skitour" : (  0,   0, 255, alpha),  # Blue
-        "Run"     : ( 55, 180,   0, alpha),  # Green
-        "Bike"    : (255, 136,   0, alpha),  # Orange
-        "XC-Ski"  : (  0, 227, 216, alpha),  # Turqoise
+        "Hike"       : (255,   0,   0, alpha),  # Red
+        "ViaFerrata" : (255,   0,   0, alpha),  # Red (same as Hike)
+        "Hochtour"   : (139,   0, 139, alpha),  # DarkMagenta 
+        "Climb"      : (139,   0, 139, alpha),  # DarkMagenta (same as Houchtour)
+        "Skitour"    : (  0,   0, 255, alpha),  # Blue
+        "Run"        : ( 55, 180,   0, alpha),  # Green
+        "Bike"       : (255, 136,   0, alpha),  # Orange
+        "XC-Ski"     : (  0, 227, 216, alpha),  # Turqoise
 }
 
 with open(input_json_file, "r", encoding="utf8") as in_file:
