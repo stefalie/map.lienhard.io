@@ -1,10 +1,45 @@
 [
     {
+        "title": "Weisshorn",
+        "type": "Hochtour",
+        "date": "2011-08-09",
+        "points": [
+            {
+                "lat": 46.10128,
+                "long": 7.71608
+            }
+        ],
+        "photoUrl": "2011/2011-08-09-Weisshorn"
+    },
+    {
+        "title": "Meniggrat",
+        "type": "Skitour",
+        "date": "2012-02-05",
+        "points": [
+            {
+                "lat": 46.59144,
+                "long": 7.48222
+            }
+        ],
+        "photoUrl": "2012/2012-02-05-Meniggrat"
+    },
+    {
+        "title": "Moléson Via Ferrata",
+        "type": "Hike",
+        "date": "2012-07-04",
+        "points": [
+            {
+                "lat": 46.54649,
+                "long": 7.01803
+            }
+        ],
+        "photoUrl": "2012/2012-07-26-Moléson-Another-Lightning-Rod"
+    },
+    {
         "tracks": [
             "2013-10-24__Run__Lac_de_Joux__1.gpx",
             "2013-10-24__Run__Lac_de_Joux__2.gpx"
         ],
-        "photoUrl": "",
         "stravaUrl": [
             91040192,
             91045954
@@ -40,12 +75,77 @@
         ]
     },
     {
+        "title": "Lagginhorn",
+        "type": "Hochtour",
+        "date": "2014-07-19",
+        "points": [
+            {
+                "lat": 46.15707,
+                "long": 8.00307
+            }
+        ],
+        "photoUrl": "2014/2014-07-19-Lagginhorn"
+    },
+    {
+        "title": "Gemmi Bike & Run",
+        "type": "Run",
+        "date": "2012-07-18",
+        "points": [
+            {
+                "lat": 46.38376,
+                "long": 7.62377
+            }
+        ],
+        "photoUrl": "2015/2015-07-18-Gemmi"
+    },
+    {
+        "title": "Gemmi Bike & Run",
+        "type": "Run",
+        "date": "2012-07-18",
+        "points": [
+            {
+                "lat": 46.39695,
+                "long": 7.61285
+            }
+        ],
+        "photoUrl": "2015/2015-07-18-Gemmi"
+    },
+    {
+        "title": "Inferno Halbmarathon",
+        "type": "Run",
+        "date": "2015-08-22",
+        "points": [
+            {
+                "lat": 46.55733,
+                "long": 7.83523
+            }
+        ],
+        "photoUrl": "2015/2015-08-22-Inferno-Halbmarathon"
+    },
+    {
+        "tracks": [
+            "2015-08-22__Hike__Bietenhorn.gpx"
+        ],
+        "photoUrl": "2015/2015-08-22-Bietenhorn-Cheryl"
+    },
+    {
         "tracks": [
             "2016-04-10__Hike__Lavaux.gpx"
         ],
         "photoUrl": "2016/2016-04-10-Lavaux",
         "stravaUrl": [
             541336013
+        ]
+    },
+    {
+        "title": "Moléson",
+        "type": "Hike",
+        "date": "2016-06-04",
+        "points": [
+            {
+                "lat": 46.54649,
+                "long": 7.01803
+            }
         ]
     },
     {
@@ -145,6 +245,13 @@
         "stravaUrl": [
             676007064
         ]
+    },
+    {
+        "tracks": [
+            "2016-11-20__Hike__Ovronnaz__1.gpx",
+            "2016-11-20__Hike__Ovronnaz__2.gpx"
+        ],
+        "photoUrl": "2016/2016-11-20-Ovronnaz"
     },
     {
         "tracks": [
@@ -391,11 +498,28 @@
         ]
     },
     {
+        "title": "Morcote",
+        "type": "Hike",
+        "date": "2018-03-25",
+        "points": [
+            {
+                "lat": 45.92304,
+                "long": 8.91414
+            }
+        ],
+        "photoUrl": "2018/2018-03-25-Morcote"
+    },
+    {
         "tracks": [
             "2018-04-01__Run__Reichenbachwald.gpx"
         ],
         "stravaUrl": [
             1484007803
+        ]
+    },
+    {
+        "tracks": [
+            "2018-04-02__Hike__Giessbachfälle.gpx"
         ]
     },
     {
@@ -505,6 +629,18 @@
             1674655566,
             1674655567
         ]
+    },
+    {
+        "title": "Priendler",
+        "type": "Climb",
+        "date": "2018-07-08",
+        "points": [
+            {
+                "lat": 46.74047,
+                "long": 8.42137
+            }
+        ],
+        "photoUrl": "2018/2018-07-08-Priendler"
     },
     {
         "tracks": [
@@ -929,6 +1065,12 @@
     },
     {
         "tracks": [
+            "2019-08-03__Hike__Rohrbachstein.gpx"
+        ],
+        "photoUrl": "2019/2019-08-03-Rohrbachstein"
+    },
+    {
+        "tracks": [
             "2019-08-17__Hike__Cadlimo_1.gpx"
         ],
         "photoUrl": "2019/2019-08-18-Cadlimo",
@@ -1013,6 +1155,28 @@
         ]
     },
     {
+        "title": "Ponte Brolla & Quarzo",
+        "type": "Climb",
+        "date": "2019-09-24",
+        "points": [
+            {
+                "lat": 46.18909,
+                "long": 8.75189
+            },
+            {
+                "lat": 46.18839,
+                "long": 8.76052
+            }
+        ],
+        "photoUrl": "2019/2019-09-24-Alison-and-Ponte-Brolla"
+    },
+    {
+        "tracks": [
+            "2019-09-26__Hike__Oeschinensee.gpx"
+        ],
+        "photoUrl": "2019/2019-09-26-Oeschinensee"
+    },
+    {
         "tracks": [
             "2019-10-13__Hike__Brienzergrat.gpx"
         ],
@@ -1029,6 +1193,18 @@
         "stravaUrl": [
             2819068305
         ]
+    },
+    {
+        "title": "Balmflue",
+        "type": "Climb",
+        "date": "2019-10-27",
+        "points": [
+            {
+                "lat": 47.25368,
+                "long": 7.54287
+            }
+        ],
+        "photoUrl": "2019/2019-10-27-Balmflue"
     },
     {
         "tracks": [
@@ -1226,14 +1402,8 @@
         ]
     },
     {
-        "title": "Risetenpass",
-        "type": "Hike",
-        "date": "2020-07-10",
-        "points": [
-            {
-                "lat": 46.97816,
-                "long": 9.24649
-            }
+        "tracks": [
+            "2020-07-10__Hike__Risetenpass.gpx"
         ],
         "photoUrl": "2020/2020-07-10-Risetenpass"
     },
@@ -1283,6 +1453,18 @@
         ]
     },
     {
+        "title": "Lagginhorn",
+        "type": "Hochtour",
+        "date": "2014-07-25",
+        "points": [
+            {
+                "lat": 46.15707,
+                "long": 8.00307
+            }
+        ],
+        "photoUrl": "2020/2020-07-25-Lagginhorn-Attempt"
+    },
+    {
         "tracks": [
             "2020-07-28__Hochtour__Wätterhore.gpx"
         ],
@@ -1293,13 +1475,8 @@
     },
     {
         "title": "Oberblegisee",
-        "type": "Hike",
-        "date": "2020-07-31",
-        "points": [
-            {
-                "lat": 46.98040,
-                "long": 9.01314
-            }
+        "tracks": [
+            "2020-07-31__Hike__Oberblegisee.gpx"
         ],
         "photoUrl": "2020/2020-07-31-Oberblegisee"
     },
@@ -1485,6 +1662,18 @@
     },
     {
         "tracks": [
+            "2021-01-22__Skitour__Furggelen.gpx"
+        ],
+        "photoUrl": "2021/2021-01-22-Furggelen"
+    },
+    {
+        "tracks": [
+            "2021-01-23__Hike__Arnisee.gpx"
+        ],
+        "photoUrl": "2021/2021-01-23-Arnisee"
+    },
+    {
+        "tracks": [
             "2021-01-24__Skitour__Tguma.gpx"
         ],
         "photoUrl": "2021/2021-01-24-Tguma",
@@ -1556,6 +1745,192 @@
         "photoUrl": "2021/2021-03-07-Klein-Mythen-Vorgipfel",
         "stravaUrl": [
             4908475439
+        ]
+    },
+    {
+        "tracks": [
+            "2021-03-20__Skitour__Um_Su.gpx"
+        ],
+        "photoUrl": "2021/2021-03-20-Um-Su",
+        "stravaUrl": [
+            4987322121
+        ]
+    },
+    {
+        "tracks": [
+            "2021-03-21__Skitour__Fil_da_Rueun.gpx"
+        ],
+        "photoUrl": "2021/2021-03-21-Fil-da-Rueun",
+        "stravaUrl": [
+            4987322210
+        ]
+    },
+    {
+        "tracks": [
+            "2021-03-26__Skitour__Rütistein.gpx"
+        ],
+        "photoUrl": "2021/2021-03-26-Rütistein",
+        "stravaUrl": [
+            5014556223
+        ]
+    },
+    {
+        "title": "Holzegg",
+        "type": "Climb",
+        "date": "2021-03-28",
+        "points": [
+            {
+                "lat": 47.29378,
+                "long": 7.42532
+            }
+        ],
+        "photoUrl": "2021/2021-03-28-Holzegg"
+    },
+    {
+        "title": "Pic de Grandval",
+        "type": "Climb",
+        "date": "2021-04-02",
+        "points": [
+            {
+                "lat": 47.02795,
+                "long": 7.69511
+            }
+        ],
+        "photoUrl": "2021-04-02-Pic-de-Grandval-mit-Beni"
+    },
+    {
+        "title": "Pic de Crémines",
+        "type": "Climb",
+        "date": "2021-02-28",
+        "points": [
+            {
+                "lat": 47.29383,
+                "long": 7.42999
+            }
+        ],
+        "photoUrl": "2021/2021-04-04-Pic-de-Crémines-mit-Marius"
+    },
+    {
+        "tracks": [
+            "2021-04-09__Hike__Lägerngrat.gpx"
+        ],
+        "photoUrl": "2021/2021-04-09-Lägerngrat"
+    },
+    {
+        "title": "Farnerenzähne",
+        "type": "Climb",
+        "date": "2021-05-09",
+        "points": [
+            {
+                "lat": 47.27643,
+                "long": 7.62126
+            }
+        ],
+        "photoUrl": "2021/2021-05-09-Farnerenzähne"
+    },
+    {
+        "title": "Haldenstein",
+        "type": "Climb",
+        "date": "2021-05-15",
+        "points": [
+            {
+                "lat": 46.88403,
+                "long": 9.53084
+            }
+        ],
+        "photoUrl": "2021/2021-05-15-Haldenstein"
+    },
+    {
+        "tracks": [
+            "2021-05-22__Hike__Stöcklichrüz.gpx"
+        ],
+        "photoUrl": "2021/2021-05-22-Stöcklichrüz"
+    },
+    {
+        "tracks": [
+            "2021-05-28__Hike__Lavaux.gpx"
+        ],
+        "photoUrl": "2021/2021-05-28-Lavaux",
+        "stravaUrl": [
+            5379430445
+        ]
+    },
+    {
+        "tracks": [
+            "2021-05-29__Hike__Obersee.gpx"
+        ],
+        "photoUrl": "2021/2021-05-29-Obersee",
+        "stravaUrl": [
+            5379430766
+        ]
+    },
+    {
+        "title": "Moutier - Arête spéciale",
+        "type": "Climb",
+        "date": "2021-05-30",
+        "points": [
+            {
+                "lat": 47.28521,
+                "long": 7.38253
+            }
+        ],
+        "photoUrl": "2021/2021-05-30-Moutier-Arête-spéciale"
+    },
+    {
+        "tracks": [
+            "2021-06-11__Hike__Rigi.gpx"
+        ],
+        "photoUrl": "2021/2021-06-11-Rigi"
+    },
+    {
+        "tracks": [
+            "2021-06-13__Hike__Pizalun.gpx"
+        ],
+        "photoUrl": "2021/2021-06-13-Pizalun",
+        "stravaUrl": [
+            5464931887
+        ]
+    },
+    {
+        "tracks": [
+            "2021-06-18__Hike__Dreibündenstein.gpx"
+        ],
+        "photoUrl": "2021/2021-06-18-Dreibündenstein"
+    },
+    {
+        "tracks": [
+            "2021-06-26__Hike__Hirzli_und_Planggenstock.gpx"
+        ],
+        "photoUrl": "2021-06-26-Hirzli-und-Planggenstock",
+        "stravaUrl": [
+            5533471939
+        ]
+    },
+    {
+        "tracks": [
+            "2021-06-28__Hike__Älplisee.gpx"
+        ],
+        "photoUrl": "2021/2021-06-28-Älplisee"
+    },
+    {
+        "tracks": [
+            "2021-07-02__Hike__Fronalpstock_SZ.gpx"
+        ],
+        "photoUrl": "2021/2021-07-02-Fronalpstock-SZ"
+    },
+    {
+        "tracks": [
+            "2021-07-09__Hike__Lag_aa_Pigniu.gpx"
+        ],
+        "photoUrl": "2021/2021-07-09-Lag-da-Pigniu"
+    },
+    {
+        "tracks": [
+            "2021-07-17__Hike__Guraletschsee.gpx"
+        ],
+        "photoUrl": "2021/2021-07-17-Guraletschsee",
+        "stravaUrl": [
+            5617311689
         ]
     }
 ]

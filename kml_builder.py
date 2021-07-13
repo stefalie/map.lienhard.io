@@ -200,7 +200,7 @@ def generate_placemark(outing):
     # Photo links
     if ("photoUrl" in outing):
         photo_url = outing["photoUrl"]
-        desc += f'<p>See <a href="{photo_base_url}{photo_url}">photos</a>.</p>'
+        desc += f'<p>See <a href="{photo_base_url}{photo_url}" target="_blank">photos</a>.</p>'
 
     # Strava links
     if ("stravaUrl" in outing):
@@ -212,9 +212,9 @@ def generate_placemark(outing):
             encountered_strava_urls.add(url)
 
         if num_urls > 1:
-            strava_links = ", ".join(map(lambda i_url : f'<a href="{strava_base_url}{i_url[1]}">tracks {i_url[0] + 1}</a>', enumerate(strava_urls)))
+            strava_links = ", ".join(map(lambda i_url : f'<a href="{strava_base_url}{i_url[1]}" target="_blank">tracks {i_url[0] + 1}</a>', enumerate(strava_urls)))
         else:
-            strava_links = f'<a href="{strava_base_url}{strava_urls[0]}">tracks</a>'
+            strava_links = f'<a href="{strava_base_url}{strava_urls[0]}" target="_blank">tracks</a>'
         desc += f"<p>See tracks on Strava: {strava_links}.</p>"
 
     # Notes

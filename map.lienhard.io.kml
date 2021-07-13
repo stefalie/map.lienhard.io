@@ -87,8 +87,32 @@
 			</IconStyle>
 		</Style>
 		<Placemark>
+			<styleUrl>#Hochtour</styleUrl>
+			<description><![CDATA[<h4>Weisshorn</h4><p>Hochtour on August 9, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-08-09-Weisshorn" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.71608,46.10128</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Skitour</styleUrl>
+			<description><![CDATA[<h4>Meniggrat</h4><p>Skitour on February 5, 2012.</p><p>See <a href="https://stefalie.smugmug.com/2012/2012-02-05-Meniggrat" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.48222,46.59144</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Moléson Via Ferrata</h4><p>Hike on July 4, 2012.</p><p>See <a href="https://stefalie.smugmug.com/2012/2012-07-26-Moléson-Another-Lightning-Rod" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.01803,46.54649</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Lac de Joux</h4><p>Run on October 24, 2013.</p><p>See <a href="https://stefalie.smugmug.com/">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/91040192">tracks 1</a>, <a href="https://www.strava.com/activities/91045954">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Lac de Joux</h4><p>Run on October 24, 2013.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/91040192" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/91045954" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -104,7 +128,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Lac de Joux</h4><p>Run on October 25, 2013.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/91221854">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Lac de Joux</h4><p>Run on October 25, 2013.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/91221854" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -113,7 +137,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Uttigen-Neufeld</h4><p>Run on July 5, 2014.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/161951787">tracks 1</a>, <a href="https://www.strava.com/activities/161961649">tracks 2</a>, <a href="https://www.strava.com/activities/161994869">tracks 3</a>.</p>]]></description>
+			<description><![CDATA[<h4>Uttigen-Neufeld</h4><p>Run on July 5, 2014.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/161951787" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/161961649" target="_blank">tracks 2</a>, <a href="https://www.strava.com/activities/161994869" target="_blank">tracks 3</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -134,7 +158,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Punta di Valdeserta</h4><p>Run on July 16, 2014.</p><p>See <a href="https://stefalie.smugmug.com/2014/2014-07-16-Schinhorn">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/166648413">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Punta di Valdeserta</h4><p>Run on July 16, 2014.</p><p>See <a href="https://stefalie.smugmug.com/2014/2014-07-16-Schinhorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/166648413" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -142,8 +166,49 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Hochtour</styleUrl>
+			<description><![CDATA[<h4>Lagginhorn</h4><p>Hochtour on July 19, 2014.</p><p>See <a href="https://stefalie.smugmug.com/2014/2014-07-19-Lagginhorn" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.00307,46.15707</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Run</styleUrl>
+			<description><![CDATA[<h4>Gemmi Bike & Run</h4><p>Run on July 18, 2012.</p><p>See <a href="https://stefalie.smugmug.com/2015/2015-07-18-Gemmi" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.62377,46.38376</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Run</styleUrl>
+			<description><![CDATA[<h4>Gemmi Bike & Run</h4><p>Run on July 18, 2012.</p><p>See <a href="https://stefalie.smugmug.com/2015/2015-07-18-Gemmi" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.61285,46.39695</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Run</styleUrl>
+			<description><![CDATA[<h4>Inferno Halbmarathon</h4><p>Run on August 22, 2015.</p><p>See <a href="https://stefalie.smugmug.com/2015/2015-08-22-Inferno-Halbmarathon" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.83523,46.55733</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Lavaux</h4><p>Hike on April 10, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-04-10-Lavaux">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/541336013">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Bietenhorn</h4><p>Hike on August 22, 2015.</p><p>See <a href="https://stefalie.smugmug.com/2015/2015-08-22-Bietenhorn-Cheryl" target="_blank">photos</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>7.89050,46.59657 7.88961,46.59766 7.88911,46.59735 7.88876,46.59765 7.88863,46.59871 7.88925,46.60034 7.88895,46.60107 7.88899,46.60273 7.88863,46.60289 7.88718,46.60193 7.88701,46.60363 7.88648,46.60360 7.88567,46.60274 7.88485,46.60255 7.88421,46.60288 7.88125,46.60314 7.87932,46.60285 7.87563,46.60125 7.87342,46.60172 7.87044,46.60146 7.86856,46.60046 7.86508,46.59743 7.86322,46.59632 7.86149,46.59322 7.85889,46.59146 7.85920,46.59141 7.85866,46.59093 7.85895,46.59065 7.85765,46.58987 7.85761,46.58918 7.85703,46.58853 7.85499,46.58809 7.85475,46.58735 7.85348,46.58660 7.85345,46.58554 7.85275,46.58483 7.85239,46.58396 7.85255,46.58363 7.84978,46.58170 7.84925,46.58056 7.84890,46.58081 7.84667,46.57897 7.84619,46.57897 7.84369,46.57646 7.84363,46.57558 7.84267,46.57510 7.84388,46.57480 7.84660,46.57503 7.84847,46.57423 7.84980,46.57433 7.85469,46.57600 7.85530,46.57609 7.85546,46.57585 7.85796,46.57650 7.85984,46.57627 7.86191,46.57538 7.86469,46.57704 7.86155,46.57525 7.86132,46.57471 7.86195,46.57431 7.86175,46.57370 7.86216,46.57314 7.86369,46.57195 7.86341,46.57095 7.86680,46.57007 7.86985,46.57063 7.87043,46.57039 7.87067,46.57079 7.87235,46.57094 7.87411,46.57061 7.87517,46.57021 7.87588,46.56897 7.87690,46.56951 7.87787,46.56943 7.87838,46.56797 7.87913,46.56852 7.87975,46.56733 7.88056,46.56760 7.87991,46.56682 7.88037,46.56632 7.88066,46.56675 7.88125,46.56560 7.88402,46.56479 7.88440,46.56514 7.88424,46.56530 7.88626,46.56560 7.89072,46.56595 7.89280,46.56551 7.89234,46.56588 7.89433,46.56589 7.89491,46.56531 7.89495,46.56338 7.89588,46.56488 7.89628,46.56488 7.89628,46.56260 7.89442,46.56060 7.89224,46.55958</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Lavaux</h4><p>Hike on April 10, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-04-10-Lavaux" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/541336013" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -152,7 +217,15 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Ochsen</h4><p>Hike on June 12, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-06-12-Ochsen">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/607356182">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Moléson</h4><p>Hike on June 4, 2016.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.01803,46.54649</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Ochsen</h4><p>Hike on June 12, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-06-12-Ochsen" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/607356182" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -161,7 +234,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Ochse u Gaentu</h4><p>Run on June 26, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-06-26-Ochse-u-Gäntu">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/621749606">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Ochse u Gaentu</h4><p>Run on June 26, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-06-26-Ochse-u-Gäntu" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/621749606" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -170,7 +243,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Stockhorn</h4><p>Hike on July 10, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-07-10-Stockhorn">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/636561356">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Stockhorn</h4><p>Hike on July 10, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-07-10-Stockhorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/636561356" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -179,7 +252,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Niesen</h4><p>Hike on July 17, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-07-17-Niesen">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/643799650">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Niesen</h4><p>Hike on July 17, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-07-17-Niesen" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/643799650" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -188,7 +261,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Bike</styleUrl>
-			<description><![CDATA[<h4>Novena-Gottardo-Furka</h4><p>Bike on July 19, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-07-19-Novena-Gottardo-Furka">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/646404879">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Novena-Gottardo-Furka</h4><p>Bike on July 19, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-07-19-Novena-Gottardo-Furka" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/646404879" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -197,7 +270,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Albristhore</h4><p>Hike on July 24, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-07-24-Albristhore">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/651956173">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Albristhore</h4><p>Hike on July 24, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-07-24-Albristhore" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/651956173" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -206,7 +279,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Rigi via Füdlibagge</h4><p>Hike on August 1, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-08-01-Rigi-via-Füdlibagge">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/661139410">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Rigi via Füdlibagge</h4><p>Hike on August 1, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-08-01-Rigi-via-Füdlibagge" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/661139410" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -215,7 +288,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Brienzergrat mit Bensch</h4><p>Run on August 3, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-08-03-Hardergrat-2">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/663456771">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Brienzergrat mit Bensch</h4><p>Run on August 3, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-08-03-Hardergrat-2" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/663456771" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -224,7 +297,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Unteres Schinhorn</h4><p>Hike on August 8, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-08-11-Binn">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/669006444">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Unteres Schinhorn</h4><p>Hike on August 8, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-08-11-Binn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/669006444" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -233,7 +306,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Schweifegrat</h4><p>Hike on August 10, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-08-11-Binn">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/671289741">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Schweifegrat</h4><p>Hike on August 10, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-08-11-Binn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/671289741" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -242,7 +315,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Home-Bern</h4><p>Run on August 14, 2016.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/676007064">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Home-Bern</h4><p>Run on August 14, 2016.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/676007064" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -250,8 +323,24 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Ovronnaz</h4><p>Hike on November 20, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-11-20-Ovronnaz" target="_blank">photos</a>.</p>]]></description>
+			<MultiGeometry>
+				<LineString>
+					<altitudeMode>clampToGround</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>7.17481,46.19988 7.17393,46.20014 7.17371,46.20163 7.17467,46.20139 7.17486,46.20176 7.17457,46.20225 7.17652,46.20175 7.17682,46.20216 7.17625,46.20316 7.17660,46.20352 7.17444,46.20594 7.17457,46.20647 7.17407,46.20625 7.17191,46.20901 7.17138,46.20904 7.17162,46.20957 7.17127,46.21009 7.17045,46.21006 7.16769,46.21105 7.16624,46.21222 7.16761,46.21112 7.17045,46.21006 7.17127,46.21009 7.17162,46.20957 7.17138,46.20904 7.17191,46.20901 7.17407,46.20625 7.17457,46.20647 7.17444,46.20594 7.17660,46.20352 7.17625,46.20316 7.17682,46.20216 7.17652,46.20175 7.17457,46.20225 7.17486,46.20176 7.17467,46.20139 7.17371,46.20163 7.17393,46.20014 7.17482,46.19988</coordinates>
+				</LineString>
+				<LineString>
+					<altitudeMode>clampToGround</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>7.18727,46.17188 7.18558,46.17075 7.18563,46.17104 7.18531,46.17114 7.18564,46.17134 7.18507,46.17228 7.18248,46.17102 7.18172,46.17107 7.18153,46.17155 7.18220,46.17243 7.18187,46.17280 7.18356,46.17371 7.18269,46.17380 7.18273,46.17439 7.18380,46.17494 7.18436,46.17636 7.18397,46.17718 7.18346,46.17750 7.18259,46.17702 7.18153,46.17748 7.18014,46.17661 7.18306,46.18052 7.18321,46.18190 7.18258,46.18290 7.18592,46.18634 7.18583,46.18735 7.18722,46.18890 7.18723,46.19027 7.18846,46.19113</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Alpiglenmäre</h4><p>Skitour on January 29, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-01-29-Alpiglemaeren">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/848506971">tracks 1</a>, <a href="https://www.strava.com/activities/848506998">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Alpiglenmäre</h4><p>Skitour on January 29, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-01-29-Alpiglemaeren" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/848506971" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/848506998" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -267,7 +356,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Col des Ecandies Attempt</h4><p>Skitour on January 31, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/851760180">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Col des Ecandies Attempt</h4><p>Skitour on January 31, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/851760180" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -276,7 +365,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Pointe Ronde</h4><p>Skitour on February 1, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/851761020">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Pointe Ronde</h4><p>Skitour on February 1, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/851761020" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -285,7 +374,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Dent de Morcles</h4><p>Skitour on February 2, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/852763906">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Dent de Morcles</h4><p>Skitour on February 2, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/852763906" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -294,7 +383,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Braunwald</h4><p>Skitour on February 4, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/855202011">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Braunwald</h4><p>Skitour on February 4, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/855202011" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -303,7 +392,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Monts Chevreuils</h4><p>Skitour on February 11, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017-02-11-Monts-Chevreuils">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/867621810">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Monts Chevreuils</h4><p>Skitour on February 11, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017-02-11-Monts-Chevreuils" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/867621810" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -312,7 +401,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Tête Noire</h4><p>Skitour on February 14, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-02-14-Tête-Noir">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/867622760">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Tête Noire</h4><p>Skitour on February 14, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-02-14-Tête-Noir" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/867622760" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -321,7 +410,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Uttigen-Home</h4><p>Run on March 17, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/903813692">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Uttigen-Home</h4><p>Run on March 17, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/903813692" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -330,7 +419,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Lyon</h4><p>Run on April 27, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/972849589">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Lyon</h4><p>Run on April 27, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/972849589" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -339,7 +428,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Sola</h4><p>Run on May 6, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-05-07-Sola">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/972850007">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Sola</h4><p>Run on May 6, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-05-07-Sola" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/972850007" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -348,7 +437,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Capanna Albagno</h4><p>Hike on May 13, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017-05-13-Capanna-Albagno">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/984618858">tracks 1</a>, <a href="https://www.strava.com/activities/984620438">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Capanna Albagno</h4><p>Hike on May 13, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017-05-13-Capanna-Albagno" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/984618858" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/984620438" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -364,7 +453,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Grosser Mythen</h4><p>Run on May 26, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-05-26-Grosser-Mythen">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1006840027">tracks 1</a>, <a href="https://www.strava.com/activities/1006840967">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Grosser Mythen</h4><p>Run on May 26, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-05-26-Grosser-Mythen" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1006840027" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/1006840967" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -380,7 +469,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Grosser und Kleiner Mythen</h4><p>Run on May 30, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1012819157">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Grosser und Kleiner Mythen</h4><p>Run on May 30, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1012819157" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -389,7 +478,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Forchlauf</h4><p>Run on June 7, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1025518586">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Forchlauf</h4><p>Run on June 7, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1025518586" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -398,7 +487,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Mythen Kalberstöckli und Schafweg</h4><p>Run on June 8, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-06-08-Mythen-Kalberstöckli-und-Schafweg">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1026614076">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Mythen Kalberstöckli und Schafweg</h4><p>Run on June 8, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-06-08-Mythen-Kalberstöckli-und-Schafweg" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1026614076" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -407,7 +496,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Climb</styleUrl>
-			<description><![CDATA[<h4>Bollenwees und Fähnligipfel</h4><p>Climb on June 19, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-06-19-Bollenwees">photos</a>.</p>]]></description>
+			<description><![CDATA[<h4>Bollenwees und Fähnligipfel</h4><p>Climb on June 19, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-06-19-Bollenwees" target="_blank">photos</a>.</p>]]></description>
 			<MultiGeometry>
 				<Point>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -421,7 +510,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Grosser Mythen</h4><p>Run on July 6, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1071119809">tracks 1</a>, <a href="https://www.strava.com/activities/1071119824">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Grosser Mythen</h4><p>Run on July 6, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1071119809" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/1071119824" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -437,7 +526,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Ortstock</h4><p>Hike on July 8, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-07-08-Ortstock">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1073759074">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Ortstock</h4><p>Hike on July 8, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-07-08-Ortstock" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1073759074" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -446,7 +535,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Climb</styleUrl>
-			<description><![CDATA[<h4>Salbit with Dan</h4><p>Climb on July 17, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-07-17-Salbit-with-Dan-Co">photos</a>.</p>]]></description>
+			<description><![CDATA[<h4>Salbit with Dan</h4><p>Climb on July 17, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-07-17-Salbit-with-Dan-Co" target="_blank">photos</a>.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>8.52907,46.68048</coordinates>
@@ -454,7 +543,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Mountain Man Leg 3</h4><p>Run on August 19, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017-08-19-Mountain-Man-Hochstollen">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1141721094">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Mountain Man Leg 3</h4><p>Run on August 19, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017-08-19-Mountain-Man-Hochstollen" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1141721094" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -463,7 +552,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Tour de Turghiu/Cappo Rosso</h4><p>Hike on September 6, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-09-15-Corsica">photos</a>.</p>]]></description>
+			<description><![CDATA[<h4>Tour de Turghiu/Cappo Rosso</h4><p>Hike on September 6, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-09-15-Corsica" target="_blank">photos</a>.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>8.55212,42.23656</coordinates>
@@ -471,7 +560,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Climb</styleUrl>
-			<description><![CDATA[<h4>Punta Spenicazzia</h4><p>Climb on September 13, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-09-15-Corsica">photos</a>.</p>]]></description>
+			<description><![CDATA[<h4>Punta Spenicazzia</h4><p>Climb on September 13, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-09-15-Corsica" target="_blank">photos</a>.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>9.09106,42.25265</coordinates>
@@ -479,7 +568,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Lac de Capitellu</h4><p>Hike on September 14, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-09-15-Corsica">photos</a>.</p>]]></description>
+			<description><![CDATA[<h4>Lac de Capitellu</h4><p>Hike on September 14, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-09-15-Corsica" target="_blank">photos</a>.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>9.01180,42.21215</coordinates>
@@ -487,7 +576,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Brienzergrat</h4><p>Hike on October 15, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017-10-15-Brienzergrat">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1234055406">tracks 1</a>, <a href="https://www.strava.com/activities/1234055423">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Brienzergrat</h4><p>Hike on October 15, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017-10-15-Brienzergrat" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1234055406" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/1234055423" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -503,7 +592,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Mattstock</h4><p>Hike on November 4, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1261006940">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Mattstock</h4><p>Hike on November 4, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1261006940" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -511,8 +600,16 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Morcote</h4><p>Hike on March 25, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-03-25-Morcote" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.91414,45.92304</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Reichenbachwald</h4><p>Run on April 1, 2018.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1484007803">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Reichenbachwald</h4><p>Run on April 1, 2018.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1484007803" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -521,7 +618,16 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Kronberg</h4><p>Hike on April 8, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-04-08-Kronberg">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1497552736">tracks 1</a>, <a href="https://www.strava.com/activities/1497552752">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Giessbachfälle</h4><p>Hike on April 2, 2018.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>7.96416,46.71154 7.96708,46.71098 7.96924,46.71259 7.97148,46.71268 7.97353,46.71324 7.97902,46.71608 7.98264,46.71716 7.98322,46.71684 7.98551,46.71748 7.99228,46.72074 7.99358,46.72186 7.99993,46.72545 8.00404,46.72661 8.00654,46.72802 8.00921,46.72846 8.01093,46.72944 8.01417,46.73011 8.01622,46.73123 8.01859,46.73172 8.02332,46.73411 8.02380,46.73420 8.02327,46.73407 8.02356,46.73395 8.02327,46.73365 8.02402,46.73338 8.02445,46.73380 8.02382,46.73421 8.02473,46.73517 8.02452,46.73536 8.02323,46.73501 8.02452,46.73536 8.02474,46.73507 8.02436,46.73461 8.02638,46.73513 8.02691,46.73486 8.02822,46.73510 8.03079,46.73623 8.03331,46.73636 8.03352,46.73709 8.03464,46.73772 8.03751,46.73766 8.03945,46.73855 8.04396,46.73826 8.04953,46.73850 8.04928,46.73951 8.05004,46.74452 8.04908,46.74636 8.04980,46.74897 8.04923,46.75062 8.04450,46.75290 8.04372,46.75389 8.04257,46.75450 8.04147,46.75477 8.03934,46.75470</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Kronberg</h4><p>Hike on April 8, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-04-08-Kronberg" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1497552736" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/1497552752" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -537,7 +643,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Aarelauf</h4><p>Run on April 29, 2018.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1539332682">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Aarelauf</h4><p>Run on April 29, 2018.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1539332682" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -546,7 +652,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Sola</h4><p>Run on May 5, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-05-05-Sola">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1550276700">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Sola</h4><p>Run on May 5, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-05-05-Sola" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1550276700" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -555,7 +661,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Kleiner Mythen</h4><p>Hike on May 6, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-05-06-Kleiner-Mythen">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1553117334">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Kleiner Mythen</h4><p>Hike on May 6, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-05-06-Kleiner-Mythen" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1553117334" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -564,7 +670,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Chandolin Schwarzhorn</h4><p>Skitour on May 11, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-05-12-A-la-recherche-de-la-neige">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1583834089">tracks 1</a>, <a href="https://www.strava.com/activities/1583834147">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Chandolin Schwarzhorn</h4><p>Skitour on May 11, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-05-12-A-la-recherche-de-la-neige" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1583834089" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/1583834147" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -580,7 +686,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Arolla Plan Bertol</h4><p>Skitour on May 12, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-05-12-A-la-recherche-de-la-neige">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1583834182">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Arolla Plan Bertol</h4><p>Skitour on May 12, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-05-12-A-la-recherche-de-la-neige" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1583834182" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -589,7 +695,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Hoher Kasten Attempt</h4><p>Hike on May 19, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-05-19-Brülisau">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1583808601">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Hoher Kasten Attempt</h4><p>Hike on May 19, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-05-19-Brülisau" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1583808601" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -598,7 +704,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Stieregrat Fail</h4><p>Run on June 17, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-06-17-Stierengrat-Fail">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1644287662">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Stieregrat Fail</h4><p>Run on June 17, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-06-17-Stierengrat-Fail" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1644287662" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -607,7 +713,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Pilatus</h4><p>Hike on June 24, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-06-24-Pilatus">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1661529480">tracks 1</a>, <a href="https://www.strava.com/activities/1661529591">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Pilatus</h4><p>Hike on June 24, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-06-24-Pilatus" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1661529480" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/1661529591" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -623,7 +729,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Almagellerhütte</h4><p>Hike on June 30, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-07-01-Weissmies">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1674655482">tracks 1</a>, <a href="https://www.strava.com/activities/1674655465">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Almagellerhütte</h4><p>Hike on June 30, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-07-01-Weissmies" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1674655482" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/1674655465" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -639,7 +745,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hochtour</styleUrl>
-			<description><![CDATA[<h4>Weissmies</h4><p>Hochtour on July 1, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-07-01-Weissmies">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1674655566">tracks 1</a>, <a href="https://www.strava.com/activities/1674655567">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Weissmies</h4><p>Hochtour on July 1, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-07-01-Weissmies" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1674655566" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/1674655567" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -654,8 +760,16 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Priendler</h4><p>Climb on July 8, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-07-08-Priendler" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.42137,46.74047</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Mythen Schafweg</h4><p>Hike on August 18, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-08-18-Mythen-Schafweg">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1780803148">tracks 1</a>, <a href="https://www.strava.com/activities/1780803139">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Mythen Schafweg</h4><p>Hike on August 18, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-08-18-Mythen-Schafweg" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1780803148" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/1780803139" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -671,7 +785,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Lais da Macun</h4><p>Hike on August 26, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-08-26-Lais-da-Macun">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1799171276">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Lais da Macun</h4><p>Hike on August 26, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-08-26-Lais-da-Macun" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1799171276" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -680,7 +794,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Vanil Noir</h4><p>Hike on September 2, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-09-02-Vanil-Noir">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1825709796">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Vanil Noir</h4><p>Hike on September 2, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-09-02-Vanil-Noir" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1825709796" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -689,7 +803,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Capanna Campo Tencia</h4><p>Hike on September 8, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-09-09-Campo-Tencia">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1831004926">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Capanna Campo Tencia</h4><p>Hike on September 8, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-09-09-Campo-Tencia" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1831004926" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -698,7 +812,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Pizzo Campo Tencia</h4><p>Hike on September 9, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-09-09-Campo-Tencia">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1831004989">tracks 1</a>, <a href="https://www.strava.com/activities/1831004984">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Pizzo Campo Tencia</h4><p>Hike on September 9, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-09-09-Campo-Tencia" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1831004989" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/1831004984" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -714,7 +828,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Piz Mezdi Pontresina</h4><p>Hike on September 15, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-09-16-Pontresina">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1846643154">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Piz Mezdi Pontresina</h4><p>Hike on September 15, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-09-16-Pontresina" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1846643154" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -723,7 +837,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Piz Languard Fuorcla Muragl</h4><p>Hike on September 16, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-09-16-Pontresina">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1846643179">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Piz Languard Fuorcla Muragl</h4><p>Hike on September 16, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-09-16-Pontresina" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1846643179" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -732,7 +846,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Pizzo Cristallina</h4><p>Hike on September 22, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-09-23-Cristallina">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1867479481">tracks 1</a>, <a href="https://www.strava.com/activities/1867479505">tracks 2</a>, <a href="https://www.strava.com/activities/1867479545">tracks 3</a>.</p>]]></description>
+			<description><![CDATA[<h4>Pizzo Cristallina</h4><p>Hike on September 22, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-09-23-Cristallina" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1867479481" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/1867479505" target="_blank">tracks 2</a>, <a href="https://www.strava.com/activities/1867479545" target="_blank">tracks 3</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -753,7 +867,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Lago Nero and Val del Coro</h4><p>Hike on September 23, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-09-23-Cristallina">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1867479623">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Lago Nero and Val del Coro</h4><p>Hike on September 23, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-09-23-Cristallina" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1867479623" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -762,7 +876,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Le Luisin</h4><p>Hike on October 6, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-10-06-Le-Luisin">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1889812419">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Le Luisin</h4><p>Hike on October 6, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-10-06-Le-Luisin" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1889812419" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -771,7 +885,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Brienzergrat Variation</h4><p>Hike on October 22, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-10-22-Brienzergrat">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1923441507">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Brienzergrat Variation</h4><p>Hike on October 22, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-10-22-Brienzergrat" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1923441507" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -780,7 +894,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Speer</h4><p>Hike on November 4, 2018.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1946038122">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Speer</h4><p>Hike on November 4, 2018.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1946038122" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -789,7 +903,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Palis Nideri Zuestoll</h4><p>Hike on November 18, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-11-18-Zuestoll">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1972853564">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Palis Nideri Zuestoll</h4><p>Hike on November 18, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-11-18-Zuestoll" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1972853564" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -798,7 +912,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Monte Boglia</h4><p>Hike on December 9, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-12-09-Gandria-Monte-Boglia">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2017228079">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Monte Boglia</h4><p>Hike on December 9, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-12-09-Gandria-Monte-Boglia" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2017228079" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -807,7 +921,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Monts Chevreuils</h4><p>Skitour on January 12, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-01-12-Monts-Chevreuils">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2073401693">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Monts Chevreuils</h4><p>Skitour on January 12, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-01-12-Monts-Chevreuils" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2073401693" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -816,7 +930,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Fil da Rueun</h4><p>Skitour on January 20, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-01-20-Fil-da-Rueun">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2094823108">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Fil da Rueun</h4><p>Skitour on January 20, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-01-20-Fil-da-Rueun" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2094823108" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -825,7 +939,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Chrüz Sankt Antönien</h4><p>Skitour on January 27, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-01-27-Chrüz-St-Antönien">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2107441780">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Chrüz Sankt Antönien</h4><p>Skitour on January 27, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-01-27-Chrüz-St-Antönien" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2107441780" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -834,7 +948,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Stockberg</h4><p>Skitour on February 2, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-02-02-Stockberg">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2119647198">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Stockberg</h4><p>Skitour on February 2, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-02-02-Stockberg" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2119647198" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -843,7 +957,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Um Su Lumbrein</h4><p>Skitour on February 9, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-02-09-Um-Su-Lumbrein">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2135095562">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Um Su Lumbrein</h4><p>Skitour on February 9, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-02-09-Um-Su-Lumbrein" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2135095562" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -852,7 +966,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Erdisgulmen</h4><p>Skitour on February 16, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-02-16-Erdisgulmen">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2156389361">tracks 1</a>, <a href="https://www.strava.com/activities/2156389359">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Erdisgulmen</h4><p>Skitour on February 16, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-02-16-Erdisgulmen" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2156389361" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/2156389359" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -868,7 +982,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Mittaghorn</h4><p>Skitour on February 17, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-02-17-Splügen-Mittaghorn">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2156389412">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Mittaghorn</h4><p>Skitour on February 17, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-02-17-Splügen-Mittaghorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2156389412" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -877,7 +991,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Parpeinahorn</h4><p>Skitour on March 16, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-03-16-Parpeinahorn">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2220921438">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Parpeinahorn</h4><p>Skitour on March 16, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-03-16-Parpeinahorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2220921438" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -886,7 +1000,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Munt Griatschouls</h4><p>Skitour on April 6, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-04-06-S-Chanf">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2270801561">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Munt Griatschouls</h4><p>Skitour on April 6, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-04-06-S-Chanf" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2270801561" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -895,7 +1009,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Felsenegg</h4><p>Hike on April 7, 2019.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2272091306">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Felsenegg</h4><p>Hike on April 7, 2019.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2272091306" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -904,7 +1018,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Walensee</h4><p>Hike on April 13, 2019.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2290492074">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Walensee</h4><p>Hike on April 13, 2019.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2290492074" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -913,7 +1027,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Simplon Breithorn</h4><p>Skitour on April 20, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-04-20-Simplon-Breithorn">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2308196830">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Simplon Breithorn</h4><p>Skitour on April 20, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-04-20-Simplon-Breithorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2308196830" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -922,7 +1036,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Mase</h4><p>Skitour on April 21, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-04-21-Mase">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2308196873">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Mase</h4><p>Skitour on April 21, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-04-21-Mase" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2308196873" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -931,7 +1045,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Reichebachwald</h4><p>Hike on April 22, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-04-22-Zendermaetteli-Dinner">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2310296038">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Reichebachwald</h4><p>Hike on April 22, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-04-22-Zendermaetteli-Dinner" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2310296038" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -940,7 +1054,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Grosser und Kleiner Mythen</h4><p>Hike on May 30, 2019.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2460668508">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Grosser und Kleiner Mythen</h4><p>Hike on May 30, 2019.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2460668508" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -949,7 +1063,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Capanna Adula</h4><p>Hike on June 8, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-06-09-Adula">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2460668668">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Capanna Adula</h4><p>Hike on June 8, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-06-09-Adula" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2460668668" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -958,7 +1072,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Val Carassin</h4><p>Hike on June 9, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-06-09-Adula">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2460668725">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Val Carassin</h4><p>Hike on June 9, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-06-09-Adula" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2460668725" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -967,7 +1081,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Stockhorn M1a Reunion</h4><p>Hike on June 15, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-06-15-M1a-Reunion">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2460668765">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Stockhorn M1a Reunion</h4><p>Hike on June 15, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-06-15-M1a-Reunion" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2460668765" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -976,7 +1090,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Scenic Trail</h4><p>Hike on June 23, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-06-23-Scenic-Trail">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2475365375">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Scenic Trail</h4><p>Hike on June 23, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-06-23-Scenic-Trail" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2475365375" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -985,7 +1099,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Ferdenrothorn</h4><p>Hike on June 30, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-06-30-Ferdenrothorn">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2493050069">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Ferdenrothorn</h4><p>Hike on June 30, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-06-30-Ferdenrothorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2493050069" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -994,7 +1108,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Torrenthorn</h4><p>Hike on July 2, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-02-Torrenthorn">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2498041441">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Torrenthorn</h4><p>Hike on July 2, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-02-Torrenthorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2498041441" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1003,7 +1117,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Gemmi Running</h4><p>Run on July 3, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-03-Gemmi-Running-und-Plattenhörner">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2500740536">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Gemmi Running</h4><p>Run on July 3, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-03-Gemmi-Running-und-Plattenhörner" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2500740536" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1012,7 +1126,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Plattenhörner</h4><p>Hike on July 3, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-03-Gemmi-Running-und-Plattenhörner">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2500740540">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Plattenhörner</h4><p>Hike on July 3, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-03-Gemmi-Running-und-Plattenhörner" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2500740540" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1021,7 +1135,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Alte Gemmi</h4><p>Hike on July 4, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-04-Alte-Gemmi">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2503828637">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Alte Gemmi</h4><p>Hike on July 4, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-04-Alte-Gemmi" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2503828637" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1030,7 +1144,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Wysse See</h4><p>Hike on July 5, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-05-Wysse-See">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2506518114">tracks 1</a>, <a href="https://www.strava.com/activities/2506518184">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Wysse See</h4><p>Hike on July 5, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-05-Wysse-See" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2506518114" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/2506518184" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -1046,7 +1160,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Leukerbad-Sunnbühl</h4><p>Hike on July 6, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-06-Leukerbad-Sunnbüel">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2509306285">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Leukerbad-Sunnbühl</h4><p>Hike on July 6, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-06-Leukerbad-Sunnbüel" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2509306285" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1055,7 +1169,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Grand Teton Cascade Canyon</h4><p>Hike on July 18, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-19-Grand-Teton">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2544326100">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Grand Teton Cascade Canyon</h4><p>Hike on July 18, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-19-Grand-Teton" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2544326100" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1064,7 +1178,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Grand Teton Taggart and Bradley Lakes</h4><p>Hike on July 19, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-19-Grand-Teton">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2546706830">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Grand Teton Taggart and Bradley Lakes</h4><p>Hike on July 19, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-19-Grand-Teton" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2546706830" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1073,7 +1187,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Fiery Furnace</h4><p>Hike on July 21, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-22-Arches">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2551853979">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Fiery Furnace</h4><p>Hike on July 21, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-22-Arches" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2551853979" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1082,7 +1196,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Vorder Glärnisch</h4><p>Hike on August 1, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-08-01-Vorder-Glärnisch">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2582283606">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Vorder Glärnisch</h4><p>Hike on August 1, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-08-01-Vorder-Glärnisch" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2582283606" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1091,7 +1205,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Niesengrat Light</h4><p>Run on August 3, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-08-03-Niesengrat-Light">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2587292629">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Niesengrat Light</h4><p>Run on August 3, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-08-03-Niesengrat-Light" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2587292629" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1100,7 +1214,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Tiefenau-Bern</h4><p>Run on August 4, 2019.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2590486558">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Tiefenau-Bern</h4><p>Run on August 4, 2019.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2590486558" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1109,7 +1223,16 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Cadlimo 1</h4><p>Hike on August 17, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-08-18-Cadlimo">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2630973677">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Rohrbachstein</h4><p>Hike on August 3, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-08-03-Rohrbachstein" target="_blank">photos</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>7.44148,46.40008 7.44109,46.39975 7.44174,46.39924 7.44293,46.39621 7.44086,46.39623 7.44168,46.39538 7.44116,46.39533 7.44119,46.39487 7.44158,46.39486 7.44127,46.39450 7.44233,46.39448 7.44147,46.39406 7.44223,46.39421 7.44321,46.39378 7.44447,46.39426 7.44617,46.39419 7.44695,46.39463 7.44842,46.39438 7.44868,46.39476 7.44986,46.39464 7.44852,46.39366 7.44922,46.39316 7.45014,46.39342 7.45020,46.39311 7.45112,46.39288 7.45092,46.39266 7.45114,46.39255 7.45050,46.39224 7.45098,46.39202 7.45047,46.39199 7.44962,46.39114 7.44932,46.39126 7.44916,46.39059 7.44853,46.39015 7.44853,46.38976 7.44956,46.38889 7.45085,46.38841 7.45091,46.38905 7.45262,46.38921 7.45665,46.38810 7.45840,46.38689 7.45830,46.38599 7.45919,46.38501 7.46066,46.38436 7.46134,46.38328 7.46100,46.38226 7.46179,46.38208 7.46448,46.38297 7.46461,46.38327 7.46644,46.38329 7.46606,46.38370 7.46726,46.38340 7.46759,46.38292 7.47040,46.38231 7.47139,46.38133 7.47170,46.38084 7.47125,46.38015 7.46937,46.37944 7.46741,46.37820 7.46585,46.37845 7.46365,46.37818 7.46149,46.37669 7.46148,46.37614 7.46222,46.37630 7.46152,46.37615 7.46148,46.37670 7.46368,46.37817 7.46582,46.37844 7.46741,46.37820 7.47155,46.38043 7.47262,46.37999 7.47602,46.38050 7.47717,46.38035 7.47973,46.37956 7.48039,46.37750 7.48182,46.37611 7.48327,46.37524 7.48364,46.37454 7.48308,46.37412 7.48378,46.37402 7.48425,46.37357 7.48423,46.37304 7.48492,46.37265 7.48532,46.37175 7.48639,46.37068 7.48879,46.37032</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Cadlimo 1</h4><p>Hike on August 17, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-08-18-Cadlimo" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2630973677" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1118,7 +1241,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Cadlimo 2 Piz Borel</h4><p>Hike on August 18, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-08-18-Cadlimo">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2630973692">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Cadlimo 2 Piz Borel</h4><p>Hike on August 18, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-08-18-Cadlimo" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2630973692" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1127,7 +1250,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Damma Hike 1</h4><p>Hike on August 24, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-08-26-Damma-Hike">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2654195010">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Damma Hike 1</h4><p>Hike on August 24, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-08-26-Damma-Hike" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2654195010" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1136,7 +1259,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Damma Hike 2</h4><p>Hike on August 25, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-08-26-Damma-Hike">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2654195046">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Damma Hike 2</h4><p>Hike on August 25, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-08-26-Damma-Hike" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2654195046" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1145,7 +1268,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Damma Hike 3</h4><p>Hike on August 26, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-08-26-Damma-Hike">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2654195102">tracks 1</a>, <a href="https://www.strava.com/activities/2654195089">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Damma Hike 3</h4><p>Hike on August 26, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-08-26-Damma-Hike" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2654195102" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/2654195089" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -1161,7 +1284,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Bifertenhütte 1</h4><p>Hike on September 8, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-09-09-Bifertenhütte">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2693881383">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Bifertenhütte 1</h4><p>Hike on September 8, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-09-09-Bifertenhütte" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2693881383" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1170,7 +1293,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Bifertenhütte 2</h4><p>Hike on September 9, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-09-09-Bifertenhütte">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2693881392">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Bifertenhütte 2</h4><p>Hike on September 9, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-09-09-Bifertenhütte" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2693881392" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1179,7 +1302,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Barrhörner 1</h4><p>Hike on September 14, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-09-15-Barrhorn">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2712334347">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Barrhörner 1</h4><p>Hike on September 14, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-09-15-Barrhorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2712334347" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1188,7 +1311,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Barrhörner 2</h4><p>Hike on September 15, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-09-15-Barrhorn">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2712334447">tracks 1</a>, <a href="https://www.strava.com/activities/2712334372">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Barrhörner 2</h4><p>Hike on September 15, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-09-15-Barrhorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2712334447" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/2712334372" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -1203,8 +1326,31 @@
 			</MultiGeometry>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Ponte Brolla & Quarzo</h4><p>Climb on September 24, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-09-24-Alison-and-Ponte-Brolla" target="_blank">photos</a>.</p>]]></description>
+			<MultiGeometry>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>8.75189,46.18909</coordinates>
+				</Point>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>8.76052,46.18839</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Brienzergrat</h4><p>Hike on October 13, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-10-13-Brienzergrat">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2786640538">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Oeschinensee</h4><p>Hike on September 26, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-09-26-Oeschinensee" target="_blank">photos</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>7.69733,46.50206 7.70033,46.50201 7.70271,46.50115 7.70519,46.49923 7.70996,46.49855 7.71114,46.49758 7.71412,46.49726 7.71571,46.49833 7.71722,46.49889 7.71723,46.49929 7.71632,46.50023 7.71620,46.50116 7.71742,46.50196 7.72128,46.50236 7.72423,46.50343 7.72559,46.50351 7.72811,46.50470 7.73090,46.50507 7.73229,46.50572 7.73352,46.50682 7.73376,46.50709 7.73332,46.50754 7.73354,46.50775 7.73446,46.50767 7.73358,46.50826 7.73353,46.50900 7.73575,46.50878 7.73635,46.50897 7.73664,46.50945 7.73729,46.50955 7.73985,46.50817 7.74193,46.50829 7.74339,46.50890 7.74624,46.50887 7.74803,46.50843 7.74849,46.50868 7.74951,46.50805 7.74978,46.50838 7.74951,46.50867 7.75079,46.50830 7.75264,46.50869 7.75777,46.51086 7.75749,46.51097 7.75777,46.51086 7.75565,46.50980 7.75264,46.50869 7.75079,46.50830 7.74951,46.50867 7.74978,46.50838 7.74951,46.50805 7.74849,46.50868 7.74803,46.50843 7.74624,46.50887 7.74334,46.50889 7.74193,46.50829 7.73985,46.50817 7.73753,46.50951 7.73679,46.50952 7.73622,46.50890 7.73501,46.50874 7.73501,46.50929 7.73384,46.50984 7.72936,46.51012 7.72844,46.50982 7.72867,46.50898 7.72816,46.50842 7.72637,46.50755 7.72475,46.50758 7.72300,46.50675 7.72307,46.50613 7.72209,46.50543 7.72214,46.50491 7.72080,46.50446 7.72061,46.50400 7.71860,46.50510 7.71813,46.50385 7.71725,46.50414 7.71602,46.50390 7.71557,46.50424 7.71455,46.50432 7.71405,46.50482 7.71154,46.50485 7.70950,46.50354 7.70897,46.50197 7.70723,46.50185 7.70394,46.50221 7.70307,46.50164 7.70166,46.50155 7.70016,46.50206 7.69734,46.50204</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Brienzergrat</h4><p>Hike on October 13, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-10-13-Brienzergrat" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2786640538" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1213,7 +1359,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Hoher Kasten und Saxer First</h4><p>Hike on October 26, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-10-26-Hoher-Kasten">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2819068305">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Hoher Kasten und Saxer First</h4><p>Hike on October 26, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-10-26-Hoher-Kasten" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2819068305" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1221,8 +1367,16 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Balmflue</h4><p>Climb on October 27, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-10-27-Balmflue" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.54287,47.25368</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Monte Boglia</h4><p>Hike on November 30, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-11-30-Monte-Boglia">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2902601669">tracks 1</a>, <a href="https://www.strava.com/activities/2902601703">tracks 2</a>.</p>]]></description>
+			<description><![CDATA[<h4>Monte Boglia</h4><p>Hike on November 30, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-11-30-Monte-Boglia" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2902601669" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/2902601703" target="_blank">tracks 2</a>.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -1238,7 +1392,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Fanenstock</h4><p>Skitour on January 19, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-01-19-Fanenstock">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3026197426">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Fanenstock</h4><p>Skitour on January 19, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-01-19-Fanenstock" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3026197426" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1247,7 +1401,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Bürglen</h4><p>Skitour on January 26, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-01-26-Buergle">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3045391137">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Bürglen</h4><p>Skitour on January 26, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-01-26-Buergle" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3045391137" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1256,7 +1410,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Lämmerenhütte</h4><p>Skitour on February 15, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-02-16-Wildstrubel">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3106461613">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Lämmerenhütte</h4><p>Skitour on February 15, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-02-16-Wildstrubel" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3106461613" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1265,7 +1419,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Wildstrubel</h4><p>Skitour on February 16, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-02-16-Wildstrubel">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3106461659">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Wildstrubel</h4><p>Skitour on February 16, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-02-16-Wildstrubel" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3106461659" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1274,7 +1428,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Chörbschhorn</h4><p>Skitour on March 1, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-03-01-Chörbschhorn">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3146130479">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Chörbschhorn</h4><p>Skitour on March 1, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-03-01-Chörbschhorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3146130479" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1283,7 +1437,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Albert-Heim-Hütte via Schafberg</h4><p>Skitour on March 7, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-03-07-Oberi-Bieleluecke">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3166783948">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Albert-Heim-Hütte via Schafberg</h4><p>Skitour on March 7, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-03-07-Oberi-Bieleluecke" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3166783948" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1292,7 +1446,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Oberi Bielelücke</h4><p>Skitour on March 8, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-03-08-Oberi-Bieleluecke">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3166784181">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Oberi Bielelücke</h4><p>Skitour on March 8, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-03-08-Oberi-Bieleluecke" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3166784181" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1301,7 +1455,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Felsenegg and back</h4><p>Hike on May 9, 2020.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3426041328">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Felsenegg and back</h4><p>Hike on May 9, 2020.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3426041328" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1310,7 +1464,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Bürgle mit Sherpa</h4><p>Hike on May 21, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-05-21-Bürgle-mit-Sherpa">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3493852927">tracks 1</a>, <a href="https://www.strava.com/activities/3493853096">tracks 2</a>.</p><p>Fasch niemer ufem Niese wenn's Bähnli nid fahrt.</p>]]></description>
+			<description><![CDATA[<h4>Bürgle mit Sherpa</h4><p>Hike on May 21, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-05-21-Bürgle-mit-Sherpa" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3493852927" target="_blank">tracks 1</a>, <a href="https://www.strava.com/activities/3493853096" target="_blank">tracks 2</a>.</p><p>Fasch niemer ufem Niese wenn's Bähnli nid fahrt.</p>]]></description>
 			<MultiGeometry>
 				<LineString>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -1326,7 +1480,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Niesen</h4><p>Hike on May 22, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-05-22-Niesen">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3493853799">tracks</a>.</p><p>Fasch niemer ufem Niese wenn's Bähnli nid fahrt.</p>]]></description>
+			<description><![CDATA[<h4>Niesen</h4><p>Hike on May 22, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-05-22-Niesen" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3493853799" target="_blank">tracks</a>.</p><p>Fasch niemer ufem Niese wenn's Bähnli nid fahrt.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1335,7 +1489,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Moléson</h4><p>Hike on May 24, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-05-24-Moléson">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3504267201">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Moléson</h4><p>Hike on May 24, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-05-24-Moléson" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3504267201" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1344,7 +1498,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Dents de Brenleire et Savigny</h4><p>Hike on May 31, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-05-31-Dents-de-Brenleire-et-Savigny">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3543507012">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Dents de Brenleire et Savigny</h4><p>Hike on May 31, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-05-31-Dents-de-Brenleire-et-Savigny" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3543507012" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1353,7 +1507,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Seebergsee</h4><p>Hike on June 1, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-06-01-Seebergsee">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3547416117">tracks</a>.</p><p>Dog + snow field = panic</p>]]></description>
+			<description><![CDATA[<h4>Seebergsee</h4><p>Hike on June 1, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-06-01-Seebergsee" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3547416117" target="_blank">tracks</a>.</p><p>Dog + snow field = panic</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1362,7 +1516,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Falknis</h4><p>Hike on June 13, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-06-13-Falknis">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3609561093">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Falknis</h4><p>Hike on June 13, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-06-13-Falknis" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3609561093" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1371,7 +1525,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Stöckalp to Jochpass</h4><p>Hike on June 20, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-06-20-Stöckalp-to-Jochpass">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3644865993">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Stöckalp to Jochpass</h4><p>Hike on June 20, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-06-20-Stöckalp-to-Jochpass" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3644865993" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1380,7 +1534,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Gonzen</h4><p>Hike on June 21, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-06-21-Gonzen">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3650184083">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Gonzen</h4><p>Hike on June 21, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-06-21-Gonzen" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3650184083" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1389,7 +1543,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Gnipen</h4><p>Hike on June 27, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-06-27-Gnipen">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3678469873">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Gnipen</h4><p>Hike on June 27, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-06-27-Gnipen" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3678469873" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1398,7 +1552,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Gross Aubrig</h4><p>Hike on June 28, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-06-28-Gross-Aubrig">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3683415777">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Gross Aubrig</h4><p>Hike on June 28, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-06-28-Gross-Aubrig" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3683415777" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1407,7 +1561,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Torrenthorn</h4><p>Hike on July 4, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-04-Torrenthorn-Schafberg">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3714209244">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Torrenthorn</h4><p>Hike on July 4, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-04-Torrenthorn-Schafberg" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3714209244" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1416,7 +1570,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Leukerbad to Adelboden via Rote-Totz</h4><p>Hike on July 5, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-05-Leukerbad-to-Adelboden-via-Rote-Totz">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3719469829">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Leukerbad to Adelboden via Rote-Totz</h4><p>Hike on July 5, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-05-Leukerbad-to-Adelboden-via-Rote-Totz" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3719469829" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1425,15 +1579,16 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Risetenpass</h4><p>Hike on July 10, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-10-Risetenpass">photos</a>.</p>]]></description>
-			<Point>
+			<description><![CDATA[<h4>Risetenpass</h4><p>Hike on July 10, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-10-Risetenpass" target="_blank">photos</a>.</p>]]></description>
+			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
-				<coordinates>9.24649,46.97816</coordinates>
-			</Point>
+				<tessellate>1</tessellate>
+				<coordinates>9.34333,46.98917 9.33925,46.98901 9.33634,46.98840 9.33145,46.98852 9.33036,46.98795 9.32718,46.98773 9.32684,46.98714 9.32639,46.98700 9.32133,46.98651 9.31367,46.98213 9.30975,46.98082 9.30686,46.97865 9.30541,46.97653 9.30450,46.97650 9.30382,46.97607 9.30253,46.97610 9.30264,46.97721 9.30345,46.97784 9.30050,46.97709 9.29913,46.97723 9.29741,46.97607 9.29434,46.97481 9.29307,46.97475 9.29097,46.97391 9.28861,46.97363 9.28555,46.97420 9.28470,46.97469 9.28318,46.97440 9.28025,46.97503 9.27473,46.97493 9.28098,46.97693 9.27704,46.97735 9.27557,46.97668 9.27393,46.97695 9.27285,46.97817 9.27289,46.97915 9.27185,46.98042 9.26966,46.98097 9.26872,46.98227 9.26694,46.98278 9.26568,46.98482 9.26279,46.98541 9.26169,46.98453 9.25911,46.98136 9.25931,46.98116 9.25837,46.98039 9.25903,46.97957 9.26016,46.97914 9.26481,46.97836 9.26480,46.97788 9.26416,46.97736 9.26291,46.97698 9.26345,46.97655 9.26335,46.97618 9.26256,46.97476 9.26217,46.97462 9.25213,46.97497 9.24948,46.97613 9.24741,46.97654 9.24666,46.97811 9.24533,46.97782 9.24452,46.97802 9.24399,46.97763 9.24331,46.97794 9.24305,46.97765 9.24232,46.97831 9.24147,46.97599 9.24105,46.97574 9.24112,46.97531 9.24046,46.97526 9.24037,46.97461 9.24018,46.97493 9.23932,46.97411 9.23912,46.97514 9.23828,46.97450 9.23768,46.97558 9.23523,46.97586 9.23484,46.97648 9.23314,46.97639 9.23349,46.97607 9.23326,46.97525 9.23229,46.97503 9.23160,46.97572 9.23116,46.97559 9.23022,46.97468 9.23032,46.97411 9.22925,46.97450 9.22939,46.97351 9.22902,46.97314 9.22803,46.97269 9.22812,46.97231 9.22742,46.97231 9.22715,46.97188 9.22616,46.97199 9.22620,46.97151 9.22558,46.97098 9.22208,46.97102 9.22221,46.96962 9.22292,46.96890 9.22274,46.96761 9.22121,46.96811 9.22028,46.96685 9.21943,46.96691 9.21624,46.96524 9.20792,46.96332 9.20534,46.96196 9.20254,46.96138 9.20075,46.96146 9.19795,46.96025 9.19667,46.96067 9.19358,46.96086 9.19240,46.96074 9.19019,46.95939 9.18785,46.95987 9.18540,46.95887 9.18235,46.95930 9.18020,46.95882 9.17749,46.95875 9.17532,46.95929 9.17367,46.95889 9.17219,46.95915 9.17103,46.96029 9.17044,46.96164</coordinates>
+			</LineString>
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Hinterrugg und Chäserugg</h4><p>Hike on July 12, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-12-Hinterrugg-und-Chaeserugg">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3752030527">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Hinterrugg und Chäserugg</h4><p>Hike on July 12, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-12-Hinterrugg-und-Chaeserugg" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3752030527" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1442,7 +1597,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Pizol</h4><p>Hike on July 18, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-18-Pizol">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3781504255">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Pizol</h4><p>Hike on July 18, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-18-Pizol" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3781504255" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1451,7 +1606,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Bergün-Sertig</h4><p>Hike on July 19, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-19-Bergün-Sertig">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3787650533">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Bergün-Sertig</h4><p>Hike on July 19, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-19-Bergün-Sertig" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3787650533" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1460,7 +1615,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hochtour</styleUrl>
-			<description><![CDATA[<h4>Lagginhorn Attempt</h4><p>Hochtour on July 25, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-25-Lagginhorn-Attempt">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3812218088">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Lagginhorn Attempt</h4><p>Hochtour on July 25, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-25-Lagginhorn-Attempt" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3812218088" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1469,7 +1624,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hochtour</styleUrl>
-			<description><![CDATA[<h4>Mutthornhütte</h4><p>Hochtour on July 27, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-28-Mutthornhütte">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3828378558">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Mutthornhütte</h4><p>Hochtour on July 27, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-28-Mutthornhütte" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3828378558" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1478,7 +1633,15 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hochtour</styleUrl>
-			<description><![CDATA[<h4>Wätterhore</h4><p>Hochtour on July 28, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-28-Mutthornhütte">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3828379046">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Lagginhorn</h4><p>Hochtour on July 25, 2014.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-25-Lagginhorn-Attempt" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.00307,46.15707</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hochtour</styleUrl>
+			<description><![CDATA[<h4>Wätterhore</h4><p>Hochtour on July 28, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-28-Mutthornhütte" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3828379046" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1487,15 +1650,16 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Oberblegisee</h4><p>Hike on July 31, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-31-Oberblegisee">photos</a>.</p>]]></description>
-			<Point>
+			<description><![CDATA[<h4>Oberblegisee</h4><p>Hike on July 31, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-07-31-Oberblegisee" target="_blank">photos</a>.</p>]]></description>
+			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
-				<coordinates>9.01314,46.98040</coordinates>
-			</Point>
+				<tessellate>1</tessellate>
+				<coordinates>9.05946,46.98610 9.05720,46.98726 9.05479,46.98634 9.05441,46.98682 9.05335,46.98654 9.05265,46.98613 9.05264,46.98572 9.05123,46.98542 9.05000,46.98533 9.04851,46.98586 9.04806,46.98531 9.04666,46.98489 9.04678,46.98564 9.04586,46.98542 9.04632,46.98662 9.04597,46.98641 9.04522,46.98692 9.04444,46.98663 9.04414,46.98678 9.04416,46.98750 9.04201,46.98643 9.04248,46.98880 9.04747,46.99021 9.05069,46.99242 9.05043,46.99238 9.05052,46.99296 9.04928,46.99278 9.04964,46.99312 9.04937,46.99319 9.04951,46.99340 9.04856,46.99336 9.04868,46.99393 9.04825,46.99382 9.04936,46.99503 9.04792,46.99503 9.04851,46.99553 9.04793,46.99525 9.04819,46.99577 9.04763,46.99561 9.04789,46.99601 9.04744,46.99587 9.04766,46.99630 9.04705,46.99601 9.04727,46.99649 9.04604,46.99650 9.04635,46.99704 9.04508,46.99676 9.04518,46.99722 9.04468,46.99696 9.04483,46.99734 9.04448,46.99764 9.04484,46.99827 9.04387,46.99802 9.04305,46.99687 9.04194,46.99660 9.04197,46.99699 9.04164,46.99672 9.04165,46.99719 9.04132,46.99741 9.04230,46.99943 9.04202,46.99968 9.04174,46.99943 9.04150,46.99983 9.04110,46.99968 9.03892,46.99794 9.03820,46.99780 9.03547,46.99601 9.03431,46.99569 9.03287,46.99458 9.03264,46.99346 9.03131,46.99292 9.03010,46.99198 9.02911,46.99174 9.02772,46.99203 9.02565,46.99132 9.02482,46.99144 9.02428,46.99103 9.02431,46.99015 9.02869,46.98778 9.02906,46.98730 9.03021,46.98720 9.03061,46.98672 9.02684,46.98653 9.02453,46.98476 9.02139,46.98368 9.01861,46.98098 9.01788,46.98002 9.01796,46.97953 9.01749,46.97969 9.01690,46.97811 9.01596,46.97941 9.01593,46.97985 9.01649,46.98060 9.01554,46.98140 9.01566,46.98220 9.01655,46.98325 9.01547,46.98179 9.01559,46.98134 9.01648,46.98065 9.01591,46.97970 9.01621,46.97884 9.01688,46.97823 9.01675,46.97768 9.02136,46.97783 9.02003,46.97673 9.02231,46.97674 9.02213,46.97594 9.01835,46.97378 9.01977,46.97348 9.01946,46.97293 9.01725,46.97233 9.01573,46.97131 9.01778,46.97132 9.01691,46.97062 9.01903,46.97032 9.02145,46.97046 9.02238,46.97000</coordinates>
+			</LineString>
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Majinghorn</h4><p>Hike on August 9, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-08-09-Majinghorn">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3889657074">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Majinghorn</h4><p>Hike on August 9, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-08-09-Majinghorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3889657074" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1504,7 +1668,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
-			<description><![CDATA[<h4>Gemmi Running</h4><p>Run on August 10, 2020.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3892984364">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Gemmi Running</h4><p>Run on August 10, 2020.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3892984364" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1513,7 +1677,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Majingalp</h4><p>Hike on August 11, 2020.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3899294427">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Majingalp</h4><p>Hike on August 11, 2020.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3899294427" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1522,7 +1686,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Flüealp</h4><p>Hike on August 13, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-08-13-Flüealp">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3907698649">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Flüealp</h4><p>Hike on August 13, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-08-13-Flüealp" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3907698649" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1531,7 +1695,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Larschi</h4><p>Hike on August 14, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-08-14-Leukerbad">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3912691384">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Larschi</h4><p>Hike on August 14, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-08-14-Leukerbad" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3912691384" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1540,7 +1704,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Daubenhorn</h4><p>Hike on August 15, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-08-15-Daubenhorn">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3918185172">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Daubenhorn</h4><p>Hike on August 15, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-08-15-Daubenhorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3918185172" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1549,7 +1713,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Cabane dex Dix 1</h4><p>Hike on August 24, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-08-25-Cabane-des-Dix">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3965342504">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Cabane dex Dix 1</h4><p>Hike on August 24, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-08-25-Cabane-des-Dix" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3965342504" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1558,7 +1722,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Cabane dex Dix 2</h4><p>Hike on August 25, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-08-25-Cabane-des-Dix">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3965342594">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Cabane dex Dix 2</h4><p>Hike on August 25, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-08-25-Cabane-des-Dix" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/3965342594" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1567,7 +1731,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Federispitz</h4><p>Hike on November 17, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-11-17-Federispitz">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4351741626">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Federispitz</h4><p>Hike on November 17, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-11-17-Federispitz" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4351741626" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1576,7 +1740,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Alp Tschingla</h4><p>Hike on November 28, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-11-28-Alp-Tschingla">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4403866759">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Alp Tschingla</h4><p>Hike on November 28, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-11-28-Alp-Tschingla" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4403866759" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1585,7 +1749,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Mythen Nebelmeer</h4><p>Hike on November 29, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-11-29-Myhen-Nebelmeer">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4408975525">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Mythen Nebelmeer</h4><p>Hike on November 29, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-11-29-Myhen-Nebelmeer" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4408975525" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1594,7 +1758,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Piz Feil</h4><p>Skitour on December 12, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-11-29-Myhen-Nebelmeer">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4463765412">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Piz Feil</h4><p>Skitour on December 12, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-11-29-Myhen-Nebelmeer" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4463765412" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1603,7 +1767,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Furggelenstock</h4><p>Skitour on December 13, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-12-13-Furggelenstock">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4470516518">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Furggelenstock</h4><p>Skitour on December 13, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-12-13-Furggelenstock" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4470516518" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1612,7 +1776,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Fil da Rubi</h4><p>Skitour on December 17, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-12-17-Fil-da-Rubi">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4491618494">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Fil da Rubi</h4><p>Skitour on December 17, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-12-17-Fil-da-Rubi" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4491618494" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1621,7 +1785,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Piz Dado</h4><p>Skitour on December 18, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-12-18-Piz-Dado">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4491618499">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Piz Dado</h4><p>Skitour on December 18, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-12-18-Piz-Dado" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4491618499" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1630,7 +1794,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#XC-Ski</styleUrl>
-			<description><![CDATA[<h4>Brigels</h4><p>XC-Ski on December 19, 2020.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4491618517">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Brigels</h4><p>XC-Ski on December 19, 2020.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4491618517" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1639,7 +1803,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Mittagspitz</h4><p>Skitour on January 9, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-01-09-Mittagspitz">photos</a>.</p>]]></description>
+			<description><![CDATA[<h4>Mittagspitz</h4><p>Skitour on January 9, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-01-09-Mittagspitz" target="_blank">photos</a>.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>9.68502,46.86908</coordinates>
@@ -1647,7 +1811,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Roggenstock</h4><p>Skitour on January 10, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-01-10-Roggenstock">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4600572341">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Roggenstock</h4><p>Skitour on January 10, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-01-10-Roggenstock" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4600572341" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1656,7 +1820,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Skitour Uetliberg</h4><p>Skitour on January 14, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-01-14-Uetliberg-Skitour">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4620279397">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Skitour Uetliberg</h4><p>Skitour on January 14, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-01-14-Uetliberg-Skitour" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4620279397" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1665,7 +1829,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Wildspitz</h4><p>Skitour on January 16, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-01-16-Wildspitz">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4630798980">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Wildspitz</h4><p>Skitour on January 16, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-01-16-Wildspitz" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4630798980" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1674,7 +1838,25 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Tguma</h4><p>Skitour on January 24, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-01-24-Tguma">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4675742082">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Furggelen</h4><p>Skitour on January 22, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-01-22-Furggelen" target="_blank">photos</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>8.70621,47.04607 8.70683,47.04546 8.70785,47.04515 8.70828,47.04520 8.70853,47.04564 8.71296,47.04567 8.71341,47.04530 8.71533,47.04593 8.71721,47.04532 8.72004,47.04546 8.72410,47.04475 8.72795,47.04496 8.72989,47.04447 8.73056,47.04354 8.73246,47.04421 8.73333,47.04351 8.73417,47.04341 8.73333,47.04351 8.73317,47.04389 8.73231,47.04424 8.73056,47.04354 8.72989,47.04447 8.72795,47.04496 8.72410,47.04475 8.72004,47.04546 8.71721,47.04532 8.71533,47.04593 8.71341,47.04530 8.71291,47.04568 8.70853,47.04564 8.70828,47.04520 8.70785,47.04515 8.70683,47.04546 8.70622,47.04607</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Arnisee</h4><p>Hike on January 23, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-01-23-Arnisee" target="_blank">photos</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>8.64230,46.76918 8.64235,46.77047 8.64150,46.77235 8.64250,46.77327 8.64350,46.77315 8.64371,46.77442 8.64599,46.77526 8.64784,46.77696 8.64978,46.77775 8.65008,46.77907 8.65108,46.77962 8.65107,46.78046 8.65343,46.78344 8.65391,46.78464 8.65458,46.78458 8.65452,46.78399 8.65412,46.78369 8.65443,46.78251 8.65358,46.78135 8.65263,46.78080 8.65284,46.77977 8.65258,46.77904 8.65118,46.77807 8.64953,46.77767 8.64868,46.77627 8.64860,46.77603 8.64911,46.77589 8.64918,46.77516 8.65036,46.77452 8.65051,46.77395 8.65021,46.77365 8.64498,46.77272 8.64502,46.77248 8.64457,46.77239 8.64388,46.77257 8.64338,46.77318 8.64250,46.77327 8.64150,46.77235 8.64123,46.77145 8.63849,46.77045 8.63766,46.77069 8.63665,46.77050 8.63675,46.76877 8.63665,46.77050 8.63766,46.77069 8.63849,46.77045 8.64180,46.77159 8.64235,46.77047 8.64231,46.76918</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Skitour</styleUrl>
+			<description><![CDATA[<h4>Tguma</h4><p>Skitour on January 24, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-01-24-Tguma" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4675742082" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1683,7 +1865,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Parpeinahorn</h4><p>Skitour on February 5, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-05-Parpeinahorn">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4739713458">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Parpeinahorn</h4><p>Skitour on February 5, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-05-Parpeinahorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4739713458" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1692,7 +1874,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Meniggrat</h4><p>Skitour on February 7, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-07-Meniggrat">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4751237046">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Meniggrat</h4><p>Skitour on February 7, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-07-Meniggrat" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4751237046" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1701,7 +1883,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Roggenstock</h4><p>Skitour on February 20, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-20-Roggenstock">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4818351987">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Roggenstock</h4><p>Skitour on February 20, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-20-Roggenstock" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4818351987" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1710,7 +1892,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Silberen</h4><p>Skitour on February 21, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-21-Silberen">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4826149054">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Silberen</h4><p>Skitour on February 21, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-21-Silberen" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4826149054" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1719,7 +1901,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Selun</h4><p>Skitour on February 26, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-26-Selun">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4853718370">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Selun</h4><p>Skitour on February 26, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-26-Selun" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4853718370" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -1728,7 +1910,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Climb</styleUrl>
-			<description><![CDATA[<h4>Pic de Grandval</h4><p>Climb on February 28, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-28-Pic-de-Grandval">photos</a>.</p>]]></description>
+			<description><![CDATA[<h4>Pic de Grandval</h4><p>Climb on February 28, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-28-Pic-de-Grandval" target="_blank">photos</a>.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>7.42532,47.29378</coordinates>
@@ -1736,11 +1918,194 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Klein Mythen Vorgipfel</h4><p>Hike on March 7, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-03-07-Klein-Mythen-Vorgipfel">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4908475439">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Klein Mythen Vorgipfel</h4><p>Hike on March 7, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-03-07-Klein-Mythen-Vorgipfel" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4908475439" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
 				<coordinates>8.65390,47.02117 8.65397,47.02195 8.65627,47.02339 8.65714,47.02381 8.65921,47.02352 8.65901,47.02393 8.65929,47.02403 8.65992,47.02398 8.66086,47.02311 8.66487,47.02202 8.66517,47.02133 8.66604,47.02133 8.66581,47.02161 8.66638,47.02178 8.67123,47.02133 8.67303,47.02170 8.67415,47.02230 8.67575,47.02193 8.67606,47.02237 8.67564,47.02323 8.67614,47.02349 8.67550,47.02557 8.67583,47.02717 8.67544,47.02807 8.67568,47.02885 8.67525,47.02992 8.67541,47.03034 8.67493,47.03112 8.67700,47.03068 8.67840,47.03000 8.67836,47.03035 8.67919,47.03052 8.67889,47.03073 8.67951,47.03086 8.67936,47.03107 8.68001,47.03072 8.68062,47.03081 8.68091,47.02989 8.68153,47.03002 8.68115,47.02993 8.68181,47.02937 8.68175,47.03074 8.68210,47.03115 8.68165,47.03219 8.68199,47.03278 8.68165,47.03301 8.68285,47.03321 8.68306,47.03352 8.68258,47.03441 8.68276,47.03501 8.68183,47.03566 8.68182,47.03612 8.68231,47.03685 8.68282,47.03682 8.68354,47.03731 8.68392,47.03924 8.68359,47.03725 8.68176,47.03605 8.68175,47.03573 8.68308,47.03478 8.68262,47.03447 8.68282,47.03455 8.68297,47.03395 8.68449,47.03442 8.68612,47.03366 8.68840,47.03345 8.68956,47.03300 8.69002,47.03353 8.69061,47.03339 8.69036,47.03369 8.69131,47.03349 8.69276,47.03399 8.69361,47.03392 8.69732,47.03556 8.69793,47.03628 8.69764,47.03685 8.69848,47.03740 8.69842,47.03771 8.69939,47.03854 8.70237,47.03998 8.70310,47.04125</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Skitour</styleUrl>
+			<description><![CDATA[<h4>Um Su</h4><p>Skitour on March 20, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-03-20-Um-Su" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4987322121" target="_blank">tracks</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>9.13163,46.68516 9.13148,46.68570 9.13080,46.68509 9.13073,46.68590 9.12993,46.68661 9.12890,46.68568 9.12802,46.68561 9.12695,46.68579 9.12611,46.68635 9.12526,46.68618 9.12331,46.68649 9.12223,46.68740 9.12220,46.68712 9.12033,46.68696 9.12001,46.68666 9.11707,46.68659 9.11214,46.68539 9.11065,46.68556 9.11036,46.68592 9.10873,46.68582 9.10783,46.68609 9.10699,46.68606 9.10663,46.68562 9.10503,46.68574 9.10444,46.68527 9.09724,46.68548 9.09269,46.68510 9.08788,46.68550 9.08922,46.68513 9.09323,46.68497 9.09464,46.68458 9.09748,46.68535 9.10003,46.68438 9.10239,46.68402 9.10758,46.68397 9.10959,46.68448 9.11085,46.68443 9.11664,46.68647 9.11931,46.68603 9.12297,46.68668 9.12326,46.68623 9.12488,46.68626 9.12581,46.68608 9.12573,46.68579 9.12646,46.68604 9.12644,46.68581 9.12777,46.68550 9.13049,46.68567 9.13075,46.68501 9.13143,46.68562 9.13160,46.68515 9.13118,46.68414</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Skitour</styleUrl>
+			<description><![CDATA[<h4>Fil da Rueun</h4><p>Skitour on March 21, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-03-21-Fil-da-Rueun" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4987322210" target="_blank">tracks</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>9.15541,46.78864 9.15490,46.79162 9.15454,46.79230 9.15405,46.79252 9.15426,46.79260 9.15382,46.79324 9.15408,46.79406 9.15327,46.79429 9.15361,46.79482 9.15281,46.79538 9.15285,46.79605 9.15234,46.79653 9.15232,46.79683 9.15384,46.79756 9.15217,46.79847 9.15411,46.79879 9.15342,46.79888 9.15269,46.79977 9.15400,46.79989 9.15416,46.80014 9.15381,46.80063 9.15420,46.80099 9.15407,46.80167 9.15331,46.80249 9.15343,46.80294 9.15385,46.80297 9.15269,46.80352 9.14973,46.80389 9.14906,46.80445 9.14771,46.80461 9.14918,46.80549 9.15019,46.80552 9.15035,46.80605 9.15092,46.80642 9.15082,46.80718 9.15164,46.80781 9.15120,46.80803 9.15201,46.80856 9.15075,46.80906 9.15099,46.80945 9.15017,46.80993 9.15073,46.81052 9.15039,46.81080 9.15062,46.81072 9.15070,46.81141 9.15106,46.81170 9.15113,46.81283 9.15175,46.81308 9.15051,46.81413 9.14942,46.81613 9.14551,46.81764 9.14305,46.81793 9.14392,46.81816 9.14510,46.81783 9.14604,46.81800 9.14915,46.81679 9.14971,46.81619 9.14969,46.81538 9.15144,46.81313 9.15068,46.81228 9.15087,46.81088 9.15060,46.81030 9.15067,46.80948 9.15144,46.80901 9.15151,46.80856 9.15125,46.80772 9.15001,46.80601 9.14813,46.80477 9.14975,46.80402 9.15163,46.80377 9.15137,46.80344 9.15190,46.80300 9.15159,46.80263 9.15192,46.80256 9.15168,46.80229 9.15215,46.80145 9.15402,46.79992 9.15282,46.79969 9.15338,46.79904 9.15427,46.79868 9.15356,46.79829 9.15391,46.79773 9.15372,46.79742 9.15237,46.79670 9.15409,46.79494 9.15398,46.79246 9.15450,46.79241 9.15496,46.79161 9.15555,46.78853</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Skitour</styleUrl>
+			<description><![CDATA[<h4>Rütistein</h4><p>Skitour on March 26, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-03-26-Rütistein" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/5014556223" target="_blank">tracks</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>8.80824,47.01908 8.80796,47.01741 8.80513,47.01465 8.80542,47.01355 8.80620,47.01295 8.80950,47.01469 8.81002,47.01527 8.81225,47.01519 8.81519,47.01659 8.81526,47.01599 8.81394,47.01501 8.81590,47.01533 8.81739,47.01629 8.81827,47.01643 8.81846,47.01709 8.81902,47.01758 8.81902,47.01824 8.81852,47.01905 8.81932,47.02076 8.82103,47.02032 8.82398,47.02093 8.82510,47.01980 8.82559,47.01989 8.82690,47.01904 8.82943,47.01880 8.83008,47.01733 8.83066,47.01700 8.83769,47.01649 8.83877,47.01699 8.83885,47.01644 8.84002,47.01622 8.84011,47.01477 8.83962,47.01369 8.83854,47.01323 8.83719,47.01324 8.83677,47.01349 8.83733,47.01470 8.83600,47.01500 8.83584,47.01537 8.83383,47.01526 8.83343,47.01568 8.83146,47.01565 8.82887,47.01681 8.82821,47.01777 8.82535,47.01879 8.82349,47.01866 8.82288,47.01947 8.82257,47.01905 8.82087,47.01877 8.82016,47.01928 8.81934,47.02070 8.81866,47.01891 8.81924,47.01778 8.81842,47.01646 8.81597,47.01531 8.81389,47.01493 8.81515,47.01599 8.81522,47.01644 8.81360,47.01603 8.81227,47.01523 8.81018,47.01524 8.80653,47.01302 8.80539,47.01298 8.80462,47.01260 8.80404,47.01297 8.80409,47.01385 8.80657,47.01598 8.80865,47.01871</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Holzegg</h4><p>Climb on March 28, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-03-28-Holzegg" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.42532,47.29378</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Pic de Grandval</h4><p>Climb on April 2, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021-04-02-Pic-de-Grandval-mit-Beni" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.69511,47.02795</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Pic de Crémines</h4><p>Climb on February 28, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-04-04-Pic-de-Crémines-mit-Marius" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.42999,47.29383</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Lägerngrat</h4><p>Hike on April 9, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-04-09-Lägerngrat" target="_blank">photos</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>8.30793,47.47640 8.30911,47.47624 8.30889,47.47582 8.30950,47.47568 8.30965,47.47339 8.31001,47.47251 8.31145,47.47275 8.31229,47.47343 8.31314,47.47366 8.31297,47.47382 8.31579,47.47468 8.32191,47.47527 8.34487,47.47915 8.34567,47.47890 8.35393,47.47995 8.35942,47.48013 8.36507,47.48102 8.37597,47.48167 8.39413,47.48166 8.39708,47.48200 8.39979,47.48199 8.40123,47.48161 8.40715,47.48185 8.41566,47.48133 8.42295,47.48213 8.42632,47.48182 8.43208,47.48255 8.43288,47.48234 8.43315,47.48146 8.43704,47.48247 8.43848,47.48252 8.44004,47.48330</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Farnerenzähne</h4><p>Climb on May 9, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-05-09-Farnerenzähne" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.62126,47.27643</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Haldenstein</h4><p>Climb on May 15, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-05-15-Haldenstein" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>9.53084,46.88403</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Stöcklichrüz</h4><p>Hike on May 22, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-05-22-Stöcklichrüz" target="_blank">photos</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>8.85253,47.18973 8.85084,47.18946 8.85070,47.18815 8.85101,47.18719 8.85024,47.18665 8.84970,47.18666 8.84819,47.18487 8.84887,47.18395 8.84907,47.18177 8.84860,47.18110 8.84946,47.18056 8.84968,47.17989 8.84867,47.17965 8.84798,47.17891 8.84442,47.17788 8.84453,47.17753 8.84394,47.17698 8.84335,47.17509 8.84242,47.17476 8.84253,47.17419 8.84189,47.17326 8.84186,47.17290 8.84392,47.17176 8.84663,47.17113 8.84649,47.17081 8.84707,47.17002 8.84701,47.16846 8.84467,47.16694 8.84417,47.16756 8.84459,47.16835 8.84446,47.16879 8.84074,47.16800 8.83849,47.16604 8.83703,47.16585 8.83584,47.16525 8.83371,47.16529 8.83349,47.16440 8.83080,47.16257 8.82700,47.16106 8.82558,47.16085 8.82422,47.16125 8.82209,47.16031 8.82196,47.15964 8.82001,47.15891 8.81923,47.15824 8.82001,47.15891 8.82196,47.15964 8.82209,47.16031 8.82422,47.16125 8.82558,47.16085 8.82700,47.16106 8.83080,47.16257 8.83349,47.16440 8.83371,47.16529 8.83584,47.16525 8.83703,47.16585 8.83849,47.16604 8.84074,47.16800 8.84446,47.16879 8.84459,47.16835 8.84417,47.16756 8.84467,47.16694 8.84701,47.16846 8.84707,47.17002 8.84649,47.17081 8.84663,47.17113 8.84392,47.17176 8.84186,47.17290 8.84189,47.17326 8.84253,47.17419 8.84242,47.17476 8.84335,47.17509 8.84394,47.17698 8.84453,47.17753 8.84442,47.17788 8.84798,47.17891 8.84867,47.17965 8.84968,47.17989 8.84946,47.18056 8.84860,47.18110 8.84907,47.18177 8.84887,47.18395 8.84819,47.18487 8.84970,47.18666 8.85024,47.18665 8.85101,47.18719 8.85070,47.18815 8.85084,47.18946 8.85251,47.18973</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Lavaux</h4><p>Hike on May 28, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-05-28-Lavaux" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/5379430445" target="_blank">tracks</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>6.69045,46.50395 6.69107,46.50346 6.69137,46.50411 6.69198,46.50388 6.69231,46.50417 6.69367,46.50351 6.69388,46.50288 6.69807,46.50187 6.69862,46.50196 6.69908,46.50311 6.70004,46.50325 6.70005,46.50281 6.70127,46.50177 6.70241,46.50122 6.70329,46.49984 6.70429,46.49986 6.70692,46.49849 6.70858,46.49886 6.70995,46.49841 6.70982,46.49777 6.70923,46.49751 6.70974,46.49663 6.71161,46.49656 6.71205,46.49559 6.71270,46.49511 6.71480,46.49519 6.71594,46.49430 6.71590,46.49384 6.71689,46.49328 6.71615,46.49367 6.71649,46.49433 6.71707,46.49424 6.71970,46.49498 6.72415,46.49527 6.72578,46.49575 6.72715,46.49550 6.72788,46.49460 6.73077,46.49529 6.73148,46.49437 6.73446,46.49673 6.73484,46.49449 6.73444,46.49370 6.73612,46.49316 6.73606,46.49218 6.73653,46.49133 6.74317,46.49057 6.74495,46.49116 6.74661,46.49113 6.74666,46.49190 6.74539,46.49213 6.74546,46.49177 6.74685,46.49179 6.74665,46.49114 6.74480,46.49091 6.74609,46.49072 6.74704,46.48999 6.74946,46.48933 6.75043,46.48851 6.75272,46.48769 6.75742,46.48460 6.76073,46.48181 6.76477,46.47968 6.77324,46.47703 6.77488,46.47623 6.77672,46.47597 6.77726,46.47635 6.77775,46.47601 6.77947,46.47711 6.78089,46.47716 6.78340,46.47581 6.78510,46.47534 6.78602,46.47588 6.78877,46.47563 6.79121,46.47474 6.79418,46.47430 6.79581,46.47361 6.79846,46.47379 6.79780,46.47352 6.79595,46.47361 6.79587,46.47310 6.79681,46.47286</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Obersee</h4><p>Hike on May 29, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-05-29-Obersee" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/5379430766" target="_blank">tracks</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>9.06991,47.09860 9.06973,47.09907 9.06745,47.09950 9.06680,47.10026 9.06265,47.10016 9.06109,47.10077 9.05854,47.09971 9.05816,47.09925 9.05704,47.09922 9.05578,47.09852 9.05538,47.09894 9.05519,47.09841 9.05473,47.09868 9.05473,47.09821 9.05424,47.09842 9.05393,47.09761 9.05374,47.09801 9.05329,47.09777 9.05313,47.09813 9.05244,47.09832 9.05275,47.09794 9.05245,47.09747 9.05268,47.09691 9.05223,47.09707 9.05240,47.09654 9.05161,47.09705 9.05181,47.09680 9.05149,47.09692 9.05150,47.09662 9.05094,47.09688 9.05050,47.09817 9.04981,47.09851 9.04842,47.09778 9.04833,47.09744 9.04771,47.09755 9.04741,47.09726 9.04614,47.09756 9.04621,47.09814 9.04599,47.09816 9.04638,47.09837 9.04463,47.09866 9.04470,47.09897 9.04169,47.09916 9.04143,47.09896 9.04222,47.09854 9.04166,47.09741 9.04096,47.09784 9.03980,47.09709 9.03890,47.09771 9.03781,47.09713 9.03632,47.09744 9.03532,47.09675 9.03419,47.09651 9.03390,47.09698 9.03402,47.09800 9.03294,47.09938 9.03267,47.09896 9.03109,47.09822 9.03013,47.09868 9.02787,47.09889 9.02706,47.09952 9.02446,47.09990 9.02306,47.09965 9.02087,47.10071 9.01792,47.10098 9.01682,47.10043 9.01737,47.10038 9.01721,47.09995 9.01810,47.09917 9.01805,47.09890 9.01961,47.09879 9.01549,47.09743 9.01398,47.09584 9.01325,47.09553 9.01615,47.09508 9.01776,47.09522 9.01835,47.09471 9.01817,47.09383 9.01989,47.09434 9.02028,47.09419 9.02058,47.09365 9.01995,47.09301 9.02030,47.09216 9.02001,47.09142 9.01946,47.09106 9.02021,47.09092 9.02060,47.09038 9.02046,47.08837 9.02067,47.08805 9.02010,47.08765 9.02061,47.08680 9.02012,47.08624 9.02060,47.08689 9.02015,47.08791 9.02303,47.08917 9.02395,47.08921 9.02501,47.08825 9.02726,47.08838 9.02897,47.08912 9.03120,47.09098 9.03346,47.09178 9.03464,47.09194 9.03529,47.09165 9.03666,47.09182 9.03813,47.09157 9.03999,47.09206 9.04161,47.09291 9.04289,47.09299 9.04365,47.09355 9.04630,47.09370 9.04584,47.09410 9.04628,47.09420 9.04875,47.09385 9.04880,47.09409 9.04894,47.09359 9.04905,47.09388 9.05037,47.09425 9.05027,47.09445 9.05151,47.09447 9.05166,47.09495 9.05185,47.09479 9.05225,47.09664 9.05252,47.09673 9.05233,47.09708 9.05261,47.09693 9.05249,47.09779 9.05317,47.09810 9.05403,47.09773 9.05423,47.09842 9.05457,47.09831 9.05474,47.09871 9.05514,47.09844 9.05532,47.09893 9.05582,47.09864 9.05617,47.09904 9.05657,47.09898 9.05689,47.09951 9.05804,47.09928 9.05846,47.09973 9.06157,47.10060 9.06271,47.10023 9.06343,47.10039 9.06387,47.10004 9.06578,47.10062 9.06682,47.10034 9.06750,47.09951 9.06924,47.09928 9.06997,47.09886</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Moutier - Arête spéciale</h4><p>Climb on May 30, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-05-30-Moutier-Arête-spéciale" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.38253,47.28521</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Rigi</h4><p>Hike on June 11, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-06-11-Rigi" target="_blank">photos</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>8.50484,47.03845 8.50084,47.03739 8.50060,47.03781 8.50159,47.03833 8.49810,47.03819 8.49455,47.03904 8.49306,47.03963 8.48943,47.04254 8.48478,47.04375 8.48378,47.04357 8.48498,47.04271 8.48394,47.04260 8.48365,47.04170 8.48391,47.04131 8.48326,47.04074 8.48228,47.04035 8.48072,47.04053 8.47944,47.04013 8.47913,47.04077 8.47801,47.04126 8.47790,47.04173 8.47698,47.04256 8.47655,47.04345 8.47650,47.04465 8.47554,47.04519 8.47459,47.04525 8.47398,47.04584 8.47407,47.04619 8.47230,47.04723 8.47220,47.04694 8.46845,47.04818 8.46889,47.04849 8.46863,47.04858 8.46902,47.04953 8.46976,47.05024 8.46985,47.05079 8.47359,47.05319 8.47408,47.05399 8.47563,47.05503 8.47807,47.05469 8.47847,47.05505 8.47916,47.05468 8.47915,47.05508 8.47986,47.05484 8.48129,47.05532 8.48311,47.05513 8.48427,47.05572 8.48548,47.05590 8.48542,47.05672</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Pizalun</h4><p>Hike on June 13, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-06-13-Pizalun" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/5464931887" target="_blank">tracks</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>9.55334,46.96596 9.55324,46.96716 9.55485,46.96730 9.55531,46.96778 9.55398,46.96856 9.55282,46.96827 9.55262,46.97109 9.55063,46.97178 9.54879,46.97164 9.54814,46.97200 9.54892,46.97176 9.54907,46.97092 9.54873,46.97036 9.54758,46.96954 9.54698,46.97046 9.54649,46.97063 9.54641,46.97115 9.54630,46.97027 9.54543,46.96937 9.54538,46.96828 9.54417,46.96930 9.54423,46.96970 9.54365,46.97030 9.54005,46.96940 9.54073,46.97093 9.54153,46.97160 9.53999,46.97115 9.53929,46.97047 9.53537,46.96865 9.53540,46.96901 9.53644,46.96969 9.53648,46.97011 9.53750,46.97119 9.53759,46.97189 9.53732,46.97211 9.53752,46.97182 9.53695,46.97122 9.53321,46.96937 9.53225,46.96918 9.53153,46.96827 9.52901,46.96700 9.52875,46.96708 9.52938,46.96786 9.52896,46.96771 9.52908,46.96833 9.52908,46.96791 9.52789,46.96740 9.52841,46.96857 9.52836,46.96902 9.52790,46.96924 9.52831,46.96993 9.52751,46.96962 9.52739,46.96896 9.52692,46.96861 9.52547,46.96862 9.52523,46.96909 9.52337,46.96895 9.52123,46.96814 9.52010,46.96827 9.51821,46.96709 9.51855,46.96800 9.51796,46.96775 9.51819,46.96867 9.52051,46.97143 9.52073,46.97125 9.52033,46.97122 9.52037,46.97097 9.51931,46.97016 9.51818,46.96846 9.51840,46.96806 9.51816,46.96779 9.51844,46.96805 9.51855,46.96772 9.51793,46.96671 9.51786,46.96591 9.51836,46.96481 9.51779,46.96383 9.51789,46.96334 9.52039,46.96213 9.52088,46.96143 9.52129,46.96159 9.52348,46.96065 9.52426,46.96092 9.52478,46.96025 9.52599,46.96055 9.52646,46.96141 9.52700,46.96149 9.52750,46.96213 9.52932,46.96243 9.53130,46.96364 9.53165,46.96292 9.53110,46.96081 9.53195,46.96004 9.53220,46.96113 9.53339,46.96171 9.53388,46.96296 9.53594,46.96371 9.53800,46.96538 9.53821,46.96598 9.53927,46.96616 9.54005,46.96671 9.54186,46.96674 9.54234,46.96621 9.54270,46.96624 9.54336,46.96790 9.54301,46.96908 9.54378,46.97013 9.54528,46.96834 9.54543,46.96924 9.54711,46.96945 9.54833,46.97009 9.54899,46.97091 9.54889,46.97154 9.55137,46.97171 9.55286,46.97112 9.55273,46.96730 9.55348,46.96724</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Dreibündenstein</h4><p>Hike on June 18, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-06-18-Dreibündenstein" target="_blank">photos</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>9.51615,46.82898 9.51578,46.82845 9.51521,46.82931 9.51434,46.82827 9.51079,46.82622 9.51032,46.82517 9.50949,46.82455 9.50923,46.82363 9.50640,46.82100 9.50613,46.82013 9.50494,46.81885 9.50379,46.81809 9.50372,46.81772 9.50518,46.81789 9.50612,46.81735 9.50625,46.81584 9.50572,46.81588 9.50557,46.81535 9.50437,46.81525 9.50417,46.81489 9.50479,46.81401 9.50311,46.81345 9.50382,46.81313 9.50370,46.81228 9.50311,46.81228 9.50241,46.81172 9.50123,46.81024 9.50119,46.80972 9.50006,46.80872 9.49790,46.80781 9.49825,46.80726 9.49759,46.80688 9.49708,46.80546 9.49604,46.80533 9.49609,46.80445 9.49567,46.80422 9.49642,46.80357 9.49629,46.80272 9.49756,46.80199 9.49737,46.80076 9.49804,46.80009 9.49718,46.79741 9.49896,46.79464 9.49860,46.79347 9.49919,46.79180 9.49854,46.79108 9.49915,46.79044 9.49887,46.79029 9.49946,46.78887 9.50004,46.78848 9.49946,46.78650 9.50014,46.78575 9.50029,46.78429 9.49986,46.78408 9.49978,46.78359 9.50055,46.78310 9.49996,46.78273 9.50055,46.78310 9.49974,46.78372 9.50029,46.78429 9.50002,46.78658 9.50039,46.78727 9.50266,46.78810 9.50261,46.78979 9.50403,46.78906 9.50509,46.78979 9.50666,46.78940 9.50799,46.78966 9.51027,46.79072 9.51273,46.79091 9.51396,46.79044 9.51460,46.78875 9.51790,46.78577 9.51866,46.78454 9.51954,46.78481 9.51923,46.78458 9.51921,46.78280 9.52016,46.78298</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Hirzli und Planggenstock</h4><p>Hike on June 26, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021-06-26-Hirzli-und-Planggenstock" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/5533471939" target="_blank">tracks</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>9.05991,47.13598 9.06211,47.13464 9.06103,47.13289 9.05887,47.13160 9.05479,47.12659 9.05232,47.12583 9.05183,47.12624 9.04921,47.12621 9.04693,47.12520 9.04242,47.12440 9.04260,47.12413 9.04201,47.12398 9.04149,47.12329 9.03792,47.12376 9.03395,47.12503 9.03326,47.12492 9.03335,47.12447 9.03261,47.12466 9.03160,47.12410 9.02971,47.12409 9.02825,47.12480 9.02794,47.12464 9.02792,47.12365 9.02724,47.12409 9.02543,47.12438 9.02450,47.12558 9.02391,47.12582 9.02407,47.12514 9.02249,47.12467 9.02047,47.12498 9.01916,47.12579 9.01928,47.12705 9.01841,47.12769 9.01867,47.12824 9.01807,47.12844 9.01829,47.12981 9.01893,47.12976 9.02015,47.13034 9.01739,47.13106 9.01209,47.13075 9.01242,47.13111 9.00976,47.13101 9.00950,47.13122 9.01015,47.13131 9.00992,47.13138 9.01040,47.13179 9.01121,47.13212 9.00736,47.13224 9.00862,47.13267 9.00737,47.13280 9.00911,47.13319 9.00701,47.13323 9.00811,47.13358 9.00740,47.13365 9.00774,47.13388 9.00719,47.13388 9.00757,47.13402 9.00503,47.13288 9.00277,47.13262 8.99957,47.13321 8.99421,47.13343 8.99130,47.13234 8.99453,47.13115 8.99660,47.13176 8.99608,47.13093 8.99616,47.13054 8.99756,47.13049 8.99849,47.12968 9.00018,47.12982 8.99976,47.12947 9.00020,47.12932 9.00010,47.12905 9.00145,47.12850 9.00194,47.12810 9.00201,47.12759 9.00367,47.12711 9.00340,47.12665 9.00266,47.12659 8.99975,47.12488 9.00047,47.12433 9.00246,47.12487 9.00726,47.12487 9.01158,47.12530 9.01958,47.12495 9.01953,47.12563 9.01997,47.12551</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Älplisee</h4><p>Hike on June 28, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-06-28-Älplisee" target="_blank">photos</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>9.67955,46.78330 9.68015,46.78245 9.67959,46.78204 9.67971,46.78066 9.67786,46.77992 9.67729,46.77826 9.67165,46.77627 9.66851,46.77649 9.66721,46.77614 9.66617,46.77630 9.66507,46.77542 9.66437,46.77416 9.66348,46.77376 9.66121,46.77354 9.65824,46.77278 9.65759,46.77220 9.65579,46.77190 9.65545,46.77202 9.65585,46.77246 9.65482,46.77256 9.65498,46.77304 9.65223,46.77203 9.65126,46.77106 9.65183,46.77050 9.65185,46.76987 9.65291,46.76783 9.65165,46.76696 9.65163,46.76650 9.65045,46.76560 9.64974,46.76352 9.64835,46.76118 9.64644,46.75982 9.64641,46.75894 9.64701,46.75821 9.64703,46.75763 9.64632,46.75632 9.64585,46.75618 9.64620,46.75553 9.64773,46.75474 9.64147,46.75385 9.63932,46.75315 9.64147,46.75385 9.64778,46.75476 9.64636,46.75541 9.64585,46.75618 9.64632,46.75632 9.64703,46.75763 9.64701,46.75821 9.64641,46.75894 9.64644,46.75982 9.64835,46.76118 9.64974,46.76352 9.65045,46.76560 9.65163,46.76650 9.65165,46.76696 9.65291,46.76783 9.65185,46.76987 9.65183,46.77050 9.65125,46.77100 9.65197,46.77184 9.65473,46.77284 9.65561,46.77403 9.65662,46.77404 9.65909,46.77491 9.66073,46.77479 9.66068,46.77537 9.66227,46.77443 9.66360,46.77428 9.66440,46.77454 9.66617,46.77630 9.66721,46.77614 9.66986,46.77648 9.67153,46.77625 9.67521,46.77746</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Fronalpstock SZ</h4><p>Hike on July 2, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-07-02-Fronalpstock-SZ" target="_blank">photos</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>8.66684,46.97800 8.66658,46.97751 8.66853,46.97674 8.66811,46.97612 8.66939,46.97516 8.66903,46.97448 8.66804,46.97409 8.66758,46.97275 8.66776,46.97200 8.66876,46.97073 8.67054,46.96962 8.67095,46.96879 8.67100,46.96774 8.67233,46.96693 8.67381,46.96747 8.67367,46.96708 8.67415,46.96648 8.67591,46.96575 8.67800,46.96529 8.67950,46.96553 8.68101,46.96499 8.68071,46.96423 8.67986,46.96355 8.68000,46.96273 8.68102,46.96202 8.68060,46.96157 8.68129,46.96064 8.68105,46.96027 8.68151,46.95958 8.68127,46.95914 8.68151,46.95886 8.68108,46.95877 8.68126,46.95856 8.68095,46.95805 8.68012,46.95818 8.67829,46.95643 8.67586,46.95697 8.67493,46.95764 8.67063,46.95657 8.66814,46.95739 8.66555,46.95679 8.66051,46.95750 8.65849,46.95811 8.65554,46.95966 8.65283,46.96178 8.65155,46.96163 8.65061,46.96209 8.65018,46.96200 8.65077,46.96207 8.65149,46.96160 8.64939,46.96151 8.64905,46.96240 8.64719,46.96263 8.64599,46.96266 8.64427,46.96211 8.64421,46.96258 8.64387,46.96226 8.64343,46.96302 8.64253,46.96343 8.64209,46.96332 8.64190,46.96376 8.64044,46.96313 8.64014,46.96390 8.63982,46.96376 8.63966,46.96422 8.63787,46.96518 8.63694,46.96649 8.63757,46.96719 8.63736,46.96896 8.63703,46.96937 8.63736,46.96996 8.63709,46.97020 8.63753,46.97034 8.63761,46.97098 8.63846,46.97226 8.63969,46.97217 8.64011,46.97287 8.64225,46.97297 8.64126,46.97437 8.64314,46.97487 8.64261,46.97517 8.64303,46.97514 8.64265,46.97545 8.64290,46.97591 8.64533,46.97561 8.64573,46.97602 8.64964,46.97576 8.65142,46.97643 8.65226,46.97639 8.65385,46.97850 8.65505,46.97864 8.65542,46.97794 8.65629,46.97850 8.65647,46.97822 8.65776,46.97814 8.65778,46.97858 8.65850,46.97840 8.65963,46.97872 8.65984,46.97982 8.65909,46.98090 8.65973,46.98070 8.65982,46.98103 8.66092,46.98054 8.66200,46.97951 8.66243,46.97808 8.66337,46.97871 8.66430,46.97734 8.66635,46.97721 8.66684,46.97800</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Lag aa Pigniu</h4><p>Hike on July 9, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-07-09-Lag-da-Pigniu" target="_blank">photos</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>9.11387,46.78449 9.11496,46.78494 9.11737,46.78672 9.11850,46.78966 9.11827,46.79157 9.11892,46.79294 9.11794,46.79507 9.11857,46.79606 9.11811,46.79731 9.11879,46.79812 9.11832,46.79988 9.11569,46.80250 9.11478,46.80439 9.11485,46.80517 9.11318,46.80606 9.11092,46.80888 9.11083,46.81033 9.11033,46.81068 9.11019,46.81179 9.10979,46.81219 9.11003,46.81284 9.10948,46.81458 9.10970,46.81552 9.10925,46.81605 9.10927,46.81775 9.10998,46.81856 9.11130,46.81837 9.11146,46.81813 9.11079,46.81699 9.11106,46.81643 9.11266,46.81731 9.11272,46.81691 9.11344,46.81766 9.11345,46.81941 9.11390,46.82053 9.11374,46.82185 9.11325,46.82272 9.11151,46.82334 9.11126,46.82417 9.11266,46.82345 9.11153,46.82548 9.11036,46.82670 9.10751,46.82826 9.10414,46.83142 9.10357,46.83274 9.10258,46.83330 9.10182,46.83448 9.09887,46.83604 9.09597,46.83532 9.09749,46.83332 9.09972,46.83159 9.10058,46.83035 9.10176,46.82977 9.10212,46.82916 9.10370,46.82808 9.10466,46.82672 9.10727,46.82481 9.10819,46.82472 9.10874,46.82386 9.10989,46.82339 9.10944,46.82272 9.10983,46.82225 9.10951,46.82172 9.10958,46.82068 9.10835,46.81798 9.10840,46.81727 9.10970,46.81552 9.10948,46.81458 9.11003,46.81284 9.10979,46.81219 9.11019,46.81179 9.11033,46.81068 9.10896,46.80951 9.10941,46.80877 9.10931,46.80712 9.11052,46.80630 9.11073,46.80490 9.11258,46.80344 9.11271,46.80282 9.11344,46.80214 9.11367,46.80120 9.11488,46.80035 9.11512,46.79675 9.11691,46.79349 9.11750,46.79300 9.11774,46.79082 9.11848,46.79012 9.11737,46.78672 9.11405,46.78451</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Guraletschsee</h4><p>Hike on July 17, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-07-17-Guraletschsee" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/5617311689" target="_blank">tracks</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>9.17987,46.61656 9.17859,46.61311 9.17798,46.61226 9.17878,46.61172 9.17859,46.61105 9.17930,46.61066 9.17913,46.61039 9.17963,46.61002 9.17930,46.60852 9.18004,46.60859 9.18041,46.60769 9.17983,46.60708 9.17988,46.60659 9.17944,46.60667 9.17938,46.60603 9.17888,46.60583 9.17904,46.60495 9.17851,46.60451 9.17877,46.60431 9.17812,46.60279 9.17881,46.60171 9.17811,46.60092 9.17863,46.59993 9.17843,46.59895 9.17888,46.59866 9.17923,46.59783 9.17975,46.59760 9.17959,46.59643 9.17993,46.59607 9.17988,46.59555 9.18062,46.59490 9.18097,46.59399 9.18069,46.59304 9.18114,46.59280 9.17846,46.59259 9.17578,46.59196 9.17507,46.59120 9.17352,46.59076 9.17032,46.58911 9.17020,46.58876 9.16829,46.58853 9.16570,46.58565 9.16059,46.58507 9.15788,46.58416 9.15753,46.58313 9.15767,46.58268 9.15677,46.58099 9.15666,46.57964 9.15581,46.57761 9.15525,46.57694 9.15449,46.57677 9.15240,46.57453 9.15254,46.57324 9.15191,46.57279 9.15112,46.57259 9.14947,46.57305 9.14837,46.57513 9.14713,46.57565 9.14548,46.57557 9.14226,46.57411 9.14112,46.57295 9.14090,46.57173 9.14156,46.57074 9.14211,46.56655 9.13884,46.56385 9.13798,46.56351 9.13770,46.56284 9.13716,46.56266 9.13740,46.56222 9.13701,46.56285 9.13571,46.56286 9.13523,46.56316 9.13489,46.56400 9.13417,46.56468 9.13128,46.56500 9.12872,46.56634 9.12810,46.56710 9.12803,46.56798 9.12725,46.56913 9.12852,46.57094 9.12809,46.57235 9.12716,46.57351 9.12870,46.57402 9.12930,46.57461 9.12969,46.57532 9.12934,46.57585 9.12620,46.57638 9.12589,46.57606 9.12476,46.57607 9.12380,46.57662 9.12139,46.57601 9.12115,46.57697 9.12183,46.57696 9.11999,46.57681 9.11865,46.57747 9.12037,46.57684 9.12296,46.57746</coordinates>
 			</LineString>
 		</Placemark>
 	</Document>
