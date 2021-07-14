@@ -182,8 +182,8 @@
         "photoUrl": "2011/2011-05-29-Gastlosen-Pfadflue-Hallo-Marco"
     },
     {
-        "title": "ASVZ Eiskurs Rhonegletscher",
-        "type": "Climb",
+        "title": "Rhonegletscher",
+        "type": "Hochtour",
         "date": "2011-06-12",
         "points": [
             {
@@ -421,7 +421,7 @@
         "photoUrl": "2011/2011-11-19-Le-Catogne-Le-Bonhomme-Eperon-SW"
     },
     {
-        "title": "Failure at Le Schilt",
+        "title": "Le Schilt",
         "type": "Climb",
         "date": "2011-11-27",
         "points": [
@@ -431,6 +431,30 @@
             }
         ],
         "photoUrl": "2011/2011-11-27-Failure-at-Le-Schilt"
+    },
+    {
+        "title": "Teysachaux",
+        "type": "Climb",
+        "date": "2012-01-11",
+        "points": [
+            {
+                "lat": 46.53412,
+                "long": 6.99622
+            }
+        ],
+        "photoUrl": "2012/2012-01-11-Teysachaux-by-Full-Moon"
+    },
+    {
+        "title": "Campsut",
+        "type": "WinterClimb",
+        "date": "2012-01-25",
+        "points": [
+            {
+                "lat": 46.48825,
+                "long": 9.48069
+            }
+        ],
+        "photoUrl": "2012/2012-01-25-Ice-Climbing-Avers-Campsut"
     },
     {
         "title": "Meniggrat",
@@ -445,16 +469,88 @@
         "photoUrl": "2012/2012-02-05-Meniggrat"
     },
     {
-        "title": "Moléson Via Ferrata",
-        "type": "ViaFerrata",
-        "date": "2012-07-04",
+        "title": "Teysachaux",
+        "type": "Climb",
+        "date": "2012-02-08",
         "points": [
             {
-                "lat": 46.54649,
-                "long": 7.01803
+                "lat": 46.53412,
+                "long": 6.99622
             }
         ],
-        "photoUrl": "2012/2012-07-26-Moléson-Another-Lightning-Rod"
+        "photoUrl": "2012/2012-02-08-Teysachaux-Full-Moon-II"
+    },
+    {
+        "title": "Scotland",
+        "type": "WinterClimb",
+        "date": "2012-02-20",
+        "points": [
+            {
+                "lat": 57.10582358903136,
+                "long": -3.6721967981827115
+            }
+        ],
+        "photoUrl": "2012/2012-02-20-The-Great-Outdoors-of-Scotland"
+    },
+    {
+        "title": "Orvin",
+        "type": "Climb",
+        "date": "2012-03-03",
+        "points": [
+            {
+                "lat": 47.16677,
+                "long": 7.22069
+            }
+        ],
+        "photoUrl": "2012/2012-03-03-Orvin-Once-More"
+    },
+    {
+        "title": "Le Paradis",
+        "type": "Climb",
+        "date": "2012-03-25",
+        "points": [
+            {
+                "lat": 47.19483,
+                "long": 7.21454
+            }
+        ],
+        "photoUrl": "2012/2012-03-25-Le-Paradis"
+    },
+    {
+        "title": "Balmflue",
+        "type": "Climb",
+        "date": "2012-04-08",
+        "points": [
+            {
+                "lat": 47.25368,
+                "long": 7.54287
+            }
+        ],
+        "photoUrl": "2012/2012-04-08-Freezing-Balmfluh"
+    },
+    {
+        "title": "Le Schilt",
+        "type": "Climb",
+        "date": "2012-04-09",
+        "points": [
+            {
+                "lat": 47.17738,
+                "long": 7.18940
+            }
+        ],
+        "photoUrl": "2012/2012-04-09-Freezing-Schilt"
+    },
+    {
+        "title": "Konkordiaplatz",
+        "type": "Skitour",
+        "date": "2012-04-14",
+        "points": [
+            {
+                "lat": 46.50642,
+                "long": 8.02843
+            }
+        ],
+        "photoUrl": "2012/2012-04-14-Rando-de-ski-Konkordiaplatz"
     },
     {
         "title": "20km de Lausanne",
@@ -468,6 +564,54 @@
         ]
     },
     {
+        "title": "Klus Balsthal",
+        "type": "Climb",
+        "date": "2012-05-19",
+        "points": [
+            {
+                "lat": 47.30089,
+                "long": 7.68847
+            }
+        ],
+        "photoUrl": "2012/2012-05-19-Klus-Balsthal"
+    },
+    {
+        "title": "Gastlosen",
+        "type": "Climb",
+        "date": "2012-05-28",
+        "points": [
+            {
+                "lat": 46.56126,
+                "long": 7.26068
+            }
+        ],
+        "photoUrl": "2012/2012-05-28-Gastlosen-IV"
+    },
+    {
+        "title": "Col du Midi",
+        "type": "Skitour",
+        "date": "2012-06-10",
+        "points": [
+            {
+                "lat": 45.86476,
+                "long": 6.89529
+            }
+        ],
+        "photoUrl": "2012/2012-06-10-Chamonix-I"
+    },
+    {
+        "title": "Arête des Cosmiques",
+        "type": "Hochtour",
+        "date": "2012-06-17",
+        "points": [
+            {
+                "lat": 45.87674,
+                "long": 6.88632
+            }
+        ],
+        "photoUrl": "2012/2012-06-17-Chamonix-II-Arête-des-Cosmiques"
+    },
+    {
         "title": "La Tour d'Aï",
         "type": "ViaFerrata",
         "date": "2012-06-28",
@@ -478,6 +622,114 @@
             }
         ],
         "photoUrl": "2012/2012-06-28-La-Tour-dAi-My-First-Lightning-Rod"
+    },
+    {
+        "title": "Le Suchet",
+        "type": "Climb",
+        "date": "2012-07-11",
+        "points": [
+            {
+                "lat": 46.77252,
+                "long": 6.46627
+            }
+        ],
+        "photoUrl": "2012/2012-07-11-Le-Suchet"
+    },
+    {
+        "title": "Hintisberg",
+        "type": "Climb",
+        "date": "2012-07-17",
+        "points": [
+            {
+                "lat": 46.65854,
+                "long": 7.94655
+            }
+        ],
+        "photoUrl": "2012/2012-07-17-Hintisberg"
+    },
+    {
+        "title": "Engelhörner Silberfinger",
+        "type": "Climb",
+        "date": "2012-07-18",
+        "points": [
+            {
+                "lat": 46.68202,
+                "long": 8.17981
+            }
+        ],
+        "photoUrl": "2012/2012-07-18-Engelhörner-Silberfinger"
+    },
+    {
+        "title": "Moléson",
+        "type": "ViaFerrata",
+        "date": "2012-07-26",
+        "points": [
+            {
+                "lat": 46.54649,
+                "long": 7.01803
+            }
+        ],
+        "photoUrl": "2012/2012-07-26-Moléson-Another-Lightning-Rod"
+    },
+    {
+        "title": "Sagittarius",
+        "type": "Climb",
+        "date": "2012-08-01",
+        "points": [
+            {
+                "lat": 46.59668,
+                "long": 8.33106
+            }
+        ],
+        "photoUrl": "2012/2012-08-01-Grimsel-Sagittarius"
+    },
+    {
+        "title": "Alphubel",
+        "type": "Hochtour",
+        "date": "2012-08-06",
+        "points": [
+            {
+                "lat": 46.06283,
+                "long": 7.86385
+            }
+        ],
+        "photoUrl": "2012/2012-08-06-Alphubel"
+    },
+    {
+        "title": "Galengratverschneidung",
+        "type": "Climb",
+        "date": "2012-08-08",
+        "points": [
+            {
+                "lat": 46.60470,
+                "long": 8.41378
+            }
+        ],
+        "photoUrl": "2012/2012-08-08-Furka-Galengratverschneidung"
+    },
+    {
+        "title": "Gastlosen",
+        "type": "Climb",
+        "date": "2012-09-09",
+        "points": [
+            {
+                "lat": 46.56338,
+                "long": 7.25963
+            }
+        ],
+        "photoUrl": "2012/2012-09-09-Gastlosen-V"
+    },
+    {
+        "title": "Mont Blanc Failure",
+        "type": "Hochtour",
+        "date": "2012-10-07",
+        "points": [
+            {
+                "lat": 45.85498,
+                "long": 6.82475
+            }
+        ],
+        "photoUrl": "2012/2012-10-07-Mont-Blanc-Failure"
     },
     {
         "title": "Dent de Fenestral",

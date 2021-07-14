@@ -10,7 +10,7 @@ import re
 # - gpxpy
 # - rdp
 
-# TODO: Create s separate kml file for every year (or have a separate .json per year).
+# TODO: Create s separate kml file for every year (via some filtering options).
 # TODO: Validate URLs to photos and tracks.
 # TODO: Gpx optimization alternative: https://github.com/Alezy80/gpx_reduce
 # TODO: Potentially extra Strava activity numbers from file names (maybe not for
@@ -18,6 +18,15 @@ import re
 # TODO: Make sure that activity dates match their photo gallery dates (as in they cannot
 # be too far apart, an exact match is not always possible as galleries sometimes cover
 # longer outings).
+# TODO: Allow outputting the json object again (potentially filtered and reordered by
+# date or category).
+# TODO: Consider adding categories for travel destinations and concerts too.
+# TODO: Choose own colors for Hochtour, ViaFerrata, and WinterClimb categories.
+# TODO: Consider having the category per tracks or point instead of per entry (somtimes
+# there is a two-(or-more)-part outing where each part is of a different type).
+# TODO: Somehow display overlapping markers on the SwissTopo map. There are several
+# climbs on the certain summits with exactly the same coordintes, but only one is
+# displayed.
 
 kml_title = "Cheryl &amp; Stefan's Outings"
 input_json_file = "outings.json"
@@ -36,14 +45,15 @@ marker_icon_size = 48
 # levels.
 alpha = 0.9
 styles = {
-        "Hike"       : (255,   0,   0, alpha),  # Red
-        "ViaFerrata" : (255,   0,   0, alpha),  # Red (same as Hike)
-        "Hochtour"   : (139,   0, 139, alpha),  # DarkMagenta 
-        "Climb"      : (139,   0, 139, alpha),  # DarkMagenta (same as Houchtour)
-        "Skitour"    : (  0,   0, 255, alpha),  # Blue
-        "Run"        : ( 55, 180,   0, alpha),  # Green
-        "Bike"       : (255, 136,   0, alpha),  # Orange
-        "XC-Ski"     : (  0, 227, 216, alpha),  # Turqoise
+        "Hike"        : (255,   0,   0, alpha),  # Red
+        "ViaFerrata"  : (255,   0,   0, alpha),  # Red (same as Hike)
+        "Hochtour"    : (139,   0, 139, alpha),  # DarkMagenta
+        "Climb"       : (139,   0, 139, alpha),  # DarkMagenta (same as Hochtour)
+        "WinterClimb" : (139,   0, 139, alpha),  # DarkMagenta (same as Hochtour)
+        "Skitour"     : (  0,   0, 255, alpha),  # Blue
+        "Run"         : ( 55, 180,   0, alpha),  # Green
+        "Bike"        : (255, 136,   0, alpha),  # Orange
+        "XC-Ski"      : (  0, 227, 216, alpha),  # Turqoise
 }
 
 with open(input_json_file, "r", encoding="utf8") as in_file:
