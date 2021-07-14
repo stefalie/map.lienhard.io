@@ -138,6 +138,26 @@
         "photoUrl": "2010/2010-03-29-Grialetsch"
     },
     {
+        "title": "Orvin, Le Schilt, and Le Paradis",
+        "type": "Climb",
+        "date": "2011-04-25",
+        "points": [
+            {
+                "lat": 47.16677,
+                "long": 7.22069
+            },
+            {
+                "lat": 47.17738,
+                "long": 7.18940
+            },
+            {
+                "lat": 47.19483,
+                "long": 7.21454
+            }
+        ],
+        "photoUrl": "2011/2011-04-25-Orvin-Le-Schilt-and-Le-Paradis"
+    },
+    {
         "title": "Mittagflue",
         "type": "Climb",
         "date": "2011-05-06",
@@ -148,6 +168,114 @@
             }
         ],
         "photoUrl": "2011/2011-05-06-Simmental-Mittagflue"
+    },
+    {
+        "title": "Pfadflue - Hallo Marco",
+        "type": "Climb",
+        "date": "2011-05-29",
+        "points": [
+            {
+                "lat": 46.57866,
+                "long": 7.27382
+            }
+        ],
+        "photoUrl": "2011/2011-05-29-Gastlosen-Pfadflue-Hallo-Marco"
+    },
+    {
+        "title": "ASVZ Eiskurs Rhonegletscher",
+        "type": "Climb",
+        "date": "2011-06-12",
+        "points": [
+            {
+                "lat": 46.58825,
+                "long": 8.38802
+            }
+        ],
+        "photoUrl": "2011/2011-06-12-ASVZ-Eiskurs"
+    },
+    {
+        "title": "Dent de Ruth - Salut les copains",
+        "type": "Climb",
+        "date": "2011-06-26",
+        "points": [
+            {
+                "lat": 46.55328,
+                "long": 7.23657
+            }
+        ],
+        "photoUrl": "2011/2011-06-26-Gastlosen-Dent-de-Ruth-Salut-les-copains"
+    },
+    {
+        "title": "Lac Long",
+        "type": "Climb",
+        "date": "2011-07-02",
+        "points": [
+            {
+                "lat": 46.81286,
+                "long": -72.10099
+            }
+        ],
+        "photoUrl": "2011/2011-07-02-Team-A-Reunion-Quebec-1-Lac-Long"
+    },
+    {
+        "title": "Julien Labedan Val David",
+        "type": "Climb",
+        "date": "2011-07-05",
+        "points": [
+            {
+                "lat": 46.028,
+                "long": -74.2002
+            }
+        ],
+        "photoUrl": "2011/2011-07-05-Team-A-Reunion-Quebec-3-Julien-Labedan-Val-David"
+    },
+    {
+        "title": "Kamouraska",
+        "type": "Climb",
+        "date": "2011-07-08",
+        "points": [
+            {
+                "lat": 47.64434,
+                "long": -69.73952
+            }
+        ],
+        "photoUrl": "2011/2011-07-08-Team-A-Reunion-Quebec-4-Kamouraska"
+    },
+    {
+        "title": "Lac Long",
+        "type": "Climb",
+        "date": "2011-07-09",
+        "points": [
+            {
+                "lat": 46.81286,
+                "long": -72.10099
+            }
+        ],
+        "photoUrl": "2011/2011-07-09-Team-A-Reunion-Quebec-5-Lac-Long-2"
+    },
+    {
+        "title": "Wellesley Arches",
+        "type": "Climb",
+        "date": "2011-07-13",
+        "points": [
+            {
+                "lat": 42.28295565462435,
+                "long": -71.29683037800504
+            }
+        ],
+        "photoUrl": "2011/2011-07-13-Wellesley-Arches"
+    },
+    {
+        "title": "The Gunks",
+        "type": "Climb",
+        "date": "2011-07-17",
+        "points": [
+            {
+                "lat": 41.74328290583386,
+                "long": -74.18072960532618
+            }
+        ],
+        "photoUrl": "2011/2011-07-17-The-Gunks"
     },
     {
         "title": "Weisshorn",
@@ -162,6 +290,114 @@
         "photoUrl": "2011/2011-08-09-Weisshorn"
     },
     {
+        "title": "Saxon Switzerland",
+        "type": "Climb",
+        "date": "2011-08-20",
+        "points": [
+            {
+                "lat": 50.912053499016494,
+                "long": 14.218668198207016
+            }
+        ],
+        "photoUrl": "2011/2011-08-20-Saxon-Switzerland-Team-Awesome-Reunion"
+    },
+    {
+        "title": "Bockmattli Nordwestwand of Grosser Turm",
+        "type": "Climb",
+        "date": "2011-08-23",
+        "points": [
+            {
+                "lat": 47.10101,
+                "long": 8.95776
+            }
+        ],
+        "photoUrl": "2011/2011-08-23-Bockmattli-Nordwestwand-of-Grosser-Turm"
+    },
+    {
+        "title": "Balmflue Süwände und Mauerläufer",
+        "type": "Climb",
+        "date": "2011-08-28",
+        "points": [
+            {
+                "lat": 47.25368,
+                "long": 7.54287
+            }
+        ],
+        "photoUrl": "2011/2011-08-28-Balmflue-Süwände-und-Mauerläufer"
+    },
+    {
+        "title": "Face de Plagne",
+        "type": "Climb",
+        "date": "2011-08-31",
+        "points": [
+            {
+                "lat": 47.17738,
+                "long": 7.25244
+            }
+        ],
+        "photoUrl": "2011/2011-08-31-Face-de-Plagne"
+    },
+    {
+        "title": "Räterichsbodensee",
+        "type": "Climb",
+        "date": "2011-09-03",
+        "points": [
+            {
+                "lat": 46.58358,
+                "long": 8.32318
+            }
+        ],
+        "photoUrl": "2011/2011-09-03-Grimsel-Räterichsbodensee"
+    },
+    {
+        "title": "Miroir d'Argentine",
+        "type": "Climb",
+        "date": "2011-09-24",
+        "points": [
+            {
+                "lat": 46.27809,
+                "long": 7.14304
+            }
+        ],
+        "photoUrl": "2011/2011-09-24-Miroir-dArgentine"
+    },
+    {
+        "title": "Dent de Fenestral",
+        "type": "Climb",
+        "date": "2011-09-25",
+        "points": [
+            {
+                "lat": 46.09649,
+                "long": 6.95286
+            }
+        ],
+        "photoUrl": "2011/2011-09-25-Dent-de-Fenestral"
+    },
+    {
+        "title": "Winterstock",
+        "type": "Climb",
+        "date": "2011-10-05",
+        "points": [
+            {
+                "lat": 46.61897,
+                "long": 8.46078
+            }
+        ],
+        "photoUrl": "2011/2011-10-05-Furka-Winterstock"
+    },
+    {
+        "title": "Pfadflue",
+        "type": "Climb",
+        "date": "2011-10-16",
+        "points": [
+            {
+                "lat": 46.57866,
+                "long": 7.27382
+            }
+        ],
+        "photoUrl": "2011/2011-10-16-Gastlosen-avec-club-montagne-EPFL-et-AACZ"
+    },
+    {
         "title": "Lausanne Semi Marathon",
         "type": "Run",
         "date": "2011-10-30",
@@ -171,6 +407,30 @@
                 "long": 6.85933
             }
         ]
+    },
+    {
+        "title": "Le Catogne - Le Bonhomme Eperon SW",
+        "type": "Climb",
+        "date": "2011-11-19",
+        "points": [
+            {
+                "lat": 46.04383,
+                "long": 7.11688
+            }
+        ],
+        "photoUrl": "2011/2011-11-19-Le-Catogne-Le-Bonhomme-Eperon-SW"
+    },
+    {
+        "title": "Failure at Le Schilt",
+        "type": "Climb",
+        "date": "2011-11-27",
+        "points": [
+            {
+                "lat": 47.17738,
+                "long": 7.18940
+            }
+        ],
+        "photoUrl": "2011/2011-11-27-Failure-at-Le-Schilt"
     },
     {
         "title": "Meniggrat",
@@ -218,6 +478,18 @@
             }
         ],
         "photoUrl": "2012/2012-06-28-La-Tour-dAi-My-First-Lightning-Rod"
+    },
+    {
+        "title": "Dent de Fenestral",
+        "type": "Climb",
+        "date": "2013-08-31",
+        "points": [
+            {
+                "lat": 46.09649,
+                "long": 6.95286
+            }
+        ],
+        "photoUrl": "2013/2013-08-31-Dent-de-Fenestral"
     },
     {
         "tracks": [
@@ -899,6 +1171,18 @@
             }
         ],
         "photoUrl": "2018/2018-07-08-Priendler"
+    },
+    {
+        "title": "Bockmattli - Namenlose Kante",
+        "type": "Climb",
+        "date": "2018-08-01",
+        "points": [
+            {
+                "lat": 47.09923,
+                "long": 8.95482
+            }
+        ],
+        "photoUrl": "2018/2018-08-01-Bockmattli-Namenlose-Kante"
     },
     {
         "tracks": [
@@ -2178,17 +2462,26 @@
     },
     {
         "tracks": [
-            "2021-07-09__Hike__Lag_aa_Pigniu.gpx"
+            "2021-07-09__Hike__Lag_da_Pigniu.gpx"
         ],
         "photoUrl": "2021/2021-07-09-Lag-da-Pigniu"
     },
     {
         "tracks": [
-            "2021-07-17__Hike__Guraletschsee.gpx"
+            "2021-07-12__Hike__Guraletschsee.gpx"
         ],
-        "photoUrl": "2021/2021-07-17-Guraletschsee",
+        "photoUrl": "2021/2021-07-12-Guraletschsee",
         "stravaUrl": [
             5617311689
+        ]
+    },
+    {
+        "tracks": [
+            "2021-07-14__Hike__Zervreilasee.gpx"
+        ],
+        "photoUrl": "2021/2021-07-14-Zervreilasee",
+        "stravaUrl": [
+            5627441049
         ]
     }
 ]

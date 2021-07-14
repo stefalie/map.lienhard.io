@@ -198,10 +198,100 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Orvin, Le Schilt, and Le Paradis</h4><p>Climb on April 25, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-04-25-Orvin-Le-Schilt-and-Le-Paradis" target="_blank">photos</a>.</p>]]></description>
+			<MultiGeometry>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>7.22069,47.16677</coordinates>
+				</Point>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>7.18940,47.17738</coordinates>
+				</Point>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>7.21454,47.19483</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
 			<description><![CDATA[<h4>Mittagflue</h4><p>Climb on May 6, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-05-06-Simmental-Mittagflue" target="_blank">photos</a>.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>7.36723,46.63592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Pfadflue - Hallo Marco</h4><p>Climb on May 29, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-05-29-Gastlosen-Pfadflue-Hallo-Marco" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.27382,46.57866</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>ASVZ Eiskurs Rhonegletscher</h4><p>Climb on June 12, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-06-12-ASVZ-Eiskurs" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.38802,46.58825</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Dent de Ruth - Salut les copains</h4><p>Climb on June 26, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-06-26-Gastlosen-Dent-de-Ruth-Salut-les-copains" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.23657,46.55328</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Lac Long</h4><p>Climb on July 2, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-07-02-Team-A-Reunion-Quebec-1-Lac-Long" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>-72.10099,46.81286</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Julien Labedan Val David</h4><p>Climb on July 5, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-07-05-Team-A-Reunion-Quebec-3-Julien-Labedan-Val-David" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>-74.20020,46.02800</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Kamouraska</h4><p>Climb on July 8, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-07-08-Team-A-Reunion-Quebec-4-Kamouraska" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>-69.73952,47.64434</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Lac Long</h4><p>Climb on July 9, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-07-09-Team-A-Reunion-Quebec-5-Lac-Long-2" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>-72.10099,46.81286</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Wellesley Arches</h4><p>Climb on July 13, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-07-13-Wellesley-Arches" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>-71.29683,42.28296</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>The Gunks</h4><p>Climb on July 17, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-07-17-The-Gunks" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>-74.18073,41.74328</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -213,11 +303,99 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Saxon Switzerland</h4><p>Climb on August 20, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-08-20-Saxon-Switzerland-Team-Awesome-Reunion" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>14.21867,50.91205</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Bockmattli Nordwestwand of Grosser Turm</h4><p>Climb on August 23, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-08-23-Bockmattli-Nordwestwand-of-Grosser-Turm" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.95776,47.10101</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Balmflue Süwände und Mauerläufer</h4><p>Climb on August 28, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-08-28-Balmflue-Süwände-und-Mauerläufer" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.54287,47.25368</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Face de Plagne</h4><p>Climb on August 31, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-08-31-Face-de-Plagne" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.25244,47.17738</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Räterichsbodensee</h4><p>Climb on September 3, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-09-03-Grimsel-Räterichsbodensee" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.32318,46.58358</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Miroir d'Argentine</h4><p>Climb on September 24, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-09-24-Miroir-dArgentine" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.14304,46.27809</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Dent de Fenestral</h4><p>Climb on September 25, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-09-25-Dent-de-Fenestral" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>6.95286,46.09649</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Winterstock</h4><p>Climb on October 5, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-10-05-Furka-Winterstock" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.46078,46.61897</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Pfadflue</h4><p>Climb on October 16, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-10-16-Gastlosen-avec-club-montagne-EPFL-et-AACZ" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.27382,46.57866</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Run</styleUrl>
 			<description><![CDATA[<h4>Lausanne Semi Marathon</h4><p>Run on October 30, 2011.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>6.85933,46.45388</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Le Catogne - Le Bonhomme Eperon SW</h4><p>Climb on November 19, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-11-19-Le-Catogne-Le-Bonhomme-Eperon-SW" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.11688,46.04383</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Failure at Le Schilt</h4><p>Climb on November 27, 2011.</p><p>See <a href="https://stefalie.smugmug.com/2011/2011-11-27-Failure-at-Le-Schilt" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.18940,47.17738</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -250,6 +428,14 @@
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>7.00195,46.37216</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Dent de Fenestral</h4><p>Climb on August 31, 2013.</p><p>See <a href="https://stefalie.smugmug.com/2013/2013-08-31-Dent-de-Fenestral" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>6.95286,46.09649</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -961,6 +1147,14 @@
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>8.42137,46.74047</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Bockmattli - Namenlose Kante</h4><p>Climb on August 1, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-08-01-Bockmattli-Namenlose-Kante" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.95482,47.09923</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2288,7 +2482,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Lag aa Pigniu</h4><p>Hike on July 9, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-07-09-Lag-da-Pigniu" target="_blank">photos</a>.</p>]]></description>
+			<description><![CDATA[<h4>Lag da Pigniu</h4><p>Hike on July 9, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-07-09-Lag-da-Pigniu" target="_blank">photos</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
@@ -2297,11 +2491,20 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Guraletschsee</h4><p>Hike on July 17, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-07-17-Guraletschsee" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/5617311689" target="_blank">tracks</a>.</p>]]></description>
+			<description><![CDATA[<h4>Guraletschsee</h4><p>Hike on July 12, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-07-12-Guraletschsee" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/5617311689" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
 				<coordinates>9.17987,46.61656 9.17859,46.61311 9.17798,46.61226 9.17878,46.61172 9.17859,46.61105 9.17930,46.61066 9.17913,46.61039 9.17963,46.61002 9.17930,46.60852 9.18004,46.60859 9.18041,46.60769 9.17983,46.60708 9.17988,46.60659 9.17944,46.60667 9.17938,46.60603 9.17888,46.60583 9.17904,46.60495 9.17851,46.60451 9.17877,46.60431 9.17812,46.60279 9.17881,46.60171 9.17811,46.60092 9.17863,46.59993 9.17843,46.59895 9.17888,46.59866 9.17923,46.59783 9.17975,46.59760 9.17959,46.59643 9.17993,46.59607 9.17988,46.59555 9.18062,46.59490 9.18097,46.59399 9.18069,46.59304 9.18114,46.59280 9.17846,46.59259 9.17578,46.59196 9.17507,46.59120 9.17352,46.59076 9.17032,46.58911 9.17020,46.58876 9.16829,46.58853 9.16570,46.58565 9.16059,46.58507 9.15788,46.58416 9.15753,46.58313 9.15767,46.58268 9.15677,46.58099 9.15666,46.57964 9.15581,46.57761 9.15525,46.57694 9.15449,46.57677 9.15240,46.57453 9.15254,46.57324 9.15191,46.57279 9.15112,46.57259 9.14947,46.57305 9.14837,46.57513 9.14713,46.57565 9.14548,46.57557 9.14226,46.57411 9.14112,46.57295 9.14090,46.57173 9.14156,46.57074 9.14211,46.56655 9.13884,46.56385 9.13798,46.56351 9.13770,46.56284 9.13716,46.56266 9.13740,46.56222 9.13701,46.56285 9.13571,46.56286 9.13523,46.56316 9.13489,46.56400 9.13417,46.56468 9.13128,46.56500 9.12872,46.56634 9.12810,46.56710 9.12803,46.56798 9.12725,46.56913 9.12852,46.57094 9.12809,46.57235 9.12716,46.57351 9.12870,46.57402 9.12930,46.57461 9.12969,46.57532 9.12934,46.57585 9.12620,46.57638 9.12589,46.57606 9.12476,46.57607 9.12380,46.57662 9.12139,46.57601 9.12115,46.57697 9.12183,46.57696 9.11999,46.57681 9.11865,46.57747 9.12037,46.57684 9.12296,46.57746</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Zervreilasee</h4><p>Hike on July 14, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-07-14-Zervreilasee" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/5627441049" target="_blank">tracks</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>9.12280,46.57746 9.12069,46.57702 9.11874,46.57616 9.11754,46.57526 9.11862,46.57554 9.11838,46.57523 9.11440,46.57308 9.11378,46.57236 9.11364,46.57164 9.11226,46.57132 9.11130,46.57036 9.10985,46.56998 9.10724,46.56849 9.10561,46.56685 9.10535,46.56582 9.10332,46.56388 9.10069,46.56227 9.09773,46.56134 9.09725,46.56068 9.09693,46.55883 9.09505,46.55843 9.09419,46.56015 9.09366,46.56031 9.09379,46.56069 9.09340,46.56120 9.09186,46.56247 9.09146,46.56248 9.09107,46.56330 9.08996,46.56379 9.08827,46.56426 9.08647,46.56418 9.08603,46.56465 9.08457,46.56495 9.08219,46.56609 9.08170,46.56659 9.07525,46.56785 9.07441,46.56828 9.07405,46.56900 9.07097,46.56939 9.06572,46.56879 9.06389,46.56787 9.06357,46.56737 9.06176,46.56674 9.06109,46.56606 9.05505,46.56364 9.05340,46.56376 9.05129,46.56335 9.05062,46.56276 9.05004,46.56101 9.04867,46.56047 9.04819,46.55940 9.04734,46.55885 9.04512,46.55608 9.04495,46.55519 9.04466,46.55505 9.04514,46.55615 9.04735,46.55888 9.04814,46.55942 9.04852,46.56033 9.05004,46.56099 9.05060,46.56275 9.05134,46.56336 9.05343,46.56381 9.05510,46.56367 9.06077,46.56599 9.06365,46.56803 9.06504,46.56859 9.07103,46.56943 9.07187,46.56902 9.07399,46.56900 9.07447,46.56832 9.07616,46.56761 9.08187,46.56654 9.08209,46.56616 9.08605,46.56470 9.08646,46.56423 9.08828,46.56430 9.09003,46.56379 9.09118,46.56323 9.09150,46.56249 9.09195,46.56248 9.09349,46.56117 9.09385,46.56068 9.09372,46.56032 9.09426,46.56009 9.09506,46.55846 9.09705,46.55887 9.09717,46.56058 9.09773,46.56131 9.10062,46.56220 9.10346,46.56405 9.10521,46.56585 9.10556,46.56685 9.10691,46.56829 9.10984,46.57001 9.11143,46.57046 9.11216,46.57135 9.11356,46.57167 9.11373,46.57244 9.11428,46.57308 9.11847,46.57533 9.11756,46.57519 9.11878,46.57625 9.12288,46.57757</coordinates>
 			</LineString>
 		</Placemark>
 	</Document>
