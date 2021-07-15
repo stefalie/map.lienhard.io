@@ -817,7 +817,7 @@
     },
     {
         "title": "Dufourspitze",
-        "type": "Skitour",
+        "type": "Hochtour",
         "date": "2013-04-14",
         "points": [
             {
@@ -877,7 +877,7 @@
     },
     {
         "title": "Dom",
-        "type": "Skitour",
+        "type": "Hochtour",
         "date": "2013-06-30",
         "points": [
             {
@@ -924,7 +924,7 @@
         "photoUrl": "2013/2013-07-20-Gaschtlose-VII"
     },
     {
-        "title": "Hanibal and Gr Bielenhorn",
+        "title": "Hanibal and Gross Bielenhorn",
         "type": "Climb",
         "date": "2013-07-28",
         "points": [
@@ -1426,6 +1426,18 @@
         "photoUrl": "2014/2014-11-02-Hintisberg-3"
     },
     {
+        "title": "Fontaine Bleau",
+        "type": "Bouldering",
+        "date": "2015-04-07",
+        "points": [
+            {
+                "lat": 48.3764623622089,
+                "long": 2.5212738153900958
+            }
+        ],
+        "photoUrl": "2015/2015-04-07-Fontaine-Bleau"
+    },
+    {
         "title": "20km de Lausanne",
         "type": "Run",
         "date": "2015-04-25",
@@ -1435,6 +1447,54 @@
                 "long": 6.63525
             }
         ]
+    },
+    {
+        "title": "Roche des Nants",
+        "type": "Climb",
+        "date": "2015-06-20",
+        "points": [
+            {
+                "lat": 47.26295,
+                "long": 7.35353
+            }
+        ],
+        "photoUrl": "2015/2015-06-20-Roche-des-Nants"
+    },
+    {
+        "title": "Pfadflue",
+        "type": "Climb",
+        "date": "2015-06-28",
+        "points": [
+            {
+                "lat": 46.57866,
+                "long": 7.27382
+            }
+        ],
+        "photoUrl": "2015/2015-06-28-Hallo-Marco"
+    },
+    {
+        "title": "Galengratverschneidung",
+        "type": "Climb",
+        "date": "2015-07-05",
+        "points": [
+            {
+                "lat": 46.60470,
+                "long": 8.41378
+            }
+        ],
+        "photoUrl": "2015/2015-07-05-Galengratverschneidung"
+    },
+    {
+        "title": "Jegihorn",
+        "type": "Climb",
+        "date": "2015-07-12",
+        "points": [
+            {
+                "lat": 46.15148,
+                "long": 7.97030
+            }
+        ],
+        "photoUrl": "2015/2015-07-12-Jegihorn"
     },
     {
         "title": "Gemmi Bike & Run",
@@ -1461,6 +1521,18 @@
         "photoUrl": "2015/2015-07-18-Gemmi"
     },
     {
+        "title": "Chli Bielenhorn Perrenoud",
+        "type": "Climb",
+        "date": "2015-08-02",
+        "points": [
+            {
+                "lat": 46.59823,
+                "long": 8.43492
+            }
+        ],
+        "photoUrl": "2015/2015-08-02-Chli-Bielenhorn-Perrenoud"
+    },
+    {
         "title": "Inferno Halbmarathon",
         "type": "Run",
         "date": "2015-08-22",
@@ -1479,23 +1551,64 @@
         "photoUrl": "2015/2015-08-22-Bietenhorn-Cheryl"
     },
     {
+        "title": "Skitour",
+        "type": "Climb",
+        "date": "2016-01-17",
+        "points": [
+            {
+                "lat": 46.20788,
+                "long": 7.48046
+            }
+        ],
+        "photoUrl": "2016/2016-01-17-Nax"
+    },
+    {
+        "title": "Kandersteg",
+        "type": "XC-Ski",
+        "date": "2016-02-06",
+        "points": [
+            {
+                "lat": 46.49083,
+                "long": 7.67355
+            }
+        ],
+        "photoUrl": "2016/2016-02-06-Kandersteg-X-Country-Skiing"
+    },
+    {
+        "title": "Mittelallalin",
+        "type": "Skitour",
+        "date": "2016-03-16",
+        "points": [
+            {
+                "lat": 46.05151,
+                "long": 7.89737
+            }
+        ],
+        "photoUrl": "2016/2016-03-16-Mittelallalin-x-2"
+    },
+    {
+        "title": "Gross Fiescherhorn und Finsteraarhorn",
+        "type": "Hochtour",
+        "date": "2016-03-19",
+        "points": [
+            {
+                "lat": 46.55070,
+                "long": 8.06248
+            },
+            {
+                "lat": 46.53868,
+                "long": 8.12494
+            }
+        ],
+        "photoUrl": "2016/2016-03-19-Finsteraarhorn-almost"
+    },
+    {
         "tracks": [
             "2016-04-10__Hike__Lavaux.gpx"
         ],
         "photoUrl": "2016/2016-04-10-Lavaux",
         "stravaUrl": [
             541336013
-        ]
-    },
-    {
-        "title": "Moléson",
-        "type": "Hike",
-        "date": "2016-06-04",
-        "points": [
-            {
-                "lat": 46.54649,
-                "long": 7.01803
-            }
         ]
     },
     {
@@ -1513,6 +1626,17 @@
             }
         ],
         "photoUrl": "2016/2016-04-20-Patrouille-des-Glaciers"
+    },
+    {
+        "title": "Moléson",
+        "type": "Hike",
+        "date": "2016-06-04",
+        "points": [
+            {
+                "lat": 46.54649,
+                "long": 7.01803
+            }
+        ]
     },
     {
         "tracks": [
@@ -1545,6 +1669,18 @@
         "photoUrl": "2016/2016-07-01-Tour-dAi"
     },
     {
+        "title": "Rosenlauistock",
+        "type": "Climb",
+        "date": "2016-07-09",
+        "points": [
+            {
+                "lat": 46.67913,
+                "long": 8.17027
+            }
+        ],
+        "photoUrl": "2016/2016-07-09-Rosenlauistock"
+    },
+    {
         "tracks": [
             "2016-07-10__Hike__Stockhorn.gpx"
         ],
@@ -1552,6 +1688,18 @@
         "stravaUrl": [
             636561356
         ]
+    },
+    {
+        "title": "Dent de Ruth Pilier Diehl",
+        "type": "Climb",
+        "date": "2016-07-16",
+        "points": [
+            {
+                "lat": 46.55171,
+                "long": 7.23438
+            }
+        ],
+        "photoUrl": "2016/2016-07-16-Pilier-Diehl-Attempt"
     },
     {
         "tracks": [
@@ -1617,12 +1765,60 @@
         ]
     },
     {
+        "title": "Motteux Péteux et Dent de Ruth",
+        "type": "Climb",
+        "date": "2016-08-13",
+        "points": [
+            {
+                "lat": 46.55215,
+                "long": 7.23347
+            }
+        ],
+        "photoUrl": "2016/2016-08-13-Motteux-Péteux-Dent-de-Ruth"
+    },
+    {
         "tracks": [
             "2016-08-14__Run__Home-Bern.gpx"
         ],
         "stravaUrl": [
             676007064
         ]
+    },
+    {
+        "title": "Joshua Tree National Park",
+        "type": "Hike",
+        "date": "2016-09-17",
+        "points": [
+            {
+                "lat": 33.9941888608831,
+                "long": -116.05898347890584
+            }
+        ],
+        "photoUrl": "2016/2016-09-17-Joshua-Tree"
+    },
+    {
+        "title": "Zion National Park",
+        "type": "Hike",
+        "date": "2016-09-19",
+        "points": [
+            {
+                "lat": 37.295056250793316,
+                "long": -112.94858331192307
+            },
+            {
+                "lat": 37.27825067531318,
+                "long": -112.94054634653554
+            },
+            {
+                "lat": 37.25742050243523,
+                "long": -112.96650440381443
+            },
+            {
+                "lat": 37.26811722953524,
+                "long": -112.938455737926
+            }
+        ],
+        "photoUrl": "2016/2016-09-19-Zion"
     },
     {
         "tracks": [
@@ -1706,6 +1902,18 @@
         ]
     },
     {
+        "title": "Pic de Crémines",
+        "type": "Climb",
+        "date": "2017-04-08",
+        "points": [
+            {
+                "lat": 47.29383,
+                "long": 7.42999
+            }
+        ],
+        "photoUrl": "2017/2017-04-08-Grandval-with-Cheryl"
+    },
+    {
         "tracks": [
             "2017-04-27__Run__Lyon.gpx"
         ],
@@ -1770,6 +1978,18 @@
         ]
     },
     {
+        "title": "Gletschhorn",
+        "type": "Climb",
+        "date": "2017-06-11",
+        "points": [
+            {
+                "lat": 46.61958,
+                "long": 8.43884
+            }
+        ],
+        "photoUrl": "2017/2017-06-11-Gletschhorn"
+    },
+    {
         "title": "Bollenwees und Fähnligipfel",
         "type": "Climb",
         "date": "2017-06-19",
@@ -1784,6 +2004,30 @@
             }
         ],
         "photoUrl": "2017/2017-06-19-Bollenwees"
+    },
+    {
+        "title": "Zinalrothorn",
+        "type": "Hochtour",
+        "date": "2017-06-26",
+        "points": [
+            {
+                "lat": 46.06481,
+                "long": 7.69012
+            }
+        ],
+        "photoUrl": "2017/2017-06-26-Zinalrothorn"
+    },
+    {
+        "title": "Ueschenen",
+        "type": "Climb",
+        "date": "2017-07-04",
+        "points": [
+            {
+                "lat": 46.48227,
+                "long": 7.63849
+            }
+        ],
+        "photoUrl": "2017/2017-07-04-Ueschenen"
     },
     {
         "tracks": [
@@ -1811,7 +2055,7 @@
         "points": [
             {
                 "lat": 46.68048,
-                "long": 8.52907
+                "long": 8.52906
             }
         ],
         "photoUrl": "2017/2017-07-17-Salbit-with-Dan-Co"
@@ -1829,6 +2073,18 @@
         "photoUrl": "2017/2017-07-31-Ofenhorn"
     },
     {
+        "title": "Brueggler",
+        "type": "Climb",
+        "date": "2017-08-13",
+        "points": [
+            {
+                "lat": 47.11760,
+                "long": 8.98448
+            }
+        ],
+        "photoUrl": "2017/2017-08-13-Brueggler"
+    },
+    {
         "tracks": [
             "2017-08-19__Run__Mountain_Man_Leg_3.gpx"
         ],
@@ -1836,6 +2092,18 @@
         "stravaUrl": [
             1141721094
         ]
+    },
+    {
+        "title": "Winteregg",
+        "type": "Climb",
+        "date": "2017-08-27",
+        "points": [
+            {
+                "lat": 46.46042,
+                "long": 7.64981
+            }
+        ],
+        "photoUrl": "2017/2017-08-27-Winteregg"
     },
     {
         "title": "Lumio",

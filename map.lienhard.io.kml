@@ -691,8 +691,8 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Dufourspitze</h4><p>Skitour on April 14, 2013.</p><p>See <a href="https://stefalie.smugmug.com/2013/2013-04-14-Dufourspitze" target="_blank">photos</a>.</p>]]></description>
+			<styleUrl>#Hochtour</styleUrl>
+			<description><![CDATA[<h4>Dufourspitze</h4><p>Hochtour on April 14, 2013.</p><p>See <a href="https://stefalie.smugmug.com/2013/2013-04-14-Dufourspitze" target="_blank">photos</a>.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>7.86676,45.93691</coordinates>
@@ -731,8 +731,8 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<styleUrl>#Skitour</styleUrl>
-			<description><![CDATA[<h4>Dom</h4><p>Skitour on June 30, 2013.</p><p>See <a href="https://stefalie.smugmug.com/2013/2013-06-30-Domd" target="_blank">photos</a>.</p>]]></description>
+			<styleUrl>#Hochtour</styleUrl>
+			<description><![CDATA[<h4>Dom</h4><p>Hochtour on June 30, 2013.</p><p>See <a href="https://stefalie.smugmug.com/2013/2013-06-30-Domd" target="_blank">photos</a>.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>7.84767,46.10128</coordinates>
@@ -764,7 +764,7 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Climb</styleUrl>
-			<description><![CDATA[<h4>Hanibal and Gr Bielenhorn</h4><p>Climb on July 28, 2013.</p><p>See <a href="https://stefalie.smugmug.com/2013/2013-07-28-Hanibal-and-Gr-Bielenhorn" target="_blank">photos</a>.</p>]]></description>
+			<description><![CDATA[<h4>Hanibal and Gross Bielenhorn</h4><p>Climb on July 28, 2013.</p><p>See <a href="https://stefalie.smugmug.com/2013/2013-07-28-Hanibal-and-Gr-Bielenhorn" target="_blank">photos</a>.</p>]]></description>
 			<MultiGeometry>
 				<Point>
 					<altitudeMode>clampToGround</altitudeMode>
@@ -1154,11 +1154,51 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Bouldering</styleUrl>
+			<description><![CDATA[<h4>Fontaine Bleau</h4><p>Bouldering on April 7, 2015.</p><p>See <a href="https://stefalie.smugmug.com/2015/2015-04-07-Fontaine-Bleau" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>2.52127,48.37646</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Run</styleUrl>
 			<description><![CDATA[<h4>20km de Lausanne</h4><p>Run on April 25, 2015.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>6.63525,46.52257</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Roche des Nants</h4><p>Climb on June 20, 2015.</p><p>See <a href="https://stefalie.smugmug.com/2015/2015-06-20-Roche-des-Nants" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.35353,47.26295</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Pfadflue</h4><p>Climb on June 28, 2015.</p><p>See <a href="https://stefalie.smugmug.com/2015/2015-06-28-Hallo-Marco" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.27382,46.57866</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Galengratverschneidung</h4><p>Climb on July 5, 2015.</p><p>See <a href="https://stefalie.smugmug.com/2015/2015-07-05-Galengratverschneidung" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.41378,46.60470</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Jegihorn</h4><p>Climb on July 12, 2015.</p><p>See <a href="https://stefalie.smugmug.com/2015/2015-07-12-Jegihorn" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.97030,46.15148</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1175,6 +1215,14 @@
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>7.61285,46.39695</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Chli Bielenhorn Perrenoud</h4><p>Climb on August 2, 2015.</p><p>See <a href="https://stefalie.smugmug.com/2015/2015-08-02-Chli-Bielenhorn-Perrenoud" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.43492,46.59823</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1195,6 +1243,44 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Skitour</h4><p>Climb on January 17, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-01-17-Nax" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.48046,46.20788</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#XC-Ski</styleUrl>
+			<description><![CDATA[<h4>Kandersteg</h4><p>XC-Ski on February 6, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-02-06-Kandersteg-X-Country-Skiing" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.67355,46.49083</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Skitour</styleUrl>
+			<description><![CDATA[<h4>Mittelallalin</h4><p>Skitour on March 16, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-03-16-Mittelallalin-x-2" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.89737,46.05151</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hochtour</styleUrl>
+			<description><![CDATA[<h4>Gross Fiescherhorn und Finsteraarhorn</h4><p>Hochtour on March 19, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-03-19-Finsteraarhorn-almost" target="_blank">photos</a>.</p>]]></description>
+			<MultiGeometry>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>8.06248,46.55070</coordinates>
+				</Point>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>8.12494,46.53868</coordinates>
+				</Point>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Hike</styleUrl>
 			<description><![CDATA[<h4>Lavaux</h4><p>Hike on April 10, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-04-10-Lavaux" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/541336013" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
@@ -1202,14 +1288,6 @@
 				<tessellate>1</tessellate>
 				<coordinates>6.69112,46.50344 6.69144,46.50382 6.69234,46.50317 6.69297,46.50384 6.69371,46.50342 6.69378,46.50292 6.69800,46.50179 6.69881,46.50196 6.69913,46.50319 6.69999,46.50328 6.70002,46.50281 6.70218,46.50148 6.70390,46.50148 6.70633,46.49984 6.70716,46.49964 6.70630,46.49980 6.70660,46.50156 6.70666,46.50118 6.70667,46.50168 6.70716,46.50201 6.71134,46.50080 6.71178,46.50172 6.71376,46.49994 6.71358,46.49921 6.71397,46.49838 6.71333,46.49759 6.71382,46.49664 6.71307,46.49569 6.71447,46.49553 6.71484,46.49522 6.71669,46.49519 6.71729,46.49481 6.71916,46.49599 6.72094,46.49638 6.72111,46.49725 6.72423,46.49840 6.72504,46.49898 6.72422,46.49840 6.72696,46.49808 6.72828,46.49716 6.72870,46.49721 6.72911,46.49805 6.72909,46.49909 6.72984,46.49952 6.73029,46.50033 6.73175,46.50042 6.73304,46.50140 6.73263,46.50061 6.73438,46.50042 6.73454,46.50075 6.73582,46.50122 6.73602,46.50029 6.73721,46.49921 6.73717,46.49875 6.73753,46.49842 6.73735,46.49813 6.73824,46.49759 6.73829,46.49689 6.73998,46.49609 6.74221,46.49611 6.74295,46.49522 6.74402,46.49457 6.74419,46.49415 6.74353,46.49327 6.74363,46.49240 6.74486,46.49252 6.74771,46.49195 6.74938,46.49089 6.74956,46.49054 6.74926,46.49088 6.74876,46.49053 6.74899,46.49023 6.75049,46.48969 6.75083,46.48893 6.75412,46.48691 6.75517,46.48575 6.75782,46.48432 6.76053,46.48184 6.76417,46.47988 6.77555,46.47612 6.77703,46.47596 6.77720,46.47639 6.77778,46.47601 6.77928,46.47701 6.78121,46.47711 6.78344,46.47575 6.78520,46.47533 6.78590,46.47582 6.78952,46.47544 6.79131,46.47471 6.79473,46.47413 6.79579,46.47371 6.79581,46.47306 6.79682,46.47286 6.79699,46.47246 6.79685,46.47288 6.79545,46.47306 6.79615,46.47337 6.79614,46.47304 6.79673,46.47285</coordinates>
 			</LineString>
-		</Placemark>
-		<Placemark>
-			<styleUrl>#Hike</styleUrl>
-			<description><![CDATA[<h4>Moléson</h4><p>Hike on June 4, 2016.</p>]]></description>
-			<Point>
-				<altitudeMode>clampToGround</altitudeMode>
-				<coordinates>7.01803,46.54649</coordinates>
-			</Point>
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
@@ -1224,6 +1302,14 @@
 					<coordinates>7.35811,46.06373</coordinates>
 				</Point>
 			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Moléson</h4><p>Hike on June 4, 2016.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.01803,46.54649</coordinates>
+			</Point>
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
@@ -1252,6 +1338,14 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Rosenlauistock</h4><p>Climb on July 9, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-07-09-Rosenlauistock" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.17027,46.67913</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Hike</styleUrl>
 			<description><![CDATA[<h4>Stockhorn</h4><p>Hike on July 10, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-07-10-Stockhorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/636561356" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
@@ -1259,6 +1353,14 @@
 				<tessellate>1</tessellate>
 				<coordinates>7.54589,46.65987 7.54602,46.66058 7.54673,46.66120 7.54878,46.66187 7.54859,46.66273 7.54905,46.66347 7.54931,46.66343 7.54855,46.66365 7.54908,46.66375 7.54874,46.66397 7.54879,46.66499 7.54689,46.66641 7.54684,46.66685 7.54627,46.66655 7.54612,46.66573 7.54436,46.66570 7.54494,46.66651 7.54444,46.66719 7.54431,46.66815 7.54339,46.66897 7.54362,46.67118 7.54394,46.67115 7.54369,46.67141 7.54410,46.67150 7.54350,46.67191 7.54410,46.67204 7.54360,46.67308 7.54422,46.67324 7.54397,46.67392 7.54469,46.67589 7.54563,46.67630 7.54534,46.67965 7.54566,46.68057 7.54436,46.68151 7.54156,46.68195 7.54258,46.68260 7.54252,46.68311 7.54169,46.68316 7.54294,46.68385 7.54246,46.68381 7.54252,46.68428 7.54307,46.68460 7.54308,46.68542 7.54244,46.68588 7.54190,46.68699 7.53994,46.68688 7.53717,46.68614 7.53642,46.68644 7.53727,46.68721 7.53469,46.68715 7.53491,46.68754 7.53438,46.68817 7.53055,46.68907 7.53006,46.68948 7.52842,46.68934 7.52822,46.68979 7.52738,46.69013 7.52525,46.69049 7.52482,46.69100 7.52304,46.69156 7.52471,46.69223 7.52790,46.69228 7.52836,46.69268 7.53005,46.69310 7.53154,46.69252 7.53355,46.69307 7.53735,46.69296 7.53786,46.69320 7.53719,46.69341 7.53775,46.69353 7.53758,46.69365 7.53798,46.69392 7.53727,46.69399 7.53803,46.69393 7.53787,46.69433 7.53789,46.69348 7.53702,46.69328 7.53843,46.69293 7.53714,46.69240 7.53932,46.69173 7.53834,46.69130 7.54012,46.69145 7.53964,46.69194 7.54015,46.69190 7.54038,46.69246 7.54146,46.69212 7.54695,46.69173 7.54629,46.69148 7.54708,46.69119 7.54647,46.69109 7.54684,46.69077 7.54530,46.69024 7.54583,46.68936 7.54510,46.68945 7.54453,46.68895 7.54434,46.68750 7.54373,46.68715 7.54381,46.68518 7.54253,46.68427 7.54269,46.68366 7.54173,46.68313 7.54247,46.68313 7.54270,46.68259 7.54156,46.68196 7.54446,46.68150 7.54557,46.68073 7.54522,46.67949 7.54554,46.67623 7.54467,46.67592 7.54425,46.67412 7.54395,46.67389 7.54415,46.67307 7.54374,46.67323 7.54359,46.67285 7.54395,46.67151 7.54351,46.66868 7.54427,46.66817 7.54492,46.66643 7.54431,46.66570 7.54612,46.66587 7.54624,46.66648 7.54689,46.66691 7.54689,46.66642 7.54882,46.66493 7.54872,46.66394 7.54909,46.66378 7.54857,46.66368 7.54913,46.66340 7.54857,46.66267 7.54858,46.66172 7.54677,46.66118 7.54602,46.66020 7.54460,46.65953</coordinates>
 			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Dent de Ruth Pilier Diehl</h4><p>Climb on July 16, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-07-16-Pilier-Diehl-Attempt" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.23438,46.55171</coordinates>
+			</Point>
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
@@ -1324,6 +1426,14 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Motteux Péteux et Dent de Ruth</h4><p>Climb on August 13, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-08-13-Motteux-Péteux-Dent-de-Ruth" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.23347,46.55215</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Run</styleUrl>
 			<description><![CDATA[<h4>Home-Bern</h4><p>Run on August 14, 2016.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/676007064" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
@@ -1331,6 +1441,36 @@
 				<tessellate>1</tessellate>
 				<coordinates>7.40148,46.97708 7.40183,46.97699 7.40194,46.97612 7.40231,46.97588 7.40494,46.97659 7.40775,46.97637 7.40864,46.97577 7.40886,46.97517 7.40937,46.97516 7.40944,46.97413 7.41081,46.97434 7.40969,46.97291 7.41004,46.97160 7.41129,46.97044 7.41654,46.97169 7.41846,46.97163 7.41833,46.97127 7.42131,46.97170 7.42402,46.97302 7.42788,46.97423 7.42838,46.97325 7.42973,46.97336 7.43250,46.97235 7.43360,46.97094 7.43345,46.97064 7.43398,46.96923 7.43518,46.96816 7.43661,46.96789 7.43867,46.96809 7.44003,46.96861 7.43964,46.96912 7.44007,46.96978 7.43978,46.97167 7.44001,46.97423 7.44050,46.97586 7.44107,46.97637 7.44180,46.97666 7.44295,46.97649 7.44482,46.97515 7.44462,46.97474 7.44506,46.97442 7.44483,46.97434 7.44595,46.97416 7.44734,46.97435 7.44905,46.97534 7.44989,46.97763 7.44851,46.97957 7.44440,46.97953 7.44205,46.98008 7.44591,46.98219 7.44729,46.98388 7.44948,46.98363 7.44856,46.98365 7.44834,46.98512 7.44875,46.98551 7.44981,46.98833 7.45158,46.98886 7.45174,46.98825 7.45131,46.98649 7.45179,46.98417 7.45401,46.97759 7.45537,46.97671 7.45774,46.97632 7.45968,46.97642 7.46309,46.97581 7.46586,46.97585 7.46651,46.97548 7.46645,46.97494 7.46602,46.97474 7.46478,46.97504 7.46540,46.97426 7.46494,46.97382 7.46282,46.97309 7.45961,46.97119 7.45688,46.97092 7.45498,46.97160 7.45335,46.97175 7.45034,46.97118 7.44820,46.97025 7.44664,46.96869 7.44521,46.96630 7.44421,46.96566 7.44311,46.96394 7.44242,46.96079 7.44069,46.95670 7.44060,46.95573 7.44166,46.95361 7.44560,46.95088 7.44881,46.94974 7.45060,46.94944 7.45651,46.94993 7.45777,46.94942 7.45900,46.94952 7.45906,46.94907 7.45921,46.94949 7.45938,46.94905 7.45879,46.94825 7.45887,46.94741 7.45784,46.94620 7.45579,46.94549 7.45438,46.94459 7.45216,46.94457 7.44928,46.94529 7.44882,46.94567 7.44658,46.94493 7.44619,46.94443 7.44514,46.94481 7.44346,46.94276 7.44362,46.94385 7.44306,46.94508 7.44212,46.94581 7.44134,46.94587 7.44119,46.94655 7.44022,46.94780 7.43882,46.94750 7.43854,46.94813 7.43757,46.94855 7.43734,46.94940 7.43771,46.94993</coordinates>
 			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Joshua Tree National Park</h4><p>Hike on September 17, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-09-17-Joshua-Tree" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>-116.05898,33.99419</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Zion National Park</h4><p>Hike on September 19, 2016.</p><p>See <a href="https://stefalie.smugmug.com/2016/2016-09-19-Zion" target="_blank">photos</a>.</p>]]></description>
+			<MultiGeometry>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>-112.94858,37.29506</coordinates>
+				</Point>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>-112.94055,37.27825</coordinates>
+				</Point>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>-112.96650,37.25742</coordinates>
+				</Point>
+				<Point>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>-112.93846,37.26812</coordinates>
+				</Point>
+			</MultiGeometry>
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
@@ -1430,6 +1570,14 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Pic de Crémines</h4><p>Climb on April 8, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-04-08-Grandval-with-Cheryl" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.42999,47.29383</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Run</styleUrl>
 			<description><![CDATA[<h4>Lyon</h4><p>Run on April 27, 2017.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/972849589" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
@@ -1508,6 +1656,14 @@
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Gletschhorn</h4><p>Climb on June 11, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-06-11-Gletschhorn" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.43884,46.61958</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
 			<description><![CDATA[<h4>Bollenwees und Fähnligipfel</h4><p>Climb on June 19, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-06-19-Bollenwees" target="_blank">photos</a>.</p>]]></description>
 			<MultiGeometry>
 				<Point>
@@ -1519,6 +1675,22 @@
 					<coordinates>9.41427,47.25511</coordinates>
 				</Point>
 			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hochtour</styleUrl>
+			<description><![CDATA[<h4>Zinalrothorn</h4><p>Hochtour on June 26, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-06-26-Zinalrothorn" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.69012,46.06481</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Ueschenen</h4><p>Climb on July 4, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-07-04-Ueschenen" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.63849,46.48227</coordinates>
+			</Point>
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
@@ -1550,7 +1722,7 @@
 			<description><![CDATA[<h4>Salbit with Dan</h4><p>Climb on July 17, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-07-17-Salbit-with-Dan-Co" target="_blank">photos</a>.</p>]]></description>
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
-				<coordinates>8.52907,46.68048</coordinates>
+				<coordinates>8.52906,46.68048</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -1572,6 +1744,14 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Brueggler</h4><p>Climb on August 13, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-08-13-Brueggler" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.98448,47.11760</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Run</styleUrl>
 			<description><![CDATA[<h4>Mountain Man Leg 3</h4><p>Run on August 19, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017-08-19-Mountain-Man-Hochstollen" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/1141721094" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
@@ -1579,6 +1759,14 @@
 				<tessellate>1</tessellate>
 				<coordinates>8.26907,46.77442 8.26852,46.77513 8.26833,46.77481 8.26818,46.77535 8.26834,46.77640 8.26925,46.77720 8.26920,46.77956 8.26777,46.77895 8.26721,46.77822 8.26658,46.77805 8.26615,46.77841 8.26573,46.77775 8.26476,46.77753 8.26450,46.77764 8.26474,46.77865 8.26419,46.77961 8.26224,46.78006 8.26072,46.78004 8.26100,46.78039 8.25996,46.78068 8.25996,46.78116 8.25870,46.78180 8.25797,46.78163 8.26098,46.78275 8.26170,46.78396 8.26237,46.78367 8.26290,46.78446 8.26237,46.78435 8.26316,46.78520 8.26243,46.78495 8.26176,46.78511 8.26182,46.78574 8.26057,46.78779 8.26215,46.78723 8.26102,46.78904 8.26076,46.79013 8.26246,46.78958 8.26188,46.79047 8.26298,46.79149 8.26339,46.79247 8.26367,46.79203 8.26412,46.79254 8.26432,46.79227 8.26502,46.79271 8.26547,46.79388 8.26815,46.79553 8.26840,46.79592 8.26823,46.79666 8.26918,46.79853 8.26955,46.79886 8.26977,46.79848 8.27024,46.79862 8.27348,46.80022 8.27278,46.80079 8.27320,46.80122 8.27254,46.80169 8.27344,46.80347 8.27295,46.80342 8.27398,46.80466 8.27366,46.80507 8.27233,46.80512 8.27237,46.80551 8.27303,46.80564 8.27220,46.80611 8.27344,46.80648 8.27389,46.80744 8.27262,46.80805 8.27020,46.80824 8.26840,46.80703 8.26853,46.80674 8.26688,46.80639 8.26710,46.80622 8.26675,46.80582 8.26634,46.80591 8.26547,46.80497 8.26244,46.80454 8.26109,46.80385 8.25924,46.80353 8.25647,46.80370 8.25465,46.80265 8.25292,46.80326 8.25068,46.80218 8.25055,46.80304 8.25083,46.80363 8.25057,46.80381 8.25085,46.80398 8.25026,46.80456 8.25009,46.80556 8.24788,46.80330 8.24605,46.80218 8.24573,46.80097 8.24388,46.79907 8.24353,46.79777 8.24186,46.79669 8.24183,46.79562 8.24009,46.79354 8.23883,46.79350 8.23748,46.79397 8.23441,46.79266 8.23172,46.79291 8.23213,46.79271 8.23152,46.79266 8.23240,46.79249 8.23112,46.79229 8.23075,46.79004 8.22888,46.78958 8.22863,46.78907 8.22874,46.78743 8.22992,46.78592 8.22965,46.78566 8.23017,46.78353 8.23134,46.78283 8.22983,46.78256 8.23028,46.78135 8.23019,46.78052 8.23075,46.78058 8.23032,46.78066 8.23068,46.78080 8.23110,46.78180 8.23182,46.78167 8.23195,46.78103 8.23294,46.78155 8.23348,46.78115 8.23910,46.78122 8.23711,46.78114 8.23650,46.78039 8.23570,46.78044 8.23478,46.77937 8.23629,46.77847 8.23643,46.77884 8.23679,46.77851 8.23685,46.77886 8.23748,46.77869 8.23736,46.77907 8.23815,46.77938 8.24149,46.77870 8.24359,46.77666 8.24420,46.77567 8.24432,46.77381 8.24512,46.77311 8.24855,46.77246 8.25031,46.77152 8.25285,46.77202 8.25554,46.77128 8.26401,46.77242 8.26726,46.77249 8.26780,46.77299 8.26757,46.77360 8.26816,46.77364 8.26868,46.77439</coordinates>
 			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Winteregg</h4><p>Climb on August 27, 2017.</p><p>See <a href="https://stefalie.smugmug.com/2017/2017-08-27-Winteregg" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.64981,46.46042</coordinates>
+			</Point>
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Bouldering</styleUrl>
