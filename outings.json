@@ -433,6 +433,17 @@
         "photoUrl": "2011/2011-11-27-Failure-at-Le-Schilt"
     },
     {
+        "title": "Mont de l'Arpille",
+        "type": "Skitour",
+        "date": "2011-12-18",
+        "points": [
+            {
+                "lat": 46.07711,
+                "long": 7.00653
+            }
+        ]
+    },
+    {
         "title": "Teysachaux",
         "type": "Climb",
         "date": "2012-01-11",
@@ -1426,6 +1437,17 @@
         "photoUrl": "2014/2014-11-02-Hintisberg-3"
     },
     {
+        "title": "La Fouly Cours Avalanche",
+        "type": "Skitour",
+        "date": "2015-01-22",
+        "points": [
+            {
+                "lat": 45.91731,
+                "long": 7.09178
+            }
+        ]
+    },
+    {
         "title": "Fontaine Bleau",
         "type": "Bouldering",
         "date": "2015-04-07",
@@ -2185,6 +2207,18 @@
         ]
     },
     {
+        "title": "Chutzenturm",
+        "type": "Climb",
+        "date": "2018-01-07",
+        "points": [
+            {
+                "lat": 47.01506,
+                "long": 7.32390
+            }
+        ],
+        "photoUrl": "2018/2018-01-07-Chutzenturm"
+    },
+    {
         "title": "Morcote",
         "type": "Hike",
         "date": "2018-03-25",
@@ -2227,6 +2261,18 @@
         "stravaUrl": [
             1539332682
         ]
+    },
+    {
+        "title": "Langwiesen",
+        "type": "Climb",
+        "date": "2018-05-01",
+        "points": [
+            {
+                "lat": 47.65607,
+                "long": 8.68292
+            }
+        ],
+        "photoUrl": "2018/2018-05-01-Langwiesen"
     },
     {
         "tracks": [
@@ -2340,6 +2386,18 @@
             }
         ],
         "photoUrl": "2018/2018-07-08-Priendler"
+    },
+    {
+        "title": "Höch Nossen",
+        "type": "Climb",
+        "date": "2018-07-29",
+        "points": [
+            {
+                "lat": 46.91191,
+                "long": 8.71164
+            }
+        ],
+        "photoUrl": "2018/2018-07-29-Höch-Nossen"
     },
     {
         "title": "Bockmattli - Namenlose Kante",
@@ -2681,6 +2739,18 @@
         ]
     },
     {
+        "title": "Gemmi Jägerboden",
+        "type": "Climb",
+        "date": "2019-07-01",
+        "points": [
+            {
+                "lat": 46.39734,
+                "long": 7.60640
+            }
+        ],
+        "photoUrl": "2019/2019-07-01-Gemmi-Jägerboden"
+    },
+    {
         "tracks": [
             "2019-07-02__Hike__Torrenthorn.gpx"
         ],
@@ -2737,6 +2807,18 @@
         ]
     },
     {
+        "title": "Yellowstone National Park",
+        "type": "Climb",
+        "date": "2019-07-17",
+        "points": [
+            {
+                "lat": 44.476335939636556,
+                "long": -110.84511882947629
+            }
+        ],
+        "photoUrl": "2019/2019-07-17-Yellowstone"
+    },
+    {
         "tracks": [
             "2019-07-18__Hike__Grand_Teton_Cascade_Canyon.gpx"
         ],
@@ -2762,6 +2844,30 @@
         "stravaUrl": [
             2551853979
         ]
+    },
+    {
+        "title": "Arches National Park",
+        "type": "Climb",
+        "date": "2019-07-22",
+        "points": [
+            {
+                "lat": 38.74507218543813,
+                "long": -109.50024294290125
+            }
+        ],
+        "photoUrl": "2019/2019-07-22-Arches"
+    },
+    {
+        "title": "Canyonlands National Park",
+        "type": "Climb",
+        "date": "2019-07-23",
+        "points": [
+            {
+                "lat": 38.30351828637995,
+                "long": -109.86765778085592
+            }
+        ],
+        "photoUrl": "2019/2019-07-23-Canyonlands"
     },
     {
         "tracks": [
@@ -3292,6 +3398,18 @@
         ]
     },
     {
+        "title": "Fallätsche",
+        "type": "Climb",
+        "date": "2020-12-03",
+        "points": [
+            {
+                "lat": 47.33477,
+                "long": 8.50249
+            }
+        ],
+        "photoUrl": "2020/2020-12-03-Fallätsche-Explorations"
+    },
+    {
         "tracks": [
             "2020-12-12__Skitour__Piz_Feil.gpx"
         ],
@@ -3412,6 +3530,30 @@
         "stravaUrl": [
             4751237046
         ]
+    },
+    {
+        "title": "Arcegno",
+        "type": "Climb",
+        "date": "2021-02-15",
+        "points": [
+            {
+                "lat": 46.17024,
+                "long": 8.73424
+            }
+        ],
+        "photoUrl": "2021/2021-02-15-Arcegno-Avegno"
+    },
+    {
+        "title": "Avegno",
+        "type": "Bouldering",
+        "date": "2021-02-16",
+        "points": [
+            {
+                "lat": 46.20559,
+                "long": 8.74802
+            }
+        ],
+        "photoUrl": "2021/2021-02-15-Arcegno-Avegno"
     },
     {
         "tracks": [
@@ -3655,5 +3797,15 @@
         "stravaUrl": [
             5627441049
         ]
+    },
+    {
+        "tracks": [
+            "2021-07-15__Hike__Leisalp.gpx"
+        ],
+        "photoUrl": "2021/2021-07-15-Leisalp",
+        "stravaUrl": [
+            5632627345
+        ]
     }
+
 ]

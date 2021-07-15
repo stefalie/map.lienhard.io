@@ -435,6 +435,14 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Skitour</styleUrl>
+			<description><![CDATA[<h4>Mont de l'Arpille</h4><p>Skitour on December 18, 2011.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.00653,46.07711</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Climb</styleUrl>
 			<description><![CDATA[<h4>Teysachaux</h4><p>Climb on January 11, 2012.</p><p>See <a href="https://stefalie.smugmug.com/2012/2012-01-11-Teysachaux-by-Full-Moon" target="_blank">photos</a>.</p>]]></description>
 			<Point>
@@ -1154,6 +1162,14 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Skitour</styleUrl>
+			<description><![CDATA[<h4>La Fouly Cours Avalanche</h4><p>Skitour on January 22, 2015.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.09178,45.91731</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Bouldering</styleUrl>
 			<description><![CDATA[<h4>Fontaine Bleau</h4><p>Bouldering on April 7, 2015.</p><p>See <a href="https://stefalie.smugmug.com/2015/2015-04-07-Fontaine-Bleau" target="_blank">photos</a>.</p>]]></description>
 			<Point>
@@ -1834,6 +1850,14 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Chutzenturm</h4><p>Climb on January 7, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-01-07-Chutzenturm" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.32390,47.01506</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Hike</styleUrl>
 			<description><![CDATA[<h4>Morcote</h4><p>Hike on March 25, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-03-25-Morcote" target="_blank">photos</a>.</p>]]></description>
 			<Point>
@@ -1883,6 +1907,14 @@
 				<tessellate>1</tessellate>
 				<coordinates>7.39975,46.97743 7.40192,46.97687 7.40252,46.97590 7.40513,46.97663 7.40774,46.97645 7.40866,46.97578 7.40882,46.97527 7.40944,46.97525 7.40948,46.97423 7.41075,46.97425 7.40988,46.97308 7.40988,46.97254 7.41123,46.97061 7.41246,46.97066 7.41684,46.97180 7.42095,46.97173 7.42793,46.97428 7.42833,46.97334 7.43089,46.97308 7.43254,46.97239 7.43346,46.97111 7.43402,46.96916 7.43515,46.96811 7.43668,46.96773 7.43844,46.96791 7.43981,46.96849 7.43956,46.96911 7.43998,46.96972 7.43975,46.97154 7.43998,46.97433 7.44111,46.97658 7.44223,46.97671 7.44306,46.97645 7.44477,46.97507 7.44461,46.97473 7.44510,46.97445 7.44476,46.97433 7.44765,46.97458 7.44865,46.97526 7.44949,46.97667 7.44926,46.97827 7.44844,46.97942 7.45004,46.98024 7.45076,46.98001 7.45110,46.97949 7.45128,46.97801 7.45097,46.97679 7.45105,46.97852 7.44926,46.97964 7.44451,46.97972 7.44255,46.98022 7.44211,46.98006 7.44669,46.98299 7.44755,46.98407 7.44709,46.98439 7.44763,46.98497 7.44727,46.98513 7.44826,46.98556 7.44773,46.98609 7.44818,46.98649 7.44834,46.98632 7.44870,46.98763 7.44937,46.98859 7.45097,46.98949 7.45151,46.98938 7.45136,46.98650 7.45221,46.98307 7.45332,46.98026 7.45366,46.97791 7.45556,46.97669 7.45709,46.97716 7.45905,46.97625 7.45943,46.97652 7.46290,46.97596 7.46471,46.97621 7.46582,46.97594 7.46634,46.97532 7.46578,46.97477 7.46468,46.97501 7.46529,46.97458 7.46520,46.97412 7.46136,46.97229 7.45891,46.97049 7.45672,46.97050 7.45625,46.97068 7.45647,46.97096 7.45425,46.97166 7.44807,46.97050 7.44296,46.96381 7.44268,46.96158 7.44299,46.96123 7.44286,46.96059 7.44188,46.95920 7.44185,46.95833 7.44091,46.95684 7.44087,46.95536 7.44125,46.95440 7.44524,46.95116 7.44871,46.94982 7.45103,46.94942 7.45624,46.94991 7.45741,46.94972 7.45786,46.94924 7.45772,46.94813 7.45718,46.94759 7.45436,46.94621 7.44831,46.94591 7.44578,46.94546 7.44364,46.94448 7.44225,46.94568 7.44145,46.94577 7.44077,46.94637 7.43925,46.94602 7.43873,46.94759 7.43821,46.94836 7.43773,46.94834 7.43736,46.94933 7.43781,46.94976 7.43736,46.95059 7.43806,46.95133 7.43560,46.95262 7.43560,46.95312 7.43260,46.95484 7.43309,46.95597 7.43195,46.95666 7.43046,46.95828 7.42968,46.95840 7.42964,46.95896 7.42795,46.95974 7.42722,46.96174 7.42578,46.96263 7.42613,46.96379 7.42488,46.96487 7.42413,46.96632 7.42412,46.96727 7.42250,46.96677 7.42182,46.96800 7.42068,46.96854 7.42047,46.96938 7.42259,46.96983 7.42253,46.97021 7.41911,46.97013 7.41855,46.97069 7.41781,46.97277 7.41805,46.97344 7.41754,46.97366 7.41502,46.97267 7.41482,46.97318 7.41305,46.97364 7.41236,46.97499 7.41191,46.97489 7.41035,46.97607 7.40952,46.97599 7.40806,46.97674 7.40635,46.97695 7.40238,46.97592 7.40172,46.97701 7.39947,46.97769</coordinates>
 			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Langwiesen</h4><p>Climb on May 1, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-05-01-Langwiesen" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.68292,47.65607</coordinates>
+			</Point>
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Run</styleUrl>
@@ -2007,6 +2039,14 @@
 			<Point>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>8.42137,46.74047</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Höch Nossen</h4><p>Climb on July 29, 2018.</p><p>See <a href="https://stefalie.smugmug.com/2018/2018-07-29-Höch-Nossen" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.71164,46.91191</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2384,6 +2424,14 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Gemmi Jägerboden</h4><p>Climb on July 1, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-01-Gemmi-Jägerboden" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>7.60640,46.39734</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Hike</styleUrl>
 			<description><![CDATA[<h4>Torrenthorn</h4><p>Hike on July 2, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-02-Torrenthorn" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2498041441" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
@@ -2445,6 +2493,14 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Yellowstone National Park</h4><p>Climb on July 17, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-17-Yellowstone" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>-110.84512,44.47634</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Hike</styleUrl>
 			<description><![CDATA[<h4>Grand Teton Cascade Canyon</h4><p>Hike on July 18, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-19-Grand-Teton" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/2544326100" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
@@ -2470,6 +2526,22 @@
 				<tessellate>1</tessellate>
 				<coordinates>-109.56589,38.74339 -109.56511,38.74456 -109.56434,38.74451 -109.56421,38.74485 -109.56469,38.74592 -109.56444,38.74582 -109.56455,38.74611 -109.56426,38.74613 -109.56442,38.74578 -109.56465,38.74608 -109.56456,38.74570 -109.56656,38.74747 -109.56571,38.74637 -109.56636,38.74729 -109.56488,38.74594 -109.56428,38.74606 -109.56445,38.74624 -109.56437,38.74601 -109.56502,38.74616 -109.56449,38.74581 -109.56482,38.74600 -109.56437,38.74580 -109.56419,38.74617 -109.56375,38.74599 -109.56445,38.74708 -109.56443,38.74758 -109.56502,38.74817 -109.56471,38.74787 -109.56498,38.74767 -109.56444,38.74796 -109.56460,38.74731 -109.56393,38.74636 -109.56405,38.74615 -109.56346,38.74643 -109.56361,38.74621 -109.56320,38.74576 -109.56373,38.74591 -109.56343,38.74603 -109.56341,38.74665 -109.56368,38.74672 -109.56355,38.74616 -109.56354,38.74652 -109.56377,38.74645 -109.56348,38.74650 -109.56359,38.74604 -109.56323,38.74587 -109.56343,38.74610 -109.56351,38.74575 -109.56309,38.74562 -109.56347,38.74593 -109.56356,38.74549 -109.56309,38.74553 -109.56312,38.74617 -109.56308,38.74545 -109.56300,38.74641 -109.56277,38.74580 -109.56307,38.74580 -109.56302,38.74606 -109.56253,38.74570 -109.56282,38.74533 -109.56207,38.74462 -109.56260,38.74459 -109.56227,38.74436 -109.56189,38.74439 -109.56173,38.74404 -109.56176,38.74460 -109.56150,38.74466 -109.56182,38.74469 -109.56134,38.74521 -109.56140,38.74449 -109.56087,38.74410 -109.56146,38.74421 -109.56075,38.74385 -109.56225,38.74639 -109.56115,38.74370 -109.56077,38.74388 -109.56053,38.74359 -109.56095,38.74334 -109.56079,38.74307 -109.56020,38.74311 -109.56009,38.74387 -109.55956,38.74431 -109.56072,38.74557 -109.56011,38.74542 -109.56015,38.74588 -109.56064,38.74602 -109.56030,38.74559 -109.56072,38.74560 -109.56026,38.74501 -109.56035,38.74458 -109.55986,38.74448 -109.55969,38.74405 -109.56065,38.74258 -109.56198,38.74308 -109.56170,38.74254 -109.56200,38.74250 -109.56256,38.74315 -109.56311,38.74245 -109.56350,38.74286 -109.56373,38.74271 -109.56378,38.74225 -109.56480,38.74305 -109.56582,38.74334 -109.56568,38.74298</coordinates>
 			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Arches National Park</h4><p>Climb on July 22, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-22-Arches" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>-109.50024,38.74507</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Canyonlands National Park</h4><p>Climb on July 23, 2019.</p><p>See <a href="https://stefalie.smugmug.com/2019/2019-07-23-Canyonlands" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>-109.86766,38.30352</coordinates>
+			</Point>
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Hike</styleUrl>
@@ -3026,6 +3098,14 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Fallätsche</h4><p>Climb on December 3, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-12-03-Fallätsche-Explorations" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.50249,47.33477</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
 			<description><![CDATA[<h4>Piz Feil</h4><p>Skitour on December 12, 2020.</p><p>See <a href="https://stefalie.smugmug.com/2020/2020-11-29-Myhen-Nebelmeer" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/4463765412" target="_blank">tracks</a>.</p>]]></description>
 			<LineString>
@@ -3149,6 +3229,22 @@
 				<tessellate>1</tessellate>
 				<coordinates>7.48879,46.60853 7.48928,46.60924 7.48735,46.60820 7.48786,46.60791 7.48763,46.60726 7.48847,46.60713 7.48724,46.60664 7.48691,46.60582 7.48415,46.60494 7.48126,46.60254 7.48070,46.60257 7.48017,46.60331 7.47927,46.60317 7.47811,46.60223 7.47729,46.60085 7.47795,46.59938 7.47964,46.59736 7.47933,46.59630 7.48122,46.59650 7.48070,46.59546 7.48130,46.59481 7.48165,46.59318 7.48252,46.59213 7.48245,46.59177</coordinates>
 			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Climb</styleUrl>
+			<description><![CDATA[<h4>Arcegno</h4><p>Climb on February 15, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-15-Arcegno-Avegno" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.73424,46.17024</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Bouldering</styleUrl>
+			<description><![CDATA[<h4>Avegno</h4><p>Bouldering on February 16, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-02-15-Arcegno-Avegno" target="_blank">photos</a>.</p>]]></description>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>8.74802,46.20559</coordinates>
+			</Point>
 		</Placemark>
 		<Placemark>
 			<styleUrl>#Skitour</styleUrl>
@@ -3384,6 +3480,15 @@
 				<altitudeMode>clampToGround</altitudeMode>
 				<tessellate>1</tessellate>
 				<coordinates>9.12280,46.57746 9.12069,46.57702 9.11874,46.57616 9.11754,46.57526 9.11862,46.57554 9.11838,46.57523 9.11440,46.57308 9.11378,46.57236 9.11364,46.57164 9.11226,46.57132 9.11130,46.57036 9.10985,46.56998 9.10724,46.56849 9.10561,46.56685 9.10535,46.56582 9.10332,46.56388 9.10069,46.56227 9.09773,46.56134 9.09725,46.56068 9.09693,46.55883 9.09505,46.55843 9.09419,46.56015 9.09366,46.56031 9.09379,46.56069 9.09340,46.56120 9.09186,46.56247 9.09146,46.56248 9.09107,46.56330 9.08996,46.56379 9.08827,46.56426 9.08647,46.56418 9.08603,46.56465 9.08457,46.56495 9.08219,46.56609 9.08170,46.56659 9.07525,46.56785 9.07441,46.56828 9.07405,46.56900 9.07097,46.56939 9.06572,46.56879 9.06389,46.56787 9.06357,46.56737 9.06176,46.56674 9.06109,46.56606 9.05505,46.56364 9.05340,46.56376 9.05129,46.56335 9.05062,46.56276 9.05004,46.56101 9.04867,46.56047 9.04819,46.55940 9.04734,46.55885 9.04512,46.55608 9.04495,46.55519 9.04466,46.55505 9.04514,46.55615 9.04735,46.55888 9.04814,46.55942 9.04852,46.56033 9.05004,46.56099 9.05060,46.56275 9.05134,46.56336 9.05343,46.56381 9.05510,46.56367 9.06077,46.56599 9.06365,46.56803 9.06504,46.56859 9.07103,46.56943 9.07187,46.56902 9.07399,46.56900 9.07447,46.56832 9.07616,46.56761 9.08187,46.56654 9.08209,46.56616 9.08605,46.56470 9.08646,46.56423 9.08828,46.56430 9.09003,46.56379 9.09118,46.56323 9.09150,46.56249 9.09195,46.56248 9.09349,46.56117 9.09385,46.56068 9.09372,46.56032 9.09426,46.56009 9.09506,46.55846 9.09705,46.55887 9.09717,46.56058 9.09773,46.56131 9.10062,46.56220 9.10346,46.56405 9.10521,46.56585 9.10556,46.56685 9.10691,46.56829 9.10984,46.57001 9.11143,46.57046 9.11216,46.57135 9.11356,46.57167 9.11373,46.57244 9.11428,46.57308 9.11847,46.57533 9.11756,46.57519 9.11878,46.57625 9.12288,46.57757</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#Hike</styleUrl>
+			<description><![CDATA[<h4>Leisalp</h4><p>Hike on July 15, 2021.</p><p>See <a href="https://stefalie.smugmug.com/2021/2021-07-15-Leisalp" target="_blank">photos</a>.</p><p>See tracks on Strava: <a href="https://www.strava.com/activities/5632627345" target="_blank">tracks</a>.</p>]]></description>
+			<LineString>
+				<altitudeMode>clampToGround</altitudeMode>
+				<tessellate>1</tessellate>
+				<coordinates>9.18151,46.61720 9.18123,46.61731 9.18176,46.61758 9.18004,46.61835 9.18038,46.61885 9.18013,46.61911 9.18059,46.62108 9.18011,46.62172 9.18033,46.62177 9.18025,46.62237 9.18135,46.62411 9.17802,46.62153 9.17790,46.62273 9.17852,46.62395 9.17713,46.62246 9.17547,46.62180 9.17612,46.62335 9.17666,46.62365 9.17723,46.62490 9.17740,46.62559 9.17688,46.62613 9.17690,46.62571 9.17637,46.62530 9.17637,46.62573 9.17546,46.62512 9.17523,46.62550 9.17482,46.62508 9.17434,46.62635 9.17438,46.62565 9.17407,46.62522 9.17307,46.62439 9.17220,46.62412 9.17040,46.62246 9.17036,46.62353 9.17124,46.62517 9.17096,46.62600 9.17032,46.62483 9.16999,46.62470 9.16970,46.62508 9.16868,46.62432 9.16831,46.62570 9.16476,46.62392 9.16180,46.62378 9.16017,46.62013 9.15857,46.61902 9.15849,46.61853 9.15702,46.61743 9.15658,46.61601 9.15575,46.61495 9.15403,46.61455 9.15411,46.61360 9.15382,46.61349 9.15416,46.61257 9.15347,46.61198 9.15340,46.61047 9.15194,46.60947 9.15056,46.60729 9.15160,46.60698 9.15142,46.60680 9.15175,46.60639 9.15153,46.60614</coordinates>
 			</LineString>
 		</Placemark>
 	</Document>
