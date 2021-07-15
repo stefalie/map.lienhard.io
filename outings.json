@@ -732,6 +732,250 @@
         "photoUrl": "2012/2012-10-07-Mont-Blanc-Failure"
     },
     {
+        "title": "Wildstrubel",
+        "type": "Skitour",
+        "date": "2013-02-10",
+        "points": [
+            {
+                "lat": 46.40033,
+                "long": 7.52851
+            }
+        ],
+        "photoUrl": "2013/2013-02-10-Wildstrubel"
+    },
+    {
+        "title": "Chli Bielenhorn",
+        "type": "Skitour",
+        "date": "2013-02-17",
+        "points": [
+            {
+                "lat": 46.59887,
+                "long": 8.43480
+            }
+        ],
+        "photoUrl": "2013/2013-02-17-Chli-Bielenhorn"
+    },
+    {
+        "title": "Col des Chamois",
+        "type": "Skitour",
+        "date": "2013-02-24",
+        "points": [
+            {
+                "lat": 46.27922,
+                "long": 7.16173
+            }
+        ],
+        "photoUrl": "2013/2013-02-24-Presque-au-Col-des-Chamois"
+    },
+    {
+        "title": "Tödi",
+        "type": "Skitour",
+        "date": "2013-03-03",
+        "points": [
+            {
+                "lat": 46.81127,
+                "long": 8.91489
+            }
+        ],
+        "photoUrl": "2013/2013-03-03-Tödi"
+    },
+    {
+        "title": "Col des Mosses",
+        "type": "Bike",
+        "date": "2013-03-09",
+        "points": [
+            {
+                "lat": 46.39998,
+                "long": 7.10594
+            }
+        ],
+        "photoUrl": "2013/2013-03-09-Jacuzzi"
+    },
+    {
+        "title": "Lac Lioson",
+        "type": "Skitour",
+        "date": "2013-03-09",
+        "points": [
+            {
+                "lat": 46.38757,
+                "long": 7.12812
+            }
+        ],
+        "photoUrl": "2013/2013-03-09-Jacuzzi"
+    },
+    {
+        "title": "Avegno",
+        "type": "Climb",
+        "date": "2013-03-31",
+        "points": [
+            {
+                "lat": 46.20025,
+                "long": 8.74284
+            }
+        ],
+        "photoUrl": "2013/2013-03-31-We-Have-Found-Spring-It-Was-Hiding-in-Avegno"
+    },
+    {
+        "title": "Dufourspitze",
+        "type": "Skitour",
+        "date": "2013-04-14",
+        "points": [
+            {
+                "lat": 45.93691,
+                "long": 7.86676
+            }
+        ],
+        "photoUrl": "2013/2013-04-14-Dufourspitze"
+    },
+    {
+        "title": "Mont Raimeux",
+        "type": "Climb",
+        "date": "2013-05-06",
+        "points": [
+            {
+                "lat": 47.29772,
+                "long": 7.39419
+            }
+        ],
+        "photoUrl": "2013/2013-05-06-Another-Two-Days-in-Bliss"
+    },
+    {
+        "title": "Gastlosen",
+        "type": "Climb",
+        "date": "2013-06-10",
+        "points": [
+            {
+                "lat": 46.56126,
+                "long": 7.26068
+            }
+        ],
+        "photoUrl": "2013/2013-06-10-Gastlosen-VI"
+    },
+    {
+        "title": "Mont Blanc par les Grands Mulets",
+        "type": "Skitour",
+        "date": "2013-06-17",
+        "points": [
+            {
+                "lat": 45.83253,
+                "long": 6.86441
+            }
+        ],
+        "photoUrl": "2013/2013-06-17-Mont-Blanc-par-les-Grands-Mulets"
+    },
+    {
+        "title": "Engelhörner Silberfinger",
+        "type": "Climb",
+        "date": "2013-06-24",
+        "points": [
+            {
+                "lat": 46.68202,
+                "long": 8.17981
+            }
+        ],
+        "photoUrl": "2013/2013-06-24-Engelhörner-Silberfinger-again"
+    },
+    {
+        "title": "Dom",
+        "type": "Skitour",
+        "date": "2013-06-30",
+        "points": [
+            {
+                "lat": 46.10128,
+                "long": 7.84767
+            }
+        ],
+        "photoUrl": "2013/2013-06-30-Domd"
+    },
+    {
+        "title": "Rosenlauistock",
+        "type": "Climb",
+        "date": "2013-07-06",
+        "points": [
+            {
+                "lat": 46.67913,
+                "long": 8.17027
+            }
+        ],
+        "photoUrl": "2013/2013-07-06-More-Angels-Raeubereggae-und-Liftwing-Left"
+    },
+    {
+        "title": "Salbit Westgrat",
+        "type": "Climb",
+        "date": "2013-07-14",
+        "points": [
+            {
+                "lat": 46.68048,
+                "long": 8.52906
+            }
+        ],
+        "photoUrl": "2013/2013-07-14-Salbit-Westgrat"
+    },
+    {
+        "title": "Gastlosen",
+        "type": "Climb",
+        "date": "2013-07-20",
+        "points": [
+            {
+                "lat": 46.56126,
+                "long": 7.26068
+            }
+        ],
+        "photoUrl": "2013/2013-07-20-Gaschtlose-VII"
+    },
+    {
+        "title": "Hanibal and Gr Bielenhorn",
+        "type": "Climb",
+        "date": "2013-07-28",
+        "points": [
+            {
+                "lat": 46.59926,
+                "long": 8.41965
+            },
+            {
+                "lat": 46.60462,
+                "long": 8.42656
+            }
+        ],
+        "photoUrl": "2013/2013-07-28-Hanibal-and-Gr-Bielenhorn"
+    },
+    {
+        "title": "Cheeseland AFK",
+        "type": "Climb",
+        "date": "2013-08-03",
+        "points": [
+            {
+                "lat": 46.59926,
+                "long": 8.41965
+            },
+            {
+                "lat": 46.60462,
+                "long": 8.42656
+            },
+            {
+                "lat": 46.56126,
+                "long": 7.26068
+            },
+            {
+                "lat": 46.46042,
+                "long": 7.64981
+            }
+        ],
+        "photoUrl": "2013/2013-08-03-Cheeseland-AFK"
+    },
+    {
+        "title": "Klein Wellhorn",
+        "type": "Climb",
+        "date": "2013-08-17",
+        "points": [
+            {
+                "lat": 46.66517,
+                "long": 8.15218
+            }
+        ],
+        "photoUrl": "2013/2013-08-17-Klein-Wellhorn-Kundalini"
+    },
+    {
         "title": "Dent de Fenestral",
         "type": "Climb",
         "date": "2013-08-31",
@@ -742,6 +986,18 @@
             }
         ],
         "photoUrl": "2013/2013-08-31-Dent-de-Fenestral"
+    },
+    {
+        "title": "Hintisberg",
+        "type": "Climb",
+        "date": "2013-09-07",
+        "points": [
+            {
+                "lat": 46.65854,
+                "long": 7.94655
+            }
+        ],
+        "photoUrl": "2013/2013-09-07-Hintisberg-II"
     },
     {
         "tracks": [
@@ -760,6 +1016,258 @@
         "stravaUrl": [
             91221854
         ]
+    },
+    {
+        "title": "Charmey",
+        "type": "Skitour",
+        "date": "2013-12-01",
+        "points": [
+            {
+                "lat": 46.58609,
+                "long": 7.17908
+            }
+        ],
+        "photoUrl": "2013/2013-12-01-Skitour-Charmey"
+    },
+    {
+        "title": "Balmflue",
+        "type": "Climb",
+        "date": "2013-12-21",
+        "points": [
+            {
+                "lat": 47.25368,
+                "long": 7.54287
+            }
+        ],
+        "photoUrl": "2013/2013-12-21-Saunatrip-Balmfluh"
+    },
+    {
+        "title": "Gondo Simplon",
+        "type": "Climb",
+        "date": "2014-01-02",
+        "points": [
+            {
+                "lat": 46.17014,
+                "long": 8.03042
+            },
+            {
+                "lat": 46.26167,
+                "long": 8.07551
+            },
+            {
+                "lat": 46.23352,
+                "long": 7.98003
+            },
+            {
+                "lat": 46.22221,
+                "long": 7.98299
+            }
+        ],
+        "photoUrl": "2014/2014-01-02-Silvester-Gondo-Simplon"
+    },
+    {
+        "title": "Red Rocks",
+        "type": "Climb",
+        "date": "2014-01-16",
+        "points": [
+            {
+                "lat": 36.13190,
+                "long": -115.5016
+            },
+            {
+                "lat": 36.16860,
+                "long": -115.4947
+            },
+            {
+                "lat": 36.10810,
+                "long": -115.4894
+            }
+        ],
+        "photoUrl": "2014/2014-01-16-Red-Rocks"
+    },
+    {
+        "title": "Joshua Tree",
+        "type": "Climb",
+        "date": "2014-01-17",
+        "points": [
+            {
+                "lat": 33.94180244714314,
+                "long": -116.01525304870425
+            }
+        ],
+        "photoUrl": "2014/2014-01-17-Joshua-Tree"
+    },
+    {
+        "title": "Mont Rogneux",
+        "type": "Skitour",
+        "date": "2014-02-23",
+        "points": [
+            {
+                "lat": 46.00954,
+                "long": 7.23075
+            }
+        ],
+        "photoUrl": "2014/2014-02-23-Mont-Rogneux"
+    },
+    {
+        "title": "Bürglen",
+        "type": "Skitour",
+        "date": "2014-03-02",
+        "points": [
+            {
+                "lat": 46.70303,
+                "long": 7.43248
+            }
+        ],
+        "photoUrl": "2014/2014-03-02-Bürgle"
+    },
+    {
+        "title": "Galenstock",
+        "type": "Skitour",
+        "date": "2014-03-09",
+        "points": [
+            {
+                "lat": 46.61262,
+                "long": 8.41695
+            }
+        ],
+        "photoUrl": "2014/2014-03-09-Galenstock"
+    },
+    {
+        "title": "Pic de Grandval",
+        "type": "Climb",
+        "date": "2014-03-16",
+        "points": [
+            {
+                "lat": 47.29378,
+                "long": 7.42532
+            }
+        ],
+        "photoUrl": "2014/2014-03-16-Pic-de-Grandval"
+    },
+    {
+        "title": "Palombaggia",
+        "type": "Bouldering",
+        "date": "2014-04-20",
+        "points": [
+            {
+                "lat": 41.55100680418424,
+                "long": 9.316763935358631
+            }
+        ],
+        "photoUrl": "2014/2014-04-20-Corsica-Day-1-Palombaggia-and-Bonifacio"
+    },
+    {
+        "title": "Bavella",
+        "type": "Climb",
+        "date": "2014-04-21",
+        "points": [
+            {
+                "lat": 41.81590387881894,
+                "long": 9.245991423768581
+            }
+        ],
+        "photoUrl": "2014/2014-04-21-Corsica-Day-2-Bavella"
+    },
+    {
+        "title": "Oratoriu di A Madonna di Thiberine",
+        "type": "Hike",
+        "date": "2014-04-22",
+        "points": [
+            {
+                "lat": 41.4065913924289,
+                "long": 9.1243933619168
+            }
+        ],
+        "photoUrl": "2014/2014-04-22-Corsica-Day-3-Random-Summit-Capineru"
+    },
+    {
+        "title": "Capineru",
+        "type": "Bouldering",
+        "date": "2014-04-22",
+        "points": [
+            {
+                "lat": 41.45728925686359,
+                "long": 9.040080289033668
+            }
+        ],
+        "photoUrl": "2014/2014-04-22-Corsica-Day-3-Random-Summit-Capineru"
+    },
+    {
+        "title": "Torra Ghjenuvese di a Parata",
+        "type": "Hike",
+        "date": "2014-04-23",
+        "points": [
+            {
+                "lat": 41.89533220775847,
+                "long": 8.608421212978852
+            }
+        ],
+        "photoUrl": "2014/2014-04-23-Corsica-Day-4-Ajaccio-et-Les-Iles-Sanguinaires"
+    },
+    {
+        "title": "Restonica",
+        "type": "Climb",
+        "date": "2014-04-24",
+        "points": [
+            {
+                "lat": 42.27825714627584,
+                "long": 9.101962551547755
+            }
+        ],
+        "photoUrl": "2014/2014-04-24-Corsica-Day-5-Restonica"
+    },
+    {
+        "title": "Lumio",
+        "type": "Bouldering",
+        "date": "2014-04-25",
+        "points": [
+            {
+                "lat": 42.58136797624949,
+                "long": 8.802566002468293
+            }
+        ],
+        "photoUrl": "2014/2014-04-25-Corsica-Day-6-Lumio-and-Calvi"
+    },
+    {
+        "title": "Cheselenflue",
+        "type": "Climb",
+        "date": "2014-05-25",
+        "points": [
+            {
+                "lat": 46.79370,
+                "long": 8.26184
+            }
+        ],
+        "photoUrl": "2014/2014-05-25-Cheselenflue"
+    },
+    {
+        "title": "Klein- und Grosssimelistock",
+        "type": "Climb",
+        "date": "2014-06-07",
+        "points": [
+            {
+                "lat": 46.68225,
+                "long": 8.17912
+            },
+            {
+                "lat": 46.68188,
+                "long": 8.18093
+            }
+        ],
+        "photoUrl": "2014/2014-06-07-Überschreitung-Klein-und-Grosssimelistock"
+    },
+    {
+        "title": "Gross Bielenhorn Fliegender Akku",
+        "type": "Climb",
+        "date": "2014-06-22",
+        "points": [
+            {
+                "lat": 46.60396,
+                "long": 8.42627
+            }
+        ],
+        "photoUrl": "2014/2014-06-22-Gr-Bielenhorn-Fliegender-Akku"
     },
     {
         "tracks": [
@@ -807,6 +1315,22 @@
         "photoUrl": "2014/2014-07-26-Swiss-Alpine-Marathon-2014"
     },
     {
+        "title": "Gross Bielenhorn Ürijam",
+        "type": "Climb",
+        "date": "2014-08-08",
+        "points": [
+            {
+                "lat": 46.60291,
+                "long": 8.43136
+            },
+            {
+                "lat": 46.60037,
+                "long": 8.43175
+            }
+        ],
+        "photoUrl": "2014/2014-08-08-Ürijam"
+    },
+    {
         "title": "Inferno Halbmarathon",
         "type": "Run",
         "date": "2014-08-21",
@@ -816,6 +1340,90 @@
                 "long": 7.83523
             }
         ]
+    },
+    {
+        "title": "Montagna Baus Petit Cervin",
+        "type": "Climb",
+        "date": "2014-08-24",
+        "points": [
+            {
+                "lat": 45.87114,
+                "long": 7.15273
+            }
+        ],
+        "photoUrl": "2014/2014-08-24-Montagna-Baus-Petit-Cervin"
+    },
+    {
+        "title": "Bürglen",
+        "type": "Hike",
+        "date": "2014-09-14",
+        "points": [
+            {
+                "lat": 46.70303,
+                "long": 7.43248
+            }
+        ],
+        "photoUrl": "2014/2014-09-14-Bürgle"
+    },
+    {
+        "title": "Teufelswand Zeichen der Freundschaft",
+        "type": "Climb",
+        "date": "2014-09-27",
+        "points": [
+            {
+                "lat": 46.65008,
+                "long": 8.59751
+            }
+        ],
+        "photoUrl": "2014/2014-09-27-Teufelswand-Zeichen-der-Freundschaft"
+    },
+    {
+        "title": "Bürglen",
+        "type": "Hike",
+        "date": "2014-10-18",
+        "points": [
+            {
+                "lat": 46.70303,
+                "long": 7.43248
+            }
+        ],
+        "photoUrl": "2014/2014-10-18-Bürgle"
+    },
+    {
+        "title": "Wendenstöcke Spasspartout",
+        "type": "Climb",
+        "date": "2014-10-19",
+        "points": [
+            {
+                "lat": 46.76373,
+                "long": 8.40282
+            }
+        ],
+        "photoUrl": "2014/2014-10-19-Wendenstöcke-Spasspartout"
+    },
+    {
+        "title": "Wendenstöcke Excalibur",
+        "type": "Climb",
+        "date": "2014-11-01",
+        "points": [
+            {
+                "lat": 46.75741,
+                "long": 8.37843
+            }
+        ],
+        "photoUrl": "2014/2014-11-01-Excalibur"
+    },
+    {
+        "title": "Hintisberg",
+        "type": "Climb",
+        "date": "2014-11-02",
+        "points": [
+            {
+                "lat": 46.65854,
+                "long": 7.94655
+            }
+        ],
+        "photoUrl": "2014/2014-11-02-Hintisberg-3"
     },
     {
         "title": "20km de Lausanne",
@@ -1018,8 +1626,13 @@
     },
     {
         "tracks": [
-            "2016-11-20__Hike__Ovronnaz__1.gpx",
-            "2016-11-20__Hike__Ovronnaz__2.gpx"
+            "2016-11-20__Hike__Ovronnaz.gpx"
+        ],
+        "photoUrl": "2016/2016-11-20-Ovronnaz"
+    },
+    {
+        "tracks": [
+            "2016-11-20__Snowshoe__Loutse.gpx"
         ],
         "photoUrl": "2016/2016-11-20-Ovronnaz"
     },
@@ -1205,12 +1818,36 @@
     },
     {
         "tracks": [
+            "2017-07-30__Hike__Binntalhütte.gpx"
+        ],
+        "photoUrl": "2017/2017-07-31-Ofenhorn"
+    },
+    {
+        "tracks": [
+            "2017-07-31__Hochtour__Ofenhorn.gpx"
+        ],
+        "photoUrl": "2017/2017-07-31-Ofenhorn"
+    },
+    {
+        "tracks": [
             "2017-08-19__Run__Mountain_Man_Leg_3.gpx"
         ],
         "photoUrl": "2017-08-19-Mountain-Man-Hochstollen",
         "stravaUrl": [
             1141721094
         ]
+    },
+    {
+        "title": "Lumio",
+        "type": "Bouldering",
+        "date": "2017-09-04",
+        "points": [
+            {
+                "lat": 42.58136797624949,
+                "long": 8.802566002468293
+            }
+        ],
+        "photoUrl": "2017/2017-09-15-Corsica"
     },
     {
         "title": "Tour de Turghiu/Cappo Rosso",
@@ -1220,6 +1857,18 @@
             {
                 "lat": 42.23656,
                 "long": 8.55212
+            }
+        ],
+        "photoUrl": "2017/2017-09-15-Corsica"
+    },
+    {
+        "title": "Capineru",
+        "type": "Bouldering",
+        "date": "2017-09-10",
+        "points": [
+            {
+                "lat": 41.45728925686359,
+                "long": 9.040080289033668
             }
         ],
         "photoUrl": "2017/2017-09-15-Corsica"
@@ -1580,6 +2229,11 @@
     },
     {
         "tracks": [
+            "2019-01-19__Skitour__Braunwald.gpx"
+       ]
+    },
+    {
+        "tracks": [
             "2019-01-20__Skitour__Fil_da_Rueun.gpx"
         ],
         "photoUrl": "2019/2019-01-20-Fil-da-Rueun",
@@ -1645,6 +2299,11 @@
     },
     {
         "tracks": [
+            "2019-03-17__Snowshoe__Dreibündenstein.gpx"
+       ]
+    },
+    {
+        "tracks": [
             "2019-04-06__Skitour__Munt_Griatschouls.gpx"
         ],
         "photoUrl": "2019/2019-04-06-S-Chanf",
@@ -1659,6 +2318,11 @@
         "stravaUrl": [
             2272091306
         ]
+    },
+    {
+        "tracks": [
+            "2019-04-08__Skitour__Davos_Jatzhütte.gpx"
+       ]
     },
     {
         "tracks": [
@@ -2247,18 +2911,6 @@
         ]
     },
     {
-        "title": "Lagginhorn",
-        "type": "Hochtour",
-        "date": "2014-07-25",
-        "points": [
-            {
-                "lat": 46.15707,
-                "long": 8.00307
-            }
-        ],
-        "photoUrl": "2020/2020-07-25-Lagginhorn-Attempt"
-    },
-    {
         "tracks": [
             "2020-07-28__Hochtour__Wätterhore.gpx"
         ],
@@ -2462,7 +3114,7 @@
     },
     {
         "tracks": [
-            "2021-01-23__Hike__Arnisee.gpx"
+            "2021-01-23__Snowshoe__Arnisee.gpx"
         ],
         "photoUrl": "2021/2021-01-23-Arnisee"
     },

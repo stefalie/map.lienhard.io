@@ -21,12 +21,13 @@ import re
 # TODO: Allow outputting the json object again (potentially filtered and reordered by
 # date or category).
 # TODO: Consider adding categories for travel destinations and concerts too.
-# TODO: Choose own colors for Hochtour, ViaFerrata, and WinterClimb categories.
+# TODO: Choose own colors for Bouldering, Hochtour, ViaFerrata, Snowshoe, and WinterClimb categories.
 # TODO: Consider having the category per tracks or point instead of per entry (somtimes
 # there is a two-(or-more)-part outing where each part is of a different type).
 # TODO: Somehow display overlapping markers on the SwissTopo map. There are several
 # climbs on the certain summits with exactly the same coordintes, but only one is
-# displayed.
+# displayed. Check for identical points, spread them out radially.
+# TODO: Try a Google Maps variant. Use the terrain mode.
 
 kml_title = "Cheryl &amp; Stefan's Outings"
 input_json_file = "outings.json"
@@ -47,8 +48,10 @@ alpha = 0.9
 styles = {
         "Hike"        : (255,   0,   0, alpha),  # Red
         "ViaFerrata"  : (255,   0,   0, alpha),  # Red (same as Hike)
+        "Snowshoe"    : (255,   0,   0, alpha),  # Red (same as Hike)
         "Hochtour"    : (139,   0, 139, alpha),  # DarkMagenta
         "Climb"       : (139,   0, 139, alpha),  # DarkMagenta (same as Hochtour)
+        "Bouldering"  : (139,   0, 139, alpha),  # DarkMagenta (same as Hochtour)
         "WinterClimb" : (139,   0, 139, alpha),  # DarkMagenta (same as Hochtour)
         "Skitour"     : (  0,   0, 255, alpha),  # Blue
         "Run"         : ( 55, 180,   0, alpha),  # Green
