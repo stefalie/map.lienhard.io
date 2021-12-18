@@ -3815,5 +3815,151 @@
         "stravaUrl": [
             5636844765
         ]
+    },
+    {
+        "tracks": [
+            "2021-07-30__Hike__Altein_See.gpx"
+        ],
+        "photoUrl": "2021/2021-07-30-Altein-See"
+    },
+    {
+        "tracks": [
+            "2021-07-31__Hike__Gottardo.gpx"
+        ],
+        "photoUrl": "2021/2021-07-31-Gottardo-5-Lakes",
+        "stravaUrl": [
+            5717812226
+        ]
+    },
+    {
+        "tracks": [
+            "2021-08-06__Hike__Vermigelhütte.gpx"
+        ]
+    },
+    {
+        "tracks": [
+            "2021-08-11__Hike__Lai_Blau.gpx"
+        ]
+    },
+    {
+        "tracks": [
+            "2021-08-13__Hike__Tällihütte.gpx"
+        ],
+        "photoUrl": "2021/2021-08-14-Tällihütte-Triftsee",
+        "stravaUrl": [
+            5803801175
+        ]
+    },
+    {
+        "tracks": [
+            "2021-08-14__Hike__Triftsee.gpx"
+        ],
+        "photoUrl": "2021/2021-08-14-Tällihütte-Triftsee",
+        "stravaUrl": [
+            5803801519
+        ]
+    },
+    {
+        "title": "Klausenpass Niemerstafel",
+        "type": "Climb",
+        "date": "2021-08-15",
+        "points": [
+            {
+                "lat": 46.86609,
+                "long": 8.84514
+            }
+        ]
+    },
+    {
+        "tracks": [
+            "2021-08-20__Hike__Pizolhütte_5_Seen.gpx"
+        ]
+    },
+    {
+        "tracks": [
+            "2021-08-26__Hike__Mythen_Trilogie.gpx"
+        ],
+        "photoUrl": "2021/2021-08-26-Mythen-Trilogie",
+        "stravaUrl": [
+            5857482082
+        ]
+    },
+    {
+        "tracks": [
+            "2021-08-27__Hike__Seerenbachfälle.gpx"
+        ]
+    },
+    {
+        "tracks": [
+            "2021-08-29__Hike__Sonchaux.gpx"
+        ],
+        "stravaUrl": [
+            5889669152
+        ]
+    },
+    {
+        "tracks": [
+            "2021-08-30__Hike__Rochers_de_Naye.gpx"
+        ],
+        "stravaUrl": [
+            5889669353
+        ]
+    },
+    {
+        "title": "Hintisberg",
+        "type": "Climb",
+        "date": "2021-09-06",
+        "points": [
+            {
+                "lat": 46.65854,
+                "long": 7.94655
+            }
+        ],
+        "photoUrl": "2021/2021-09-06-Hintisberg"
+    },
+    {
+        "tracks": [
+            "2021-09-07__Hike__Eigertrail.gpx"
+        ],
+        "photoUrl": "2021/2021-09-07-Eigertrail",
+        "stravaUrl": [
+            5941418578
+        ]
+    },
+    {
+        "tracks": [
+            "2021-09-08__Hike__Bäregg.gpx"
+        ],
+        "photoUrl": "2021/2021-09-08-Bäregg",
+        "stravaUrl": [
+            5941419014
+        ]
+    },
+    {
+        "title": "Pic de Grandval",
+        "type": "Climb",
+        "date": "2021-09-13",
+        "points": [
+            {
+                "lat": 47.29378,
+                "long": 7.42532
+            }
+        ],
+        "photoUrl": "2021/2021-09-13-Pic-de-Grandval"
+    },
+    {
+        "tracks": [
+            "2021-09-18__Hike__Bürgle.gpx"
+        ],
+        "photoUrl": "2021/2021-09-18-Bürgle",
+        "stravaUrl": [
+            5981224812
+        ]
+    },
+    {
+        "tracks": [
+            "2021-09-25__Hike__Leutschachhütte.gpx"
+        ],
+        "photoUrl": "2021/2021-09-25-Leutschachhütte"
     }
 ]
