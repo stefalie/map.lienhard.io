@@ -8,8 +8,9 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
+				<color>E50000FF</color>
 				<Icon>
-					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMjU1LDAsMCwwLjkpIiBkPSJNNTAgMTRhMjQgMjQgMCAwMC0yNCAyNGMwIDEzLjMgMjQgNDggMjQgNDhzMjQtMzQuOCAyNC00OGEyNCAyNCAwIDAwLTI0LTI0em0wIDM2LjVhMTIgMTIgMCAxMTAtMjQgMTIgMTIgMCAwMTAgMjR6Ii8+PC9zdmc+</href>
+					<href>https://map.lienhard.io/marker.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -20,8 +21,9 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
+				<color>E50000FF</color>
 				<Icon>
-					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMjU1LDAsMCwwLjkpIiBkPSJNNTAgMTRhMjQgMjQgMCAwMC0yNCAyNGMwIDEzLjMgMjQgNDggMjQgNDhzMjQtMzQuOCAyNC00OGEyNCAyNCAwIDAwLTI0LTI0em0wIDM2LjVhMTIgMTIgMCAxMTAtMjQgMTIgMTIgMCAwMTAgMjR6Ii8+PC9zdmc+</href>
+					<href>https://map.lienhard.io/marker.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -32,8 +34,9 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
+				<color>E50000FF</color>
 				<Icon>
-					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMjU1LDAsMCwwLjkpIiBkPSJNNTAgMTRhMjQgMjQgMCAwMC0yNCAyNGMwIDEzLjMgMjQgNDggMjQgNDhzMjQtMzQuOCAyNC00OGEyNCAyNCAwIDAwLTI0LTI0em0wIDM2LjVhMTIgMTIgMCAxMTAtMjQgMTIgMTIgMCAwMTAgMjR6Ii8+PC9zdmc+</href>
+					<href>https://map.lienhard.io/marker.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -44,8 +47,9 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
+				<color>E58B008B</color>
 				<Icon>
-					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMTM5LDAsMTM5LDAuOSkiIGQ9Ik01MCAxNGEyNCAyNCAwIDAwLTI0IDI0YzAgMTMuMyAyNCA0OCAyNCA0OHMyNC0zNC44IDI0LTQ4YTI0IDI0IDAgMDAtMjQtMjR6bTAgMzYuNWExMiAxMiAwIDExMC0yNCAxMiAxMiAwIDAxMCAyNHoiLz48L3N2Zz4=</href>
+					<href>https://map.lienhard.io/marker.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -56,8 +60,9 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
+				<color>E58B008B</color>
 				<Icon>
-					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMTM5LDAsMTM5LDAuOSkiIGQ9Ik01MCAxNGEyNCAyNCAwIDAwLTI0IDI0YzAgMTMuMyAyNCA0OCAyNCA0OHMyNC0zNC44IDI0LTQ4YTI0IDI0IDAgMDAtMjQtMjR6bTAgMzYuNWExMiAxMiAwIDExMC0yNCAxMiAxMiAwIDAxMCAyNHoiLz48L3N2Zz4=</href>
+					<href>https://map.lienhard.io/marker.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -68,8 +73,9 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
+				<color>E58B008B</color>
 				<Icon>
-					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMTM5LDAsMTM5LDAuOSkiIGQ9Ik01MCAxNGEyNCAyNCAwIDAwLTI0IDI0YzAgMTMuMyAyNCA0OCAyNCA0OHMyNC0zNC44IDI0LTQ4YTI0IDI0IDAgMDAtMjQtMjR6bTAgMzYuNWExMiAxMiAwIDExMC0yNCAxMiAxMiAwIDAxMCAyNHoiLz48L3N2Zz4=</href>
+					<href>https://map.lienhard.io/marker.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -80,8 +86,9 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
+				<color>E58B008B</color>
 				<Icon>
-					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMTM5LDAsMTM5LDAuOSkiIGQ9Ik01MCAxNGEyNCAyNCAwIDAwLTI0IDI0YzAgMTMuMyAyNCA0OCAyNCA0OHMyNC0zNC44IDI0LTQ4YTI0IDI0IDAgMDAtMjQtMjR6bTAgMzYuNWExMiAxMiAwIDExMC0yNCAxMiAxMiAwIDAxMCAyNHoiLz48L3N2Zz4=</href>
+					<href>https://map.lienhard.io/marker.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -92,8 +99,9 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
+				<color>E5FF0000</color>
 				<Icon>
-					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMCwwLDI1NSwwLjkpIiBkPSJNNTAgMTRhMjQgMjQgMCAwMC0yNCAyNGMwIDEzLjMgMjQgNDggMjQgNDhzMjQtMzQuOCAyNC00OGEyNCAyNCAwIDAwLTI0LTI0em0wIDM2LjVhMTIgMTIgMCAxMTAtMjQgMTIgMTIgMCAwMTAgMjR6Ii8+PC9zdmc+</href>
+					<href>https://map.lienhard.io/marker.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -104,8 +112,9 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
+				<color>E500B437</color>
 				<Icon>
-					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoNTUsMTgwLDAsMC45KSIgZD0iTTUwIDE0YTI0IDI0IDAgMDAtMjQgMjRjMCAxMy4zIDI0IDQ4IDI0IDQ4czI0LTM0LjggMjQtNDhhMjQgMjQgMCAwMC0yNC0yNHptMCAzNi41YTEyIDEyIDAgMTEwLTI0IDEyIDEyIDAgMDEwIDI0eiIvPjwvc3ZnPg==</href>
+					<href>https://map.lienhard.io/marker.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -116,8 +125,9 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
+				<color>E50088FF</color>
 				<Icon>
-					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMjU1LDEzNiwwLDAuOSkiIGQ9Ik01MCAxNGEyNCAyNCAwIDAwLTI0IDI0YzAgMTMuMyAyNCA0OCAyNCA0OHMyNC0zNC44IDI0LTQ4YTI0IDI0IDAgMDAtMjQtMjR6bTAgMzYuNWExMiAxMiAwIDExMC0yNCAxMiAxMiAwIDAxMCAyNHoiLz48L3N2Zz4=</href>
+					<href>https://map.lienhard.io/marker.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -128,8 +138,9 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
+				<color>E5D8E300</color>
 				<Icon>
-					<href>data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ4IiB3aWR0aD0iNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxwYXRoIGZpbGw9InJnYmEoMCwyMjcsMjE2LDAuOSkiIGQ9Ik01MCAxNGEyNCAyNCAwIDAwLTI0IDI0YzAgMTMuMyAyNCA0OCAyNCA0OHMyNC0zNC44IDI0LTQ4YTI0IDI0IDAgMDAtMjQtMjR6bTAgMzYuNWExMiAxMiAwIDExMC0yNCAxMiAxMiAwIDAxMCAyNHoiLz48L3N2Zz4=</href>
+					<href>https://map.lienhard.io/marker.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
