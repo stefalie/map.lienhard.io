@@ -8,9 +8,8 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
-				<color>E50000FF</color>
 				<Icon>
-					<href>https://map.lienhard.io/marker.svg</href>
+					<href>https://map.lienhard.io/marker_Hike.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -21,9 +20,8 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
-				<color>E50000FF</color>
 				<Icon>
-					<href>https://map.lienhard.io/marker.svg</href>
+					<href>https://map.lienhard.io/marker_ViaFerrata.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -34,9 +32,8 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
-				<color>E50000FF</color>
 				<Icon>
-					<href>https://map.lienhard.io/marker.svg</href>
+					<href>https://map.lienhard.io/marker_Snowshoe.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -47,9 +44,8 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
-				<color>E58B008B</color>
 				<Icon>
-					<href>https://map.lienhard.io/marker.svg</href>
+					<href>https://map.lienhard.io/marker_Hochtour.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -60,9 +56,8 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
-				<color>E58B008B</color>
 				<Icon>
-					<href>https://map.lienhard.io/marker.svg</href>
+					<href>https://map.lienhard.io/marker_Climb.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -73,9 +68,8 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
-				<color>E58B008B</color>
 				<Icon>
-					<href>https://map.lienhard.io/marker.svg</href>
+					<href>https://map.lienhard.io/marker_Bouldering.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -86,9 +80,8 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
-				<color>E58B008B</color>
 				<Icon>
-					<href>https://map.lienhard.io/marker.svg</href>
+					<href>https://map.lienhard.io/marker_WinterClimb.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -99,9 +92,8 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
-				<color>E5FF0000</color>
 				<Icon>
-					<href>https://map.lienhard.io/marker.svg</href>
+					<href>https://map.lienhard.io/marker_Skitour.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -112,9 +104,8 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
-				<color>E500B437</color>
 				<Icon>
-					<href>https://map.lienhard.io/marker.svg</href>
+					<href>https://map.lienhard.io/marker_Run.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -125,9 +116,8 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
-				<color>E50088FF</color>
 				<Icon>
-					<href>https://map.lienhard.io/marker.svg</href>
+					<href>https://map.lienhard.io/marker_Bike.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>
@@ -138,9 +128,8 @@
 				<width>8</width>
 			</LineStyle>
 			<IconStyle>
-				<color>E5D8E300</color>
 				<Icon>
-					<href>https://map.lienhard.io/marker.svg</href>
+					<href>https://map.lienhard.io/marker_XC-Ski.svg</href>
 				</Icon>
 				<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 			</IconStyle>

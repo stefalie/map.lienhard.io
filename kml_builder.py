@@ -84,9 +84,8 @@ template_style = '''
 		<width>{width}</width>
 	</LineStyle>
 	<IconStyle>
-		<color>{color}</color>
 		<Icon>
-			<href>https://map.lienhard.io/marker.svg</href>
+			<href>https://map.lienhard.io/{icon_file}</href>
 		</Icon>
 		<hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
 	</IconStyle>
@@ -129,8 +128,8 @@ template_linestring = '''
 # passed it through https://jakearchibald.github.io/svgomg/.
 # Unfortunately the <color> tags inside <IconStyle> seem to be ignored on geo
 # admin, therefore we replicate the svg icon for the different fill colors.
-#marker_icon_svg = '<svg height="{size}" width="{size}" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path fill="rgba({r},{g},{b},{a})" d="M50 14a24 24 0 00-24 24c0 13.3 24 48 24 48s24-34.8 24-48a24 24 0 00-24-24zm0 36.5a12 12 0 110-24 12 12 0 010 24z"/></svg>'
-#
+marker_icon_svg = '<svg height="{size}" width="{size}" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path fill="rgba({r},{g},{b},{a})" d="M50 14a24 24 0 00-24 24c0 13.3 24 48 24 48s24-34.8 24-48a24 24 0 00-24-24zm0 36.5a12 12 0 110-24 12 12 0 010 24z"/></svg>'
+
 #def svg_base64_data_url(color):
 #    marker_icon_svg_filled = marker_icon_svg.format(size=marker_icon_size, r=color[0], g=color[1], b=color[2], a=color[3])
 #    marker_icon_b64 = base64.b64encode(marker_icon_svg_filled.encode("ascii"))
@@ -141,7 +140,13 @@ def kml_hex_color(c):
     return f"{int(c[3]*255):0{2}X}{c[2]:0{2}X}{c[1]:0{2}X}{c[0]:0{2}X}"
 
 def generate_style(style):
-    return template_style.format(style_name=style[0], color=kml_hex_color(style[1]), width=line_width) #, icon_url=svg_base64_data_url(style[1]))
+    # TODO: ugh side effects
+    color = style[1]
+    marker_icon_svg_filled = marker_icon_svg.format(size=marker_icon_size, r=color[0], g=color[1], b=color[2], a=color[3])
+    ouptut_icon_file = f"marker_{style[0]}.svg"
+    with open(ouptut_icon_file, "w", encoding="utf8") as out_file:
+        out_file.write(marker_icon_svg_filled)
+    return template_style.format(style_name=style[0], color=kml_hex_color(style[1]), width=line_width, icon_file=ouptut_icon_file) #, icon_url=svg_base64_data_url(style[1]))
 kml_styles = "\n".join(map(generate_style, styles.items()))
 
 date_fmt = "([0-9]{4}-[0-9]{2}-[0-9]{2})"  # TODO: Could be more restrictive.
